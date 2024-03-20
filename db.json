@@ -1,0 +1,22 @@
+
+
+
+
+
+{
+    "drinks": [
+    {
+   "id": 1,     
+   "category": "test",
+   "ingredients": "test",
+   "name": "test",
+   "image": "test",
+   "history": null,
+   "instructions": null
+   
+    },
+    ]
+}
+
+
+
