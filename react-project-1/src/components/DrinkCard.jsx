@@ -29,7 +29,7 @@ const handleCheers = () => {
 
  return (
     <div className="card">
-        <NavLink to={`/drink/:${id}`}>
+        <NavLink to={`/drink/${id}`}>
             <h2>{name}</h2>
         </NavLink>
         <img
