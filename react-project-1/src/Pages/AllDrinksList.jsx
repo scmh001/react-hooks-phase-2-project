@@ -1,8 +1,10 @@
 import React, {useState, useEffect} from 'react'
 import DrinkCard from '../components/DrinkCard'
+import Search from '../components/Search'
 
 export default function AllDrinksList() {
   const [allDrinks, setAllDrinks] = useState([])
+  const [search, setSearch] = useState('')
   
   //TODO look into proxy
   useEffect(() => {
@@ -28,12 +30,23 @@ export default function AllDrinksList() {
     }))
   }
   
- 
- 
+  const handleSearch = (e) => {
+    setSearch(e.target.value)
+  }
+
+  const filteredDrinks = allDrinks.filter(drink => {
+    if(drink.name.toLowerCase().includes(search.toLowerCase())){
+      return true
+    }else {
+      return false
+    }
+  })
+
  return (
     <>
       <h2>Drinks</h2>
-      {allDrinks.map(drink => {
+      <Search search={search} handleSearch={handleSearch} />
+      {filteredDrinks.map(drink => {
     return <DrinkCard drink={drink} handleAddCheers={handleAddCheers} key={drink.id} />
   })}
     </>
