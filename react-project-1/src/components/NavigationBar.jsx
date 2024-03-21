@@ -1,4 +1,4 @@
-
+import React from 'react'
 import { NavLink } from 'react-router-dom'
 
 export default function NavigationBar() {
@@ -22,7 +22,7 @@ export default function NavigationBar() {
             <NavLink to={'/drinktracker'} className="button" >
 				Drink Tracker 
 			</NavLink>
-
+			
     </header>
   )
 }
