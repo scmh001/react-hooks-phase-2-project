@@ -1,13 +1,11 @@
 # Drink Galore 
 
 ### One stop shop for all beverage information.
-Drinks galore is simple website for beverage lovers. User can search by category and ingredients. User can add drinks to their own desire.
+Drinks galore is simple website for beverage lovers. User can search through their favorite beverages. User can add drinks to their own desire. 
 
 
-## User Stories
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Viverra aliquet eget sit amet tellus cras adipiscing enim.
 
-## Deliverables
+## Deliverables / User Stories
 > As a user I can:
 * View drink top 5 drinks of several categories
 * Like / clap to "upvote".
@@ -35,11 +33,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Component Tree 
 <img src=phase-2-project-grp-1/src/assets/images/wireframeNew.PNG>
 
+## API / JSON
+<img src=phase-2-project-grp-1/src/assets/images/dbsh.PNG>
+
 ## Trello Board
 <img src=phase-2-project-grp-1/src/assets/images/placeholder.jpg>
 
 ## Github Link
-<img src=phase-2-project-grp-1/src/assets/images/placeholder.jpg>
+* https://github.com/scmh001/react-hooks-phase-2-project
 
 ## Collaborators
 
