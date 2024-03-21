@@ -1,4 +1,4 @@
-import React from 'react'
+
 import DrinkVolumeInputTracker from './components/DrinkVolumeInputTracker'
 
 function App() {
