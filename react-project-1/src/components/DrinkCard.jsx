@@ -1,8 +1,8 @@
 import React from 'react'
 
 export default function DrinkCard({drink}) {
-  const {name, image, ingredients, cheers} = drink
-  
+const {name, image, cheers, ingredients} = drink
+console.log(drink)
  return (
     <div className="card">
     <h2>{name}</h2>
