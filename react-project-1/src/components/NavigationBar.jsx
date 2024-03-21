@@ -1,29 +1,26 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 
-export default function NavBar() {
+export default function NavigationBar() {
   return (
     <header>
-        <h1>
-				<span className="logo">{"//"}</span>
-				Drinks Galore
-			</h1>
+        <h1>Drinks Galore</h1>
 			{/* <button onClick={updateDarkMode}>{darkMode ? "Light Mode" : "Dark Mode"}</button> */}
 
 			<NavLink to={'/'} className="button">
-				Home
+				Home 
 			</NavLink>
 			<NavLink to={'/about'} className="button" >
-				About
+				About 
 			</NavLink>
 			<NavLink to={'/drinkslist'} className="button" >
-				All Drinks
+				All Drinks 
 			</NavLink>
             <NavLink to={'/newpost'} className="button" >
-				Add New Drink
+				Add New Drink 
 			</NavLink>
             <NavLink to={'/drinktracker'} className="button" >
-				Drink Tracker
+				Drink Tracker 
 			</NavLink>
 
     </header>
