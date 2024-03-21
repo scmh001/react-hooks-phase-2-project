@@ -1,157 +1,154 @@
 {
     "drinks": [
-        {
-        "id": 1,  
-        "name": "Manhattan",   
+      {
+        "id": "1",
+        "name": "Manhattan",
         "category": "Alcholic",
         "ingredients": "2 ounces rye whiskey, 1 ounce sweet vermouth, 2 dashes Angostura bitters, Garnish: brandied cherry (or lemon twist, if preferred)",
         "image": "https://www.liquor.com/thmb/GYAzfmYiAo4EZ38Ij_UrpgTPeNw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manhattan-4000x4000-primary-ig-9c3d894510284e9d8fbd9c518d00790b.jpg",
-        "cheers": 5,
+        "cheers": 12,
         "history": null,
         "instructions": null
-        
-        },
-        {
-        "id": 2,  
-        "name": "Shirley Temple",   
+      },
+      {
+        "id": "2",
+        "name": "Shirley Temple",
         "category": "Kids Drink",
         "ingredients": "1 ounce grenadine, small ice cubes, 4 ounces lemon-lime soda (such as 7UP or Sprite), chilled, 4 ounces ginger ale , chilled, maraschino cherries , for garnish",
         "image": "https://www.blessthismessplease.com/wp-content/uploads/2022/05/shirley-temple-recipe-2.jpg",
         "cheers": 1,
         "history": null,
         "instructions": null
-        },
-        {
-        "id": 3,  
-        "name": "Ocean Water",   
+      },
+      {
+        "id": "3",
+        "name": "Ocean Water",
         "category": "Kids Drink",
         "ingredients": "3 ounces blue fruit punch, 2 ounces 7UP, 2 teaspoons sweetened lime juice, 1 tablespoon pineapple juice, red gummy fish for garnish, lime wedges",
         "image": "https://southernbite.com/wp-content/uploads/2017/05/Ocean-Water.jpg",
-        "cheers": 25,
+        "cheers": 27,
         "history": null,
-        "instructions": null   
-        },
-        {
-        "id": 4,  
-        "name": "Pineapple Sunrise",   
+        "instructions": null
+      },
+      {
+        "id": "4",
+        "name": "Pineapple Sunrise",
         "category": "Kids Drink",
         "ingredients": "4 ounces pineapple juice, 2 ounces 7UP, 1 tablespoon grenadine, maraschino cherries for garnish",
         "image": "https://southernbite.com/wp-content/uploads/2017/05/Kid-Friendly-Cocktails-Pinterest.jpg",
-        "cheers": 15,
+        "cheers": 17,
         "history": null,
-        "instructions": null  
-        },
-        {
-        "id": 5,  
-        "name": "Watermelon Limeade",   
+        "instructions": null
+      },
+      {
+        "id": "5",
+        "name": "Watermelon Limeade",
         "category": "Non-Alcoholic",
         "ingredients": "4 cups cubed, peeled, seedless watermelon, 1/2 cup fresh lime juice, 1 teaspoon simple syrup, lime wheels for garnish",
         "image": "https://www.foodandwine.com/thmb/Y952mUEgugj7Xmw1uhqI1K9H6jo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Watermelon-Limeade-FT-RECIPE0623-e64f7037068749feba6442f1bddb4b8f.jpg",
         "cheers": 3,
         "history": null,
-        "instructions": null   
-        },{
-        "id": 6,  
-        "name": "Sweet Tea",   
+        "instructions": null
+      },
+      {
+        "id": "6",
+        "name": "Sweet Tea",
         "category": "Non-Alcoholic",
         "ingredients": "12 individual tea bags, 1 cup granulated sugar, Ice, Fresh mint leaves or lemon slices (optional)",
         "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_1022/k%2Farchive%2Fa578ef028e789e8e15c61a51916dc7010c0a72ad",
         "cheers": 5,
         "history": null,
-        "instructions": null   
-        },
-        {
-        "id": 7,  
-        "name": "Margarita",   
+        "instructions": null
+      },
+      {
+        "id": "7",
+        "name": "Margarita",
         "category": "Alcholic",
         "ingredients": "1 ½ oz tequila, 1 oz Triple Sec or Cointreau, ¾ oz lime juice",
         "image": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Patron-Margarita-002.jpg",
         "cheers": 11,
         "history": null,
-        "instructions": null  
-        },
-        {
-        "id": 8,  
-        "name": "Moscow Mule",   
+        "instructions": null
+      },
+      {
+        "id": "8",
+        "name": "Moscow Mule",
         "category": "Alcholic",
         "ingredients": "2 oz vodka, 4 oz ginger beer, ½ oz lime juice",
         "image": "https://www.acouplecooks.com/wp-content/uploads/2019/06/Moscow-Mule-062.jpg",
-        "cheers": 24,
+        "cheers": 27,
         "history": null,
-        "instructions": null  
-        },
-        {
-        "id": 9,  
-        "name": "Oreo Milkshake",   
+        "instructions": null
+      },
+      {
+        "id": "9",
+        "name": "Oreo Milkshake",
         "category": "Kids Drink",
         "ingredients": "6 chocolate sandwich cookies (such as Oreo®), 3 scoops vanilla ice cream, ¾ cup milk",
         "image": "https://www.allrecipes.com/thmb/LoXJbnPLMX-Agcb5OC1unM28J_s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2028980-7f016ddf84fa453fbd3161e4e277028c.jpg",
         "cheers": 6,
         "history": null,
-        "instructions": null  
-        },
-        {
-        "id": 10,  
-        "name": "Mocha Latte",   
+        "instructions": null
+      },
+      {
+        "id": "10",
+        "name": "Mocha Latte",
         "category": "Non-Alcoholic",
         "ingredients": "3 ounces espresso, or ½ cup strong coffee, 6 ounces whole milk, or milk of choice, 2 Tablespoons chocolate syrup",
         "image": "https://www.forkinthekitchen.com/wp-content/uploads/2022/06/220518.homemade.mocha_.latte-6728-683x1024.jpg",
         "cheers": 8,
         "history": null,
-        "instructions": null  
-        },
-        {
-        "id": 11,  
-        "name": "Masala Chai",   
+        "instructions": null
+      },
+      {
+        "id": "11",
+        "name": "Masala Chai",
         "category": "Non-Alcoholic",
         "ingredients": "1 whole cinnamon stick, 6-8 green cardamom pods, 1 tsp whole black peppercorns, 3-4 whole cloves, 2 ½ cups water, 2 Tbsp grated ginger, 3 Tbsp loose leaf black tea",
         "image": "https://www.teaforturmeric.com/wp-content/uploads/2021/11/Masala-Chai-Tea-9.jpg",
         "cheers": 9,
         "history": null,
-        "instructions": null  
-        },
-        {
-        "id": 12,  
-        "name": "Cosmopolitan Cocktail",   
+        "instructions": null
+      },
+      {
+        "id": "12",
+        "name": "Cosmopolitan Cocktail",
         "category": "Alcoholic",
         "ingredients": "1 ounce vodka or citron vodka, 1 ounce 100% cranberry juice (unsweetened), ½ ounce Cointreau, ½ ounce fresh lime juice, 1 teaspoon simple syrup, garnish: lime wheel",
         "image": "https://www.acouplecooks.com/wp-content/uploads/2019/12/Cosmopolitan-Cocktail-006.jpg",
         "cheers": 10,
         "history": null,
-        "instructions": null  
-        },
-        {
-        "id": 13,  
-        "name": "Gimlet",   
+        "instructions": null
+      },
+      {
+        "id": "13",
+        "name": "Gimlet",
         "category": "Alcoholic",
         "ingredients": "2 ounces gin, ½ ounce lime juice, ½ ounce simple syrup or pure maple syrup, Splash of soda water (optional)",
         "image": "https://www.acouplecooks.com/wp-content/uploads/2019/05/Gimlet-002.jpg",
-        "cheers": 22,
+        "cheers": 27,
         "history": null,
-        "instructions": null  
-        },
-        {
-        "id": 14,  
-        "name": "Berry Delicious Smoothie",   
+        "instructions": null
+      },
+      {
+        "id": "14",
+        "name": "Berry Delicious Smoothie",
         "category": "Non-Alcoholic",
         "ingredients": "2 cups frozen mixed berries, 1 cup strawberry flavored yogurt, 1 banana, sliced, 1 cup milk, ½ teaspoon white sugar (Optional)",
         "image": "https://www.allrecipes.com/thmb/CJSeVzY-if0UVYd3wU5VnWg391g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2275869-f5c32aaf246a44e18ecf5dd602005713.jpg",
         "cheers": 3,
         "history": null,
-        "instructions": null  
-        },
-        {
-        "id": 15,  
-        "name": "Butterbeer",   
+        "instructions": null
+      },
+      {
+        "id": "15",
+        "name": "Butterbeer",
         "category": "Kids Drink",
         "ingredients": "1/2 cup heavy cream (for the top), 1/4 teaspoon ground cinnamon or pumpkin pie spice, 1 pinch salt, 2 tablespoons butterscotch topping, 1 to 2 teaspoons lemon juice, 6 (12 ounce) bottles cream soda",
         "image": "https://www.allrecipes.com/thmb/PEaOc-W6sgYDhpmaIIULWKlLywY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/219139-butterbeer-R0300-4x3-3bdeffd9643c4518b3e2331688754725.jpg",
-        "cheers": 12,
+        "cheers": 13,
         "history": null,
-        "instructions": null  
-        }
+        "instructions": null
+      }
     ]
-}
-
-
-
+  }

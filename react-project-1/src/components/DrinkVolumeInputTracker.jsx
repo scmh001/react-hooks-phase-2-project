@@ -1,7 +1,17 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import DrinkVolumeBarGraph from './DrinkVolumeBarGraph';
+
 const DrinkVolumeInputTracker = () => {
-  const [volumes, setVolumes] = useState([{ ounces: '' }]);
+  // Initialize state with data from local storage or default to an initial value
+  const [volumes, setVolumes] = useState(() => {
+    const savedVolumes = localStorage.getItem('volumes');
+    return savedVolumes ? JSON.parse(savedVolumes) : [{ ounces: '' }];
+  });
+
+  // Effect to persist state changes to local storage
+  useEffect(() => {
+    localStorage.setItem('volumes', JSON.stringify(volumes));
+  }, [volumes]);
 
   const handleVolumeChange = (index, event) => {
     const newVolumes = [...volumes];
