@@ -4,6 +4,7 @@ import DrinkCard from '../components/DrinkCard'
 export default function AllDrinksList() {
   const [allDrinks, setAllDrinks] = useState([])
   
+  //TODO look into proxy
   useEffect(() => {
     fetch('http://localhost:4000/drinks')
     .then(res => {
@@ -16,14 +17,25 @@ export default function AllDrinksList() {
     .then(drinkData => setAllDrinks(drinkData))
   }, [])
 
-  const drinkList = allDrinks.map(drink => {
-    return <DrinkCard drink={drink} />
-  })
- console.log(drinkList)
-  return (
+
+  const handleAddCheers = (updatedDrink) => {
+    setAllDrinks(allDrinks.map(drink => {
+      if (drink.id === updatedDrink.id){
+        return updatedDrink
+      }else{
+        return drink
+      }
+    }))
+  }
+  
+ 
+ 
+ return (
     <>
       <h2>Drinks</h2>
-      {drinkList}
+      {allDrinks.map(drink => {
+    return <DrinkCard drink={drink} handleAddCheers={handleAddCheers} key={drink.id} />
+  })}
     </>
   )
 }
