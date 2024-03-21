@@ -1,5 +1,5 @@
 import { useState } from 'react';
-
+import DrinkVolumeBarGraph from './DrinkVolumeBarGraph';
 const DrinkVolumeInputTracker = () => {
   const [volumes, setVolumes] = useState([{ ounces: '' }]);
 
@@ -63,6 +63,7 @@ const DrinkVolumeInputTracker = () => {
         </tfoot>
       </table>
       <button onClick={addVolumeInput}>Add another volume</button>
+      <DrinkVolumeBarGraph volumes={volumes} />
     </div>
   );
 };
