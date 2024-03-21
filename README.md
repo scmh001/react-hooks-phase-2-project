@@ -9,17 +9,17 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 * View the top 5 drinks of several categories
 * Add "cheers" to "upvote" drinks
 * Add drinks with a Drink Input Form
-
+* Liquid Type / Volume Tracker
+* Graphing type / volume
+* Show ingredients with button "Show Ingredients"
+* Filter by least amount of upvotes to greatest vice versa
 
 ## Stretch Deliverables
 > As a user I can:
-* Liquid Type / Volume Tracker
-* Graphing type / volume
 * Expand search specifics
-* Filter by least amount of upvotes to greatest vice versa
-* Clickable button to show instructions
-* Show ingredients with button "Show Ingredients"
+* Add instructions
 * Soundscape per drink category
+* Make Root Beer Tapper Game
 
 ## Project Database:
 <img src="planning/assets/images/dbsh.PNG" />
