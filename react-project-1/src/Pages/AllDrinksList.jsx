@@ -5,7 +5,7 @@ export default function AllDrinksList() {
   const [allDrinks, setAllDrinks] = useState([])
   
   useEffect(() => {
-    fetch('/drinks')
+    fetch('http://localhost:4000/')
     .then(res => {
       if(res.ok){
         return (res.json())
