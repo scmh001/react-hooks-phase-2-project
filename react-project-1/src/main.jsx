@@ -5,9 +5,8 @@ import App from './App.jsx'
 import './index.css'
 import routes from './routes.jsx'
 
-const router = createBrowseRrouter(routes)
+const router = createBrowserRouter(routes)
 
-const root = ReactDOM.createRoot(document.getElementById('root'))
-root.render(
+ReactDOM.createRoot(document.getElementById('root')).render(
   <RouterProvider router={router} />
 )

@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 import Home from './Pages/Home.jsx'
@@ -14,12 +13,14 @@ const routes = [
     path:"/",
     element:<App />,
     children: [
-      {path: "/home", element: <Home />},
+      {path: "/", element: <Home />},
       {path: "/about", element: <About />},
       {path: "/drinkslist", element: <AllDrinksList />},
       {path: "/newpost", element: <NewPost />},
-      {path: "/drink:id", element: <IndividualDrinks />},
+      {path: "/drink/:id", element: <IndividualDrinks />},
       {path: "/drinktracker", element: <DrinkVolumeInputTracker />}
     ],
   },
 ];
+
+export default routes
