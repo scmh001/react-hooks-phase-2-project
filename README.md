@@ -1,26 +1,25 @@
-# Drink Galore 
+# Drinks Galore 
 
-### One stop shop for all beverage information.
-Drinks galore is simple website for beverage lovers. Find and get information on your favorite beverages or track your daily liquid intake. 
-
+### A Dynamic Drinks Glossary
+Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favorite beverages and explore new drink options with Drinks Galore.
 
 
 ## Deliverables / User Stories
 > As a user I can:
-* View drink top 5 drinks of several categories
-* Like / clap to "upvote".
-* Form to add drinks.
+* View the top 5 drinks of several categories
+* Add "cheers" to "upvote" drinks
+* Add drinks with a Drink Input Form
 
 
 ## Stretch Deliverables
 > As a user I can:
-* Liquid Type / Volume Tracker.
-* Graphing type / volume.
-* Expand search specifics.
-* Filter by least amount of upvotes to greatest vice versa.
+* Liquid Type / Volume Tracker
+* Graphing type / volume
+* Expand search specifics
+* Filter by least amount of upvotes to greatest vice versa
 * Clickable button to show instructions
-* Show Ingredients with button "show ingredients".
-* Soundscape per drink category.
+* Show ingredients with button "Show Ingredients"
+* Soundscape per drink category
 
 ## Project Database:
 <img src="planning/assets/images/dbsh.PNG" />
@@ -35,7 +34,7 @@ Drinks galore is simple website for beverage lovers. Find and get information on
 <img src="planning/assets/images/WireFrame.PNG" />
 
 ## API / JSON
-<img src="react-project-1/src/assets/dbsh.PNG" />
+<img src="planning/assets/images/crudapi.PNG" />
 
 ## Trello Board
 <img src="planning/assets/images/trelloboard.PNG" />
@@ -47,4 +46,4 @@ Drinks galore is simple website for beverage lovers. Find and get information on
 
 Jasen Miyamoto ◘ Shukri Hussein ◘ Dainis Michel
 
-jasentm ◘ scmh001 ◘ 
+jasentm ◘ scmh001 ◘ dainiswmichel
