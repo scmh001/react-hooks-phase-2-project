@@ -6,6 +6,7 @@
         "category": "Alcholic",
         "ingredients": "2 ounces rye whiskey, 1 ounce sweet vermouth, 2 dashes Angostura bitters, Garnish: brandied cherry (or lemon twist, if preferred)",
         "image": "https://www.liquor.com/thmb/GYAzfmYiAo4EZ38Ij_UrpgTPeNw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manhattan-4000x4000-primary-ig-9c3d894510284e9d8fbd9c518d00790b.jpg",
+        "cheers": 5,
         "history": null,
         "instructions": null
         
@@ -16,6 +17,7 @@
         "category": "Kids Drink",
         "ingredients": "1 ounce grenadine, small ice cubes, 4 ounces lemon-lime soda (such as 7UP or Sprite), chilled, 4 ounces ginger ale , chilled, maraschino cherries , for garnish",
         "image": "https://www.blessthismessplease.com/wp-content/uploads/2022/05/shirley-temple-recipe-2.jpg",
+        "cheers": 1,
         "history": null,
         "instructions": null
         },
@@ -25,6 +27,7 @@
         "category": "Kids Drink",
         "ingredients": "3 ounces blue fruit punch, 2 ounces 7UP, 2 teaspoons sweetened lime juice, 1 tablespoon pineapple juice, red gummy fish for garnish, lime wedges",
         "image": "https://southernbite.com/wp-content/uploads/2017/05/Ocean-Water.jpg",
+        "cheers": 25,
         "history": null,
         "instructions": null   
         },
@@ -34,6 +37,7 @@
         "category": "Kids Drink",
         "ingredients": "4 ounces pineapple juice, 2 ounces 7UP, 1 tablespoon grenadine, maraschino cherries for garnish",
         "image": "https://southernbite.com/wp-content/uploads/2017/05/Kid-Friendly-Cocktails-Pinterest.jpg",
+        "cheers": 15,
         "history": null,
          "instructions": null  
         },
@@ -43,6 +47,7 @@
         "category": "Non-Alcoholic",
         "ingredients": "4 cups cubed, peeled, seedless watermelon, 1/2 cup fresh lime juice, 1 teaspoon simple syrup, lime wheels for garnish",
         "image": "https://www.foodandwine.com/thmb/Y952mUEgugj7Xmw1uhqI1K9H6jo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Watermelon-Limeade-FT-RECIPE0623-e64f7037068749feba6442f1bddb4b8f.jpg",
+        "cheers": 3,
         "history": null,
         "instructions": null   
         },{
@@ -51,6 +56,7 @@
         "category": "Non-Alcoholic",
         "ingredients": "12 individual tea bags, 1 cup granulated sugar, Ice, Fresh mint leaves or lemon slices (optional)",
         "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_1022/k%2Farchive%2Fa578ef028e789e8e15c61a51916dc7010c0a72ad",
+        "cheers": 5,
         "history": null,
         "instructions": null   
         },
@@ -60,6 +66,7 @@
         "category": "Alcholic",
         "ingredients": "1 ½ oz tequila, 1 oz Triple Sec or Cointreau, ¾ oz lime juice",
         "image": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Patron-Margarita-002.jpg",
+        "cheers": 11,
         "history": null,
         "instructions": null  
         },
