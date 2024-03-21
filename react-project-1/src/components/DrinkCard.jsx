@@ -1,4 +1,5 @@
 import React from 'react'
+import {NavLink} from 'react-router-dom'
 
 export default function DrinkCard({drink, handleAddCheers}) {
 const {name, image, cheers, ingredients, id} = drink
@@ -28,16 +29,18 @@ const handleCheers = () => {
 
  return (
     <div className="card">
-    <h2>{name}</h2>
-    <img
-      src={image}
-      alt={name}
-      className="drink-image"
-    />
-    <button className="like-btn" onClick={handleCheers}>{cheers} Cheers!</button>
-    <button className="ingredients-btn">Show Ingredients</button>
-        <p>{ingredients}</p>
-    {/* <button className="del-btn" onClick={() => handleDeleteClick(toy)}>Donate to GoodWill</button> */}
+        <NavLink to={`/drink/:${id}`}>
+            <h2>{name}</h2>
+        </NavLink>
+        <img
+        src={image}
+        alt={name}
+        className="drink-image"
+        />
+        <button className="like-btn" onClick={handleCheers}>{cheers} Cheers!</button>
+        <button className="ingredients-btn">Show Ingredients</button>
+            <p>{ingredients}</p>
+        {/* <button className="del-btn" onClick={() => handleDeleteClick(toy)}>Donate to GoodWill</button> */}
   </div>
   )
 }
