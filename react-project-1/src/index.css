@@ -1,47 +1,57 @@
 
 
-  .header-image {
-    grid-template-columns: auto;
-    position: relative;
-  }
+.header-image {
+  grid-template-columns: auto;
+  position: relative;
+}
 
-  .logo {
-    max-width: 300px;
-    height: auto;
-  }
+.logo {
+  max-width: 300px;
+  height: auto;
+  transition: transform 0.3s ease;
+}
 
-  header {
-    background-color: #333;
-    color: white;
-    padding: 10px 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.logo:hover {
+  transform: scale(1.1);
+}
+
+header {
+  background-color: #3d1414;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
 nav {
-    display: flex;
+  display: flex;
 }
 
 .button {
-    text-decoration: none;
-    color: white;
-    background-color: #007bff;
-    padding: 10px 15px;
-    margin: 0 5px;
-    border-radius: 5px;
-    transition: background-color 0.3s ease, transform 0.2s ease;
+  text-decoration: none;
+  color: white;
+  background: linear-gradient(45deg, #007bff, #0056b3);
+  padding: 10px 15px;
+  margin: 0 5px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
 .button:hover, .button:focus {
-    background-color: #0056b3;
-    transform: scale(1.05);
+  background: linear-gradient(45deg, #0056b3, #007bff);
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }
 
 .active {
-    background-color: #28a745;
+  background-color: #28a745;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
-
+/* ---------------------------------------------------------------------------------------------------------------------- */
+/* -------------------------------------------------------card---------------------------------------------------------- */
   .card {
     background-color: #f9f9f9;
     border-radius: 8px;
@@ -95,110 +105,61 @@ nav {
   .card p:last-child {
     display: none;
   }
-  /* -----------------------------------------------NewPostPage------------------------------------------------------------------- */
+  /* -----------------------------------------------------card------------------------------------------------------------- */
+  /* ---------------------------------------------------------------------------------------------------------------------- */
+  /* --------------------------------------------------individual----------------------------------------------------------- */
 
-/* Form container styles */
-.form-container {
-    background: white;
+  .full-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f5f5f5;
     padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .drink-image {
+    max-width: 100%;
+    height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 100%;
-    max-width: 500px; 
-  }
-  
-  /* Form elements styling */
-  .form-container label {
-    display: block;
-    margin-bottom: 10px;
-    color: #333; /* Dark grey color for text */
-  }
-  
-  .form-container input[type="text"],
-  .form-container textarea {
-    width: calc(100% - 20px);
-    padding: 10px;
-    margin-top: 5px;
     margin-bottom: 20px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
   }
   
-  .form-container textarea {
-    resize: vertical; /* vertical resize */
+  p {
+    color: #666;
+    font-size: 1.2rem;
+    text-align: center;
+    max-width: 80%;
   }
-  
-  .form-container button {
-    width: 100%;
-    padding: 10px;
-    background-color: #007bff; 
-    color: white;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  .form-container button:hover {
-    background-color: #0056b3; /* shade on hover */
-  }
+  .full-page h1 {
+  margin-top: 0;
+  padding-top: 20px;
+}
 
-  .form-wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background-color: #f7f7f7; 
-  }
-  
-  
- /* Animation keyframes */
-@keyframes slideIn {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-  
-  /* Apply animation to form elements */
-  .form-container label,
-  .form-container input[type="text"],
-  .form-container textarea,
-  .form-container button {
-    opacity: 5; /* Start elements as invisible */
-    animation-fill-mode: forwards; /* final state after animation */
-  }
-  
-  /* Staggered animation delays */
-  .form-container label {
-    animation: slideIn 0.5s ease-out 0.2s;
-  }
-  
-  .form-container input[type="text"] {
-    animation: slideIn 0.5s ease-out 0.4s;
-  }
-  
-  .form-container textarea {
-    animation: slideIn 0.5s ease-out 0.6s;
-  }
-  
-  .form-container button {
-    animation: slideIn 0.5s ease-out 0.8s;
-  }
-  
-  /* Ensure elements become visible after animation */
-  .form-container label,
-  .form-container input[type="text"],
-  .form-container textarea,
-  .form-container button {
-    animation-delay: var(--animation-delay, 0s);
-  }
-  
-  /* Hover effect for button */
-  .form-container button:hover {
-    background-color: #0056b3; /* Darker shade on hover */
-  }
+/* Improve the ingredients list presentation */
+.ingredients-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.ingredients-list li {
+  margin-bottom: 5px;
+}
+
+ /* --------------------------------------------------individual----------------------------------------------------------- */
+
+ /* ---------------------------------------------------------------------------------------------------------------------- */
+
+
+
+
+  /* ---------------------------------------------------------------------------------------------------------------------- */
