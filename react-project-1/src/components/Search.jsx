@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Search({search, handleSearch}) {
   return (
-    <div className="searchbar">
-    <label htmlFor="search">Search Drinks:</label>
+    <div className="search-container">
+    <label className="search">Search Drinks:</label>
     <input
       type="text"
       id="search"

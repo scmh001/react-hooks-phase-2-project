@@ -51,7 +51,57 @@ nav {
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 /* ---------------------------------------------------------------------------------------------------------------------- */
-/* -------------------------------------------------------card---------------------------------------------------------- */
+
+/* --------------------------------------------------------search---------------------------------------------------------- */
+
+.search-container {
+  max-width: 500px; /* Set a max-width for the container */
+  margin: 0 auto; /* Center the container */
+  padding: 10px; /* Add some padding */
+  background-color: #f9f9f9; /* Light background color */
+  border-radius: 25px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  display: flex; /* Use flexbox for alignment */
+  align-items: center; /* Center items vertically */
+  gap: 10px; /* Add space between label and input */
+}
+
+.search {
+  font-size: 16px; /* Set font size for the label */
+  color: #333; /* Dark color for the text */
+}
+
+#search {
+  flex-grow: 1; /* Allow input to fill the space */
+  padding: 10px 20px; /* Padding inside the input */
+  font-size: 16px; /* Match font size with the label */
+  border: 1px solid #ddd; /* Light border for the input */
+  border-radius: 20px; /* Rounded corners for the input */
+  outline: none; /* Remove the default focus outline */
+  transition: border-color 0.3s; /* Smooth transition for border color */
+}
+
+#search::placeholder {
+  color: #aaa; /* Light color for placeholder text */
+}
+
+#search:focus {
+  border-color: #007bff; /* Highlight color when focused */
+}
+
+/* search icon inside the input */
+#search {
+  background-size: contain;
+  background-image: url('https://cdn-icons-png.freepik.com/512/3184/3184485.png'); /* Path to search icon */
+  background-position: 10px center; /* Position the icon inside the input */
+  background-repeat: no-repeat; /* Do not repeat the icon */
+  padding-left: 80px; /* Add padding to make space for the icon */
+}
+
+
+/* ---------------------------------------------------------search--------------------------------------------------------- */
+
+/* -------------------------------------------------------card------------------------------------------------------------- */
   .card {
     background-color: #f9f9f9;
     border-radius: 8px;

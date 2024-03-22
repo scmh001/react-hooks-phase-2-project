@@ -1,0 +1,107 @@
+/* -----------------------------------------------NewPostPage------------------------------------------------------------------- */
+
+/* Form container styles */
+.form-container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px; 
+  }
+  
+  /* Form elements styling */
+  .form-container label {
+    display: block;
+    margin-bottom: 10px;
+    color: #333; /* Dark grey color for text */
+  }
+  
+  .form-container input[type="text"],
+  .form-container textarea {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-container textarea {
+    resize: vertical; /* vertical resize */
+  }
+  
+  .form-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff; 
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .form-container button:hover {
+    background-color: #0056b3; /* shade on hover */
+  }
+
+  .form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f7f7f7; 
+  }
+  
+  
+ /* Animation keyframes */
+@keyframes slideIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  /* Apply animation to form elements */
+  .form-container label,
+  .form-container input[type="text"],
+  .form-container textarea,
+  .form-container button {
+    opacity: 5; /* Start elements as invisible */
+    animation-fill-mode: forwards; /* final state after animation */
+  }
+  
+  /* Staggered animation delays */
+  .form-container label {
+    animation: slideIn 0.5s ease-out 0.2s;
+  }
+  
+  .form-container input[type="text"] {
+    animation: slideIn 0.5s ease-out 0.4s;
+  }
+  
+  .form-container textarea {
+    animation: slideIn 0.5s ease-out 0.6s;
+  }
+  
+  .form-container button {
+    animation: slideIn 0.5s ease-out 0.8s;
+  }
+  
+  /* Ensure elements become visible after animation */
+  .form-container label,
+  .form-container input[type="text"],
+  .form-container textarea,
+  .form-container button {
+    animation-delay: var(--animation-delay, 0s);
+  }
+  
+  /* Hover effect for button */
+  .form-container button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+  }
