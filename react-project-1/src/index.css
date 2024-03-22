@@ -1,5 +1,12 @@
 
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---------------------------------------------------------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------------------------------------------------------- */
+
 .header-image {
   grid-template-columns: ;
   position: relative;
@@ -29,94 +36,7 @@ header {
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
 /* -------------------------------------------------navlink-bar---------------------------------------------------------- */
-.nav-bar-name {
-  font-family: 'Arial', sans-serif; /* Use a clean, sans-serif font */
-  font-size: 2.5rem; /* Set a large font size for the heading */
-  color: #333; /* Choose a dark color for the text */
-  text-align: center; /* Center the text within its container */
-  margin-top: 20px; /* Add some space above the heading */
-  margin-bottom: 20px; /* Add some space below the heading */
-  padding: 10px 0; /* Add padding above and below the text */
-  background-color: #f8f8f8; /* Light background color for contrast */
-  border-radius: 10px; /* Rounded corners for the background */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-  display: inline-block; /* Make the background fit the content width */
-  max-width: 90%; /* Limit the width to ensure padding on sides */
-  text-transform: uppercase; /* Optional: transform text to uppercase */
-  letter-spacing: 1px; /* Optional: increase spacing between letters */
-  position: absolute;
-  right: 680px;
-  top: 1px;
-}
 
-/* Optional: Add a hover effect */
-.nav-bar-name:hover {
-  position: fixed;
-  color: #007bff; /* Change text color on hover */
-  background-color: #eef4fd; /* Change background color on hover */
-  cursor: pointer; /* Change the cursor to indicate interactivity */
-}
-
-.nav-link-bar {
-  position: absolute;
-  right: 800px;
-  top: 290px;
-}
-
-nav {
-  display: flex;
-}
-
-.button {
-  text-decoration: none;
-  color: white;
-  background: linear-gradient(45deg, #007bff, #0056b3);
-  padding: 10px 15px;
-  margin: 0 5px;
-  border-radius: 5px;
-  transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-}
-
-.button:hover, .button:focus {
-  background: linear-gradient(45deg, #0056b3, #007bff);
-  transform: scale(1.05);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-}
-
-.active {
-  background-color: #28a745;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-}
-/* TODO: make pivot for nav bar in header */
-/* Media query for devices with width less than or equal to 768px */
-@media (max-width: 768px) {
-  .nav-bar-name {
-    position: fixed;
-    font-size: 2rem; /* Smaller font size for smaller screens */
-    right: 20px; /* Adjust position for smaller screens */
-    top: 10px;
-  }
-
-  .nav-link-bar {
-    right: 20px; /* Adjust position for smaller screens */
-    top: 80px; /* Adjust position to not overlap with .nav-bar-name */
-  }
-}
-
-/* Additional media query for devices with width less than or equal to 480px */
-@media (max-width: 480px) {
-  .nav-bar-name {
-    font-size: 1.5rem; /* Even smaller font size for very small screens */
-    right: 10px; /* Further adjust position for very small screens */
-    top: 5px;
-  }
-
-  .nav-link-bar {
-    right: 10px; /* Further adjust position for very small screens */
-    top: 60px; /* Adjust position to not overlap with .nav-bar-name */
-  }
-}
 /* ---------------------------------------------------------------------------------------------------------------------- */
 
 
