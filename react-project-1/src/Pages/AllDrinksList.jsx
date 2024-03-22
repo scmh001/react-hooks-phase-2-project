@@ -44,7 +44,7 @@ export default function AllDrinksList() {
 
  return (
     <>
-      <h2>Drinks</h2>
+      <h2></h2>
       <Search search={search} handleSearch={handleSearch} />
       {filteredDrinks.map(drink => {
     return <DrinkCard drink={drink} handleAddCheers={handleAddCheers} key={drink.id} />

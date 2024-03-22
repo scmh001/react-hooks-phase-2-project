@@ -1,8 +1,15 @@
-import React from 'react'
-import {NavLink} from 'react-router-dom'
+import { useState } from 'react';
+import { NavLink } from 'react-router-dom';
 
-export default function DrinkCard({drink, handleAddCheers}) {
-const {name, image, cheers, ingredients, id} = drink
+export default function DrinkCard({ drink, handleAddCheers }) {
+    const { name, image, cheers, ingredients, id } = drink;
+    // State to manage the visibility of ingredients
+    const [showIngredients, setShowIngredients] = useState(false);
+  
+    // Function to toggle the visibility state //TODO Implement toggle feature of ingredients displayed  (do we want toggle feature?)
+    const toggleIngredients = () => {
+      setShowIngredients(!showIngredients);
+    };
 
 const handleCheers = () => {
     fetch(`http://localhost:4000/drinks/${id}`, {
@@ -26,21 +33,24 @@ const handleCheers = () => {
     })
 
 }
+const ingredientsArray = ingredients.split(', '); //TODO Implement toggle feature of ingredients displayed  (do we want toggle feature?)
 
- return (
+  return (
     <div className="card">
-        <NavLink to={`/drink/${id}`}>
-            <h2>{name}</h2>
-        </NavLink>
-        <img
-        src={image}
-        alt={name}
-        className="drink-image"
-        />
-        <button className="like-btn" onClick={handleCheers}>{cheers} Cheers!</button>
-        <button className="ingredients-btn">Show Ingredients</button>
-            <p>{ingredients}</p>
+      <NavLink to={`/drink/${id}`}>
+        <h2>{name}</h2>
+      </NavLink>
+      <img src={image} alt={name} className="drink-image" />
+      <button className="like-btn" onClick={handleCheers}>{cheers} Cheers!</button>
+          {/* Button to toggle ingredients visibility */}
+          <button className="ingredients-btn">Show Ingredients</button>
+      <ul>
+        {ingredientsArray.map((ingredient, index) => (
+          <li key={index}>{ingredient}</li>
+        ))}
         {/* <button className="del-btn" onClick={() => handleDeleteClick(toy)}>Donate to GoodWill</button> */}
-  </div>
-  )
+      </ul>
+    </div>
+  );
 }
+

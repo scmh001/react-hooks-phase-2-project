@@ -3,10 +3,10 @@ import { NavLink } from 'react-router-dom'
 
 export default function NavigationBar() {
   return (
-    <header>
-        <h1>Drinks Galore</h1>
+    <>
+        <h1 className="nav-bar-name">Drinks Galore (in development)</h1>
 			{/* <button onClick={updateDarkMode}>{darkMode ? "Light Mode" : "Dark Mode"}</button> */}
-
+			<div className="nav-link-bar">
 			<NavLink to={'/'} className="button">
 				Home 
 			</NavLink>
@@ -22,7 +22,7 @@ export default function NavigationBar() {
             <NavLink to={'/drinktracker'} className="button" >
 				Drink Tracker 
 			</NavLink>
-			
-    </header>
+			</div>
+    </>
   )
 }

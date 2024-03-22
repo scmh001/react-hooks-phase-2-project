@@ -20,7 +20,7 @@ export default function Home() {
   console.log(topSix)
   return (
     <>
-      <h2>Home</h2>
+      <h2></h2>
       {topSix.map(drink => {
         return <DrinkCard drink={drink} key={drink.id} />
       })}

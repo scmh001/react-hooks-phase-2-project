@@ -1,45 +1,51 @@
 import { useState, useEffect } from 'react';
 import DrinkVolumeBarGraph from './DrinkVolumeBarGraph';
 
+// Component for tracking and displaying drink volumes
 const DrinkVolumeInputTracker = () => {
-  // Initialize state with data from local storage or default to an initial value
+  // State 'volumes' holds an array of drink volumes. Initializes from local storage or defaults to an initial value.
   const [volumes, setVolumes] = useState(() => {
     const savedVolumes = localStorage.getItem('volumes');
     return savedVolumes ? JSON.parse(savedVolumes) : [{ ounces: '' }];
   });
 
-  // Effect to persist state changes to local storage
+  // Effect hook to update local storage whenever 'volumes' state changes.
   useEffect(() => {
     localStorage.setItem('volumes', JSON.stringify(volumes));
   }, [volumes]);
 
+  // Function to handle changes in volume input fields.
   const handleVolumeChange = (index, event) => {
     const newVolumes = [...volumes];
     newVolumes[index].ounces = event.target.value;
     setVolumes(newVolumes);
   };
 
+  // Function to add a new volume input field.
   const addVolumeInput = () => {
     setVolumes([...volumes, { ounces: '' }]);
   };
 
+  // Function to remove a volume input field.
   const removeVolumeInput = (index) => {
     const newVolumes = [...volumes];
     newVolumes.splice(index, 1);
     setVolumes(newVolumes);
   };
 
+  // Function to calculate the total volume of all drinks.
   const calculateTotalVolume = () => {
     return volumes.reduce((total, current) => total + Number(current.ounces || 0), 0);
   };
 
+  // Render the component UI
   return (
     <div>
-      <h2>Drink Volume Tracker</h2>
+      <h2>Water Volume Tracker</h2>
       <table>
         <thead>
           <tr>
-            <th>Drink</th>
+            <th>Day</th>
             <th>Volume (ounces)</th>
             <th>Actions</th>
           </tr>
