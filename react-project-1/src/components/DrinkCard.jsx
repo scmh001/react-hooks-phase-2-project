@@ -8,7 +8,7 @@ export default function DrinkCard({ drink, handleAddCheers }) {
 
     // Function to toggle the visibility state //TODO Implement toggle feature of ingredients displayed  (do we want toggle feature?)
     const toggleIngredients = () => {
-      setShowIngredients(!showIngredients);
+      setShowIngredients(prev => !prev);
     };
 
 const handleCheers = () => {
@@ -43,14 +43,17 @@ const ingredientsArray = ingredients.split(', '); //TODO Implement toggle featur
       <img src={image} alt={name} className="drink-image" />
       <button className="like-btn" onClick={handleCheers}>{cheers} Cheers!</button>
           {/* Button to toggle ingredients visibility */}
-          <button className="ingredients-btn">Show Ingredients</button>
+      <button className="ingredients-btn" onClick={toggleIngredients}>Show Ingredients</button>
       <p className='category'>{category}</p>
-      <ul>
+      {showIngredients ? 
+      (<ul>
         {ingredientsArray.map((ingredient, index) => (
           <li key={index}>{ingredient}</li>
         ))}
-        {/* <button className="del-btn" onClick={() => handleDeleteClick(toy)}>Donate to GoodWill</button> */}
-      </ul>
+      </ul>)
+      : (
+        null
+      )}
     </div>
   );
 }
