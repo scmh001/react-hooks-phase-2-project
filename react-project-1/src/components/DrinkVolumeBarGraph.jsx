@@ -11,56 +11,65 @@ const DrinkVolumeBarGraph = ({ volumes }) => {
       {
         label: 'Volume (ounces)',
         data: volumes.map(volume => Number(volume.ounces)),
-        backgroundColor: 'rgba(53, 162, 235, 0.5)',
+        backgroundColor: [
+          
+          '#007bff', 
+          '#dc3545', 
+          '#ffc107', 
+          '#28a745',
+          'black', 
+          
+        ],
+        borderColor: 'white', // Set the border color to white
+        borderWidth: 1, // Set the border width
       },
     ],
   };
 
   const options = {
-    responsive: true, // Make the chart responsive
-    maintainAspectRatio: false, // Adjust aspect ratio
+    responsive: true,
+    maintainAspectRatio: false,
     scales: {
       y: {
         beginAtZero: true,
         grid: {
-          display: true, // Display grid lines
-          color: 'rgba(171,171,171,0.1)', // Grid line color
+          display: true,
+          color: 'rgba(171,171,171,0.1)',
         },
         title: {
           display: true,
-          text: 'Volume in Ounces', // Y-axis label
+          text: 'Volume in Ounces',
         },
       },
       x: {
         grid: {
-          display: false, // Hide grid lines for x-axis
+          display: false,
         },
       },
     },
     plugins: {
       legend: {
-        display: true, // Display legend
-        position: 'top', // Legend position
+        display: true,
+        position: 'top',
       },
       tooltip: {
-        enabled: true, // Enable tooltips
+        enabled: true,
         mode: 'index',
         intersect: false,
         callbacks: {
           label: function(context) {
-            // Custom tooltip label
             return `${context.dataset.label}: ${context.parsed.y} oz`;
           },
         },
       },
     },
     animation: {
-      duration: 1000, // Animation duration
-      easing: 'easeOutCubic', // Animation easing function
+      duration: 1000,
+      easing: 'easeOutCubic',
     },
   };
 
-  return <div style={{ height: '400px' }}><Bar data={data} options={options} /></div>;
+  return <div style={{ height: '375px' }}><Bar data={data} options={options} /></div>;
 };
 
 export default DrinkVolumeBarGraph;

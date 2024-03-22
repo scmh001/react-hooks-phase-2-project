@@ -16,7 +16,7 @@
 }
 
 header {
-  background-color: #a74f4f;
+  background-color: rgb(164, 221, 248);
   color: white;
   padding: 10px 20px;
   display: flex;
@@ -24,6 +24,11 @@ header {
   align-items: center;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
+/* ---------------------------------------------------------------------------------------------------------------------- */
+
+/* ---------------------------------------------------------------------------------------------------------------------- */
+
+/* -------------------------------------------------navlink-bar---------------------------------------------------------- */
 .nav-bar-name {
   font-family: 'Arial', sans-serif; /* Use a clean, sans-serif font */
   font-size: 2.5rem; /* Set a large font size for the heading */
@@ -39,6 +44,9 @@ header {
   max-width: 90%; /* Limit the width to ensure padding on sides */
   text-transform: uppercase; /* Optional: transform text to uppercase */
   letter-spacing: 1px; /* Optional: increase spacing between letters */
+  position: absolute;
+  right: 680px;
+  top: 1px;
 }
 
 /* Optional: Add a hover effect */
@@ -46,6 +54,12 @@ header {
   color: #007bff; /* Change text color on hover */
   background-color: #eef4fd; /* Change background color on hover */
   cursor: pointer; /* Change the cursor to indicate interactivity */
+}
+
+.nav-link-bar {
+  position: absolute;
+  right: 800px;
+  top: 290px;
 }
 
 nav {
@@ -73,7 +87,36 @@ nav {
   background-color: #28a745;
   box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
+/* TODO: make pivot for nav bar in header */
+/* Media query for devices with width less than or equal to 768px */
+@media (max-width: 768px) {
+  .nav-bar-name {
+    font-size: 2rem; /* Smaller font size for smaller screens */
+    right: 20px; /* Adjust position for smaller screens */
+    top: 10px;
+  }
+
+  .nav-link-bar {
+    right: 20px; /* Adjust position for smaller screens */
+    top: 80px; /* Adjust position to not overlap with .nav-bar-name */
+  }
+}
+
+/* Additional media query for devices with width less than or equal to 480px */
+@media (max-width: 480px) {
+  .nav-bar-name {
+    font-size: 1.5rem; /* Even smaller font size for very small screens */
+    right: 10px; /* Further adjust position for very small screens */
+    top: 5px;
+  }
+
+  .nav-link-bar {
+    right: 10px; /* Further adjust position for very small screens */
+    top: 60px; /* Adjust position to not overlap with .nav-bar-name */
+  }
+}
 /* ---------------------------------------------------------------------------------------------------------------------- */
+
 
 /* --------------------------------------------------------search---------------------------------------------------------- */
 
@@ -245,7 +288,7 @@ table {
 
 /* Table header styles */
 thead th {
-  background-color: #4CAF50;
+  background-color: #222c33;
   color: white;
   padding: 10px;
   text-align: left;
@@ -316,7 +359,6 @@ tfoot td {
 .add-button:hover {
   background-color: #0b7dda;
 }
-
 
 
  
