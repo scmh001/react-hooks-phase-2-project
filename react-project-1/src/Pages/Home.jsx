@@ -7,7 +7,7 @@ export default function Home() {
   
   useEffect(() => {
     const fetchTopSix = async () => {
-      const response = await fetch('http://localhost:4000/drinks?_sort=-cheers&_limit=6');
+      const response = await fetch('http://localhost:4000/drinks?_sort=-cheers&_limit=5');
       const data = await response.json();
       setTopSix(data);
     };

@@ -20,7 +20,7 @@
       "cheers": 4,
       "history": null,
       "instructions": null,
-      "favorite": "true"
+      "favorite": "false"
     },
     {
       "id": "3",
@@ -42,7 +42,7 @@
       "cheers": 20,
       "history": null,
       "instructions": null,
-      "favorite": "false"
+      "favorite": "true"
     },
     {
       "id": "5",
@@ -53,7 +53,7 @@
       "cheers": 5,
       "history": null,
       "instructions": null,
-      "favorite": "true"
+      "favorite": "false"
     },
     {
       "id": "6",
