@@ -8,7 +8,8 @@
       "image": "https://www.liquor.com/thmb/GYAzfmYiAo4EZ38Ij_UrpgTPeNw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manhattan-4000x4000-primary-ig-9c3d894510284e9d8fbd9c518d00790b.jpg",
       "cheers": 13,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "2",
@@ -18,7 +19,8 @@
       "image": "https://www.blessthismessplease.com/wp-content/uploads/2022/05/shirley-temple-recipe-2.jpg",
       "cheers": 3,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "3",
@@ -28,7 +30,8 @@
       "image": "https://southernbite.com/wp-content/uploads/2017/05/Ocean-Water.jpg",
       "cheers": 29,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "4",
@@ -38,7 +41,8 @@
       "image": "https://media02.stockfood.com/largepreviews/MzkyOTg0MzY1/12676915-Tequila-sunrise-cocktail-with-pineapple-and-orange.jpg",
       "cheers": 17,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "5",
@@ -48,7 +52,8 @@
       "image": "https://www.foodandwine.com/thmb/Y952mUEgugj7Xmw1uhqI1K9H6jo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Watermelon-Limeade-FT-RECIPE0623-e64f7037068749feba6442f1bddb4b8f.jpg",
       "cheers": 3,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "6",
@@ -58,7 +63,8 @@
       "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_1022/k%2Farchive%2Fa578ef028e789e8e15c61a51916dc7010c0a72ad",
       "cheers": 5,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "7",
@@ -68,7 +74,8 @@
       "image": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Patron-Margarita-002.jpg",
       "cheers": 11,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "8",
@@ -78,7 +85,8 @@
       "image": "https://www.acouplecooks.com/wp-content/uploads/2019/06/Moscow-Mule-062.jpg",
       "cheers": 28,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "9",
@@ -88,7 +96,8 @@
       "image": "https://www.allrecipes.com/thmb/LoXJbnPLMX-Agcb5OC1unM28J_s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2028980-7f016ddf84fa453fbd3161e4e277028c.jpg",
       "cheers": 6,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "10",
@@ -98,7 +107,8 @@
       "image": "https://www.forkinthekitchen.com/wp-content/uploads/2022/06/220518.homemade.mocha_.latte-6728-683x1024.jpg",
       "cheers": 8,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "11",
@@ -108,7 +118,8 @@
       "image": "https://www.teaforturmeric.com/wp-content/uploads/2021/11/Masala-Chai-Tea-9.jpg",
       "cheers": 9,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "12",
@@ -118,7 +129,8 @@
       "image": "https://www.acouplecooks.com/wp-content/uploads/2019/12/Cosmopolitan-Cocktail-006.jpg",
       "cheers": 10,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "13",
@@ -128,7 +140,8 @@
       "image": "https://www.acouplecooks.com/wp-content/uploads/2019/05/Gimlet-002.jpg",
       "cheers": 27,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "14",
@@ -138,7 +151,8 @@
       "image": "https://www.allrecipes.com/thmb/CJSeVzY-if0UVYd3wU5VnWg391g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2275869-f5c32aaf246a44e18ecf5dd602005713.jpg",
       "cheers": 4,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     },
     {
       "id": "15",
@@ -148,7 +162,8 @@
       "image": "https://www.allrecipes.com/thmb/PEaOc-W6sgYDhpmaIIULWKlLywY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/219139-butterbeer-R0300-4x3-3bdeffd9643c4518b3e2331688754725.jpg",
       "cheers": 13,
       "history": null,
-      "instructions": null
+      "instructions": null,
+      "favorite": false
     }
   ]
 }

@@ -31,6 +31,16 @@ export default function AllDrinksList() {
     }))
   }
   
+  const handleUpdateFavorite = (updatedDrink) => {
+    setAllDrinks(allDrinks.map(drink => {
+      if (drink.id === updatedDrink.id){
+        return updatedDrink
+      }else{
+        return drink
+      }
+    }))
+  }
+
   const handleSearch = (e) => {
     setSearch(e.target.value)
   }
@@ -51,7 +61,7 @@ export default function AllDrinksList() {
 				<button onClick={() => setCategoryState("Kids Drink")}>Kids Drink</button>
 			</div>
       {filteredDrinks.map(drink => {
-    return <DrinkCard drink={drink} handleAddCheers={handleAddCheers} key={drink.id} />
+    return <DrinkCard drink={drink} handleAddCheers={handleAddCheers} handleUpdateFavorite={handleUpdateFavorite} key={drink.id} />
   })}
     </>
   )
