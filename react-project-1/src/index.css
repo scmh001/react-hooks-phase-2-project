@@ -51,6 +51,7 @@ header {
 
 /* Optional: Add a hover effect */
 .nav-bar-name:hover {
+  position: fixed;
   color: #007bff; /* Change text color on hover */
   background-color: #eef4fd; /* Change background color on hover */
   cursor: pointer; /* Change the cursor to indicate interactivity */
@@ -91,6 +92,7 @@ nav {
 /* Media query for devices with width less than or equal to 768px */
 @media (max-width: 768px) {
   .nav-bar-name {
+    position: fixed;
     font-size: 2rem; /* Smaller font size for smaller screens */
     right: 20px; /* Adjust position for smaller screens */
     top: 10px;

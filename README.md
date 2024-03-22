@@ -6,11 +6,10 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 
 ## Deliverables / User Stories
 > As a user I can:
-* View the top 5 drinks of several categories
+* View the top 6 upvoted drinks on home page
 * Add "cheers" to "upvote" drinks
 * Add drinks with a Drink Input Form
-* Liquid Type / Volume Tracker
-* Graphing type / volume
+* Water volume intake tracker.
 * Show ingredients with button "Show Ingredients"
 * Filter by least amount of upvotes to greatest vice versa
 
@@ -18,7 +17,9 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 > As a user I can:
 * Expand search specifics
 * Add instructions
-* Soundscape per drink category
+* Add drink history
+* Add favorites button with favorites page
+* Soundscape / atmosphere per drink category
 * Make Root Beer Tapper Game
 
 ## Project Database:
