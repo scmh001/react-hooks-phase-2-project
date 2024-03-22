@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { NavLink} from 'react-router-dom';
 
 export default function DrinkCard({ drink, handleAddCheers, handleUpdateFavorite }) {
@@ -6,6 +6,7 @@ export default function DrinkCard({ drink, handleAddCheers, handleUpdateFavorite
     
     // State to manage the visibility of ingredients
     const [showIngredients, setShowIngredients] = useState(false);
+    const [favorited, setFavorited] = useState(favorite)
 
     // Function to toggle the visibility state 
     const toggleIngredients = () => {
@@ -36,13 +37,23 @@ const handleCheers = () => {
 }
 
 const handleFavorite = () => {
+  setFavorited(()=> {
+    if(favorited === 'true'){
+      return 'false'
+    }else {
+      return 'true'
+    }
+  })
+}
+  
+useEffect(()=> {
   fetch(`http://localhost:4000/drinks/${id}`, {
         method: "PATCH",
         headers: {
             "Content-Type": "application/json"
         },
         body: JSON.stringify({
-          favorite: !favorite
+          favorite: favorited
         })
     })
     .then(res => {
@@ -55,7 +66,7 @@ const handleFavorite = () => {
   .then(updatedDrink => {
       handleUpdateFavorite(updatedDrink);
   })
-}
+},[favorited])
 
 const ingredientsArray = ingredients.split(', '); 
   return (
@@ -63,7 +74,7 @@ const ingredientsArray = ingredients.split(', ');
       <NavLink to={`/drink/${id}`}>
         <h2>{name}</h2>
       </NavLink>
-      <button className='favorite-btn' onClick={handleFavorite}>{favorite ? "Unfavorite" : "Favorite"}</button>
+      <button className='favorite-btn' onClick={handleFavorite}>{favorited === 'true' ? 'Unfavorite' : 'Favorite'}</button>
       <img src={image} alt={name} className="drink-image" />
       <button className="like-btn" onClick={handleCheers}>{cheers} Cheers!</button>
           {/* Button to toggle ingredients visibility */}

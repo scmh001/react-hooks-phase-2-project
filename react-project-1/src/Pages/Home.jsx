@@ -21,7 +21,7 @@ export default function Home() {
       {topSix.map(drink => {
         const ingredientsArray = drink.ingredients.split(', ');
         return (
-        <div className="card">
+        <div className="card" key={drink.id}>
         <NavLink to={`/drink/${drink.id}`}>
           <h2>{drink.name}</h2>
         </NavLink>

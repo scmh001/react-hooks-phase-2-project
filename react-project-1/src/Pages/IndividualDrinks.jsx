@@ -28,7 +28,7 @@ console.log(id)
     className="drink-image"
     />
     <p>Ingredients: {drink.ingredients}</p>
-    <p>Catgory: {drink.category}</p>
+    <p>Category: {drink.category}</p>
 </div>
   )
 }
