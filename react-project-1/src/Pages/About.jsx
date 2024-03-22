@@ -3,7 +3,7 @@ import React from 'react'
 export default function About() {
   return (
     <div>
-      <h1 className="text-3xl font-bold underline">About</h1>
+      <h1 className="text-3xl font-bold underline"></h1>
       <p className="about-bio">
           Welcome to Drinks Galore, the ultimate destination for beverage enthusiants looking to explore, discover, and celebrate a wide array of drinks. 
           Our platform showcases the top 6 upvoted drinks on the home page, allows users to "cheers" or upvote their favorites, and offers a Drink Input Form for sharing personal concoctions.

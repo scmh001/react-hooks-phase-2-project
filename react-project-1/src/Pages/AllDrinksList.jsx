@@ -52,7 +52,7 @@ export default function AllDrinksList() {
 
  return (
     <>
-      <h2>All Drinks</h2>
+      <h2></h2>
       <Search search={search} handleSearch={handleSearch} />
       <div className="filter space-x-2 my-4">
         <button className="bg-gradient-to-r from-green-400 to-blue-500 hover:from-green-500 hover:to-blue-600 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out focus:outline-none" onClick={() => setCategoryState(0)}>All</button>

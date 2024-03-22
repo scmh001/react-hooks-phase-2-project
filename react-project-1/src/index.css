@@ -81,7 +81,7 @@ header {
 #search {
   background-size: contain;
   background-image: url('https://cdn-icons-png.freepik.com/512/3184/3184485.png'); /* Path to search icon */
-  background-position: 10px center; /* Position the icon inside the input */
+  background-position: 400px center; /* Position the icon inside the input */
   background-repeat: no-repeat; /* Do not repeat the icon */
   padding-left: 80px; /* Add padding to make space for the icon */
 }
@@ -152,13 +152,7 @@ header {
     background-color: #f5f5f5;
     padding: 20px;
   }
-  
-  h1 {
-    color: #333;
-    font-size: 2rem;
-    margin-bottom: 20px;
-  }
-  
+
   .drink-image {
     max-width: 100%;
     height: auto;

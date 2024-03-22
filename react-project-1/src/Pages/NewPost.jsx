@@ -3,7 +3,7 @@ import React from 'react'
 export default function NewPost() {
   return (
     <>
-    <div>Gap PlaceHolder</div>
+    <div></div>
     </>
   )
 }
