@@ -1,5 +1,6 @@
-import {useState, useEffect} from 'react'
-import DrinkCard from '../components/DrinkCard'
+import {useState, useEffect} from 'react';
+import DrinkCard from '../components/DrinkCard';
+import { NavLink } from 'react-router-dom';
 
 export default function Home() {
   const [topSix, setTopSix] = useState([])
@@ -10,19 +11,32 @@ export default function Home() {
       const data = await response.json();
       setTopSix(data);
     };
-  
+  // TODO figure out how to pass state here and use dependency array to get buttons
     fetchTopSix();
-    const interval = setInterval(fetchTopSix, 1000); // Fetch every 1 second (1000ms)
-  
-    return () => clearInterval(interval); // Cleanup on component unmount
   }, []);
-
-  console.log(topSix)
+  
   return (
     <>
-      <h2></h2>
+      <h1>The Top Shelf</h1>
       {topSix.map(drink => {
-        return <DrinkCard drink={drink} key={drink.id} />
+        const ingredientsArray = drink.ingredients.split(', ');
+        return (
+        <div className="card">
+        <NavLink to={`/drink/${drink.id}`}>
+          <h2>{drink.name}</h2>
+        </NavLink>
+        <img src={drink.image} alt={drink.name} className="drink-image" />
+        <p className='cheers'>{drink.cheers} Cheers!</p>
+        <p className='category'>{drink.category}</p>
+        <ul>
+          {ingredientsArray.map((ingredient, index) => (
+            <li key={index}>{ingredient}</li>
+          ))}
+          {/* <button className="del-btn" onClick={() => handleDeleteClick(toy)}>Donate to GoodWill</button> */}
+        </ul>
+      </div>)
+        
+        // <DrinkCard drink={drink} key={drink.id} />
       })}
     </>
   )

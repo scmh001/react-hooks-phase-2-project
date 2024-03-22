@@ -4,7 +4,9 @@ import { NavLink } from 'react-router-dom'
 export default function NavigationBar() {
   return (
     <>
+		<NavLink to={'/'} >
         <h1 className="nav-bar-name">Drinks Galore (in development)</h1>
+		</NavLink>
 			{/* <button onClick={updateDarkMode}>{darkMode ? "Light Mode" : "Dark Mode"}</button> */}
 			<div className="nav-link-bar">
 			<NavLink to={'/'} className="button">

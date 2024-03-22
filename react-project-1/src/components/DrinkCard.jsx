@@ -1,11 +1,11 @@
 import { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink} from 'react-router-dom';
 
 export default function DrinkCard({ drink, handleAddCheers }) {
-    const { name, image, cheers, ingredients, id } = drink;
+    const { name, image, cheers, ingredients, id, category } = drink;
     // State to manage the visibility of ingredients
     const [showIngredients, setShowIngredients] = useState(false);
-  
+
     // Function to toggle the visibility state //TODO Implement toggle feature of ingredients displayed  (do we want toggle feature?)
     const toggleIngredients = () => {
       setShowIngredients(!showIngredients);
@@ -44,6 +44,7 @@ const ingredientsArray = ingredients.split(', '); //TODO Implement toggle featur
       <button className="like-btn" onClick={handleCheers}>{cheers} Cheers!</button>
           {/* Button to toggle ingredients visibility */}
           <button className="ingredients-btn">Show Ingredients</button>
+      <p className='category'>{category}</p>
       <ul>
         {ingredientsArray.map((ingredient, index) => (
           <li key={index}>{ingredient}</li>

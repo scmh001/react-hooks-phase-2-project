@@ -5,6 +5,7 @@ import Search from '../components/Search'
 export default function AllDrinksList() {
   const [allDrinks, setAllDrinks] = useState([])
   const [search, setSearch] = useState('')
+  const [categoryState, setCategoryState] = useState(0)
   
   //TODO look into proxy
   useEffect(() => {
@@ -35,17 +36,20 @@ export default function AllDrinksList() {
   }
 
   const filteredDrinks = allDrinks.filter(drink => {
-    if(drink.name.toLowerCase().includes(search.toLowerCase())){
-      return true
-    }else {
-      return false
-    }
+    return ((categoryState === 0 || drink.category === categoryState) &&
+    (search === '' || drink.name.toLowerCase().includes(search.toLowerCase())))
   })
 
  return (
     <>
-      <h2></h2>
+      <h2>All Drinks</h2>
       <Search search={search} handleSearch={handleSearch} />
+      <div className="filter">
+				<button onClick={() => setCategoryState(0)}>All</button>
+				<button onClick={() => setCategoryState("Alcoholic")}>Alcoholic</button>
+				<button onClick={() => setCategoryState("Non-Alcoholic")}>Non-Alcoholic</button>
+				<button onClick={() => setCategoryState("Kids Drink")}>Kids Drink</button>
+			</div>
       {filteredDrinks.map(drink => {
     return <DrinkCard drink={drink} handleAddCheers={handleAddCheers} key={drink.id} />
   })}

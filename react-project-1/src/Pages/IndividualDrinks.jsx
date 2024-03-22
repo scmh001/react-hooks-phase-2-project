@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react'
 import { useParams } from 'react-router-dom'
-import DrinkCard from '../components/DrinkCard'
+
 
 export default function IndividualDrinks() {
   const [drink, setDrink] = useState([])
