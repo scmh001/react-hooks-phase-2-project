@@ -54,12 +54,12 @@ export default function AllDrinksList() {
     <>
       <h2>All Drinks</h2>
       <Search search={search} handleSearch={handleSearch} />
-      <div className="filter">
-				<button onClick={() => setCategoryState(0)}>All</button>
-				<button onClick={() => setCategoryState("Alcoholic")}>Alcoholic</button>
-				<button onClick={() => setCategoryState("Non-Alcoholic")}>Non-Alcoholic</button>
-				<button onClick={() => setCategoryState("Kids Drink")}>Kids Drink</button>
-			</div>
+      <div className="filter space-x-2 my-4">
+        <button className="bg-gradient-to-r from-green-400 to-blue-500 hover:from-green-500 hover:to-blue-600 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out focus:outline-none" onClick={() => setCategoryState(0)}>All</button>
+        <button className="bg-gradient-to-r from-yellow-400 to-orange-500 hover:from-yellow-500 hover:to-orange-600 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out focus:outline-none" onClick={() => setCategoryState("Alcoholic")}>Alcoholic</button>
+        <button className="bg-gradient-to-r from-pink-400 to-red-500 hover:from-pink-500 hover:to-red-600 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out focus:outline-none" onClick={() => setCategoryState("Non-Alcoholic")}>Non-Alcoholic</button>
+        <button className="bg-gradient-to-r from-purple-400 to-indigo-500 hover:from-purple-500 hover:to-indigo-600 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out focus:outline-none" onClick={() => setCategoryState("Kids Drink")}>Kids Drink</button>
+      </div>
       {filteredDrinks.map(drink => {
     return <DrinkCard drink={drink} handleAddCheers={handleAddCheers} handleUpdateFavorite={handleUpdateFavorite} key={drink.id} />
   })}
