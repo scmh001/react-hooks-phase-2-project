@@ -1,3 +1,4 @@
+import React from 'react';
 import { Bar } from 'react-chartjs-2';
 import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from 'chart.js';
 
@@ -12,16 +13,14 @@ const DrinkVolumeBarGraph = ({ volumes }) => {
         label: 'Volume (ounces)',
         data: volumes.map(volume => Number(volume.ounces)),
         backgroundColor: [
-          
-          '#007bff', 
-          '#dc3545', 
-          '#ffc107', 
-          '#28a745',
-          'black', 
-          
+          '#6366F1', // Indigo
+          '#EF4444', // Red
+          '#F59E0B', // Amber
+          '#10B981', // Emerald
+          '#6D28D9', // Purple
         ],
-        borderColor: 'white', // Set the border color to white
-        borderWidth: 1, // Set the border width
+        borderColor: 'white',
+        borderWidth: 1,
       },
     ],
   };
@@ -69,7 +68,11 @@ const DrinkVolumeBarGraph = ({ volumes }) => {
     },
   };
 
-  return <div style={{ height: '375px' }}><Bar data={data} options={options} /></div>;
+  return (
+    <div className="h-96 bg-white shadow-md rounded-lg p-4">
+      <Bar data={data} options={options} />
+    </div>
+  );
 };
 
 export default DrinkVolumeBarGraph;

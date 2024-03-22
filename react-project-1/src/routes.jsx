@@ -8,6 +8,7 @@ import IndividualDrinks from './Pages/IndividualDrinks.jsx'
 import DrinkVolumeInputTracker from './components/DrinkVolumeInputTracker.jsx'
 import MyFavorites from './Pages/MyFavorites.jsx'
 
+
 const routes = [
   {
     path:"/",

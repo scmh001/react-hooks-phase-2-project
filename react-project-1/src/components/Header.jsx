@@ -6,6 +6,13 @@ const Header = () => {
 <header className="bg-gray-200 p-4">
   <div className="container mx-auto flex items-center justify-between">
     <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="h-10 w-10" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="h-10 w-10" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="h-10 w-10" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="h-10 w-10" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="h-10 w-10" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="h-10 w-10" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="h-10 w-10" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="h-10 w-10" />
     <nav>
       <ul className="flex">
        

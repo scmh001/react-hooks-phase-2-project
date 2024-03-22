@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Doughnut } from 'react-chartjs-2';
-import DrinkVolumeInputTracker from './DrinkVolumeInputTracker'; // Assuming this is the path to your component
+import DrinkVolumeInputTracker from './DrinkVolumeInputTracker'; 
 
 const HydrationChart = ({ volumes }) => {
   // Calculate the total volume consumed

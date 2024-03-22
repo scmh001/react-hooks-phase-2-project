@@ -4,6 +4,9 @@
 Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favorite beverages and explore new drink options with Drinks Galore.
 
 
+## Instructions
+* Please be sure you have __tailwindcss__ installed
+
 ## Deliverables / User Stories
 > As a user I can:
 * View the top 6 upvoted drinks on home page

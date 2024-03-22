@@ -40,45 +40,58 @@ const DrinkVolumeInputTracker = () => {
 
   // Render the component UI
   return (
-    <div>
-      <h2>Water Volume Tracker</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>Day</th>
-            <th>Volume (ounces)</th>
-            <th>Actions</th>
-          </tr>
-        </thead>
-        <tbody>
-          {volumes.map((volume, index) => (
-            <tr key={index}>
-              <td>Drink {index + 1}</td>
-              <td>
-                <input
-                  type="number"
-                  placeholder="Enter volume"
-                  value={volume.ounces}
-                  onChange={(event) => handleVolumeChange(index, event)}
-                />
-              </td>
-              <td>
-                {volumes.length > 1 && (
-                  <button onClick={() => removeVolumeInput(index)}>Remove</button>
-                )}
-              </td>
+    <div className="container mx-auto p-4">
+      <h2 className="text-2xl font-semibold text-gray-800 mb-4">Water Volume Tracker</h2>
+      <div className="overflow-x-auto">
+        <table className="min-w-full bg-white shadow-md rounded-lg text-left">
+          <thead className="bg-gray-100">
+            <tr>
+              <th className="py-3 px-4 font-semibold">Drink</th>
+              <th className="py-3 px-4 font-semibold">Volume (ounces)</th>
+              <th className="py-3 px-4 font-semibold">Actions</th>
             </tr>
-          ))}
-        </tbody>
-        <tfoot>
-          <tr>
-            <td>Total</td>
-            <td>{calculateTotalVolume()}</td>
-            <td></td>
-          </tr>
-        </tfoot>
-      </table>
-      <button onClick={addVolumeInput}>Add another volume</button>
+          </thead>
+          <tbody>
+            {volumes.map((volume, index) => (
+              <tr key={index} className="border-b">
+                <td className="py-2 px-4">Drink {index + 1}</td>
+                <td className="py-2 px-4">
+                  <input
+                    type="number"
+                    placeholder="Enter volume"
+                    value={volume.ounces}
+                    onChange={(event) => handleVolumeChange(index, event)}
+                    className="border rounded-lg py-2 px-4 w-full"
+                  />
+                </td>
+                <td className="py-2 px-4">
+                  {volumes.length > 1 && (
+                    <button
+                      onClick={() => removeVolumeInput(index)}
+                      className="bg-red-500 text-white py-2 px-4 rounded-lg hover:bg-red- transition duration-300"
+                    >
+                      Remove
+                    </button>
+                  )}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+          <tfoot className="bg-gray-100">
+            <tr>
+              <td className="py-3 px-4 font-semibold text-gray-">Total</td>
+              <td className="py-3 px-4 font-semibold text-gray-">{calculateTotalVolume()}</td>
+              <td></td>
+            </tr>
+          </tfoot>
+        </table>
+      </div>
+      <button
+        onClick={addVolumeInput}
+        className="mt-4 bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue- transition duration-300"
+      >
+        Add another volume
+      </button>
       <DrinkVolumeBarGraph volumes={volumes} />
     </div>
   );
