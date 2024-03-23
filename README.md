@@ -15,13 +15,14 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 * Water volume intake tracker.
 * Show ingredients with button "Show Ingredients"
 * Filter by least amount of upvotes to greatest vice versa
+* Add favorites button with favorites page
+
 
 ## Stretch Deliverables
 > As a user I can:
 * Expand search specifics
 * Add instructions
 * Add drink history
-* Add favorites button with favorites page
 * Soundscape / atmosphere per drink category
 * Make Root Beer Tapper Game
 
