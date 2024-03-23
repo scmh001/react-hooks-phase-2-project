@@ -5,7 +5,8 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 
 
 ## Instructions
-* Please be sure you have __tailwindcss__ installed
+* Please be sure you have __tailwindcss__ for vite installed.
+* Here is the install command if not npm install -D tailwindcss postcss autoprefixer
 
 ## Deliverables / User Stories
 > As a user I can:
