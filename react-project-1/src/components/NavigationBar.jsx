@@ -29,9 +29,6 @@ export default function NavigationBar() {
 		      <NavLink to={'/myfavorites'} className="py-2 px-4 hover:bg-gray-700 rounded transition duration-300">
             My Favorites
 		      </NavLink>
-          <NavLink to={'/myfavorites'} className="py-2 px-4 hover:bg-gray-700 rounded transition duration-300">
-            Drink Tac
-		      </NavLink>
         </div>
       </div>
     </nav>

@@ -74,7 +74,11 @@ const ingredientsArray = ingredients.split(', ');
           <NavLink to={`/drink/${id}`} className="block hover:text-blue-500">
               <h2 className="text-2xl font-bold text-gray-800 p-4">{name}</h2>
           </NavLink>
-        <button className='favorite-btn' onClick={handleFavorite}>{favorited === 'true' ? 'Unfavorite' : 'Favorite'}</button>
+          <button 
+            className='favorite-btn bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110' 
+            onClick={handleFavorite}>
+              {favorited === 'true' ? 'Unfavorite' : 'Favorite'}
+          </button>
       <img src={image} alt={name} className="drink-image w-full h-64 object-cover" />
           <button className="like-btn" onClick={handleCheers}>{cheers} Cheers!</button>
               {/* Button to toggle ingredients visibility */}

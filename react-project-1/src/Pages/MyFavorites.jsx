@@ -18,7 +18,9 @@ export default function MyFavorites() {
   
     return (
     <>
-        <div>MyFavorites</div>
+        <div class="bg-gradient-to-r from-blue-500 to-teal-400 text-white text-2xl font-bold py-4 px-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 ease-in-out">
+              Favorites
+        </div>
         {favoriteDrinks.map(drink => {
             const ingredientsArray = drink.ingredients.split(', ');
             return (
