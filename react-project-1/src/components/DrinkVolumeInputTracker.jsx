@@ -38,7 +38,7 @@ const DrinkVolumeInputTracker = () => {
     return volumes.reduce((total, current) => total + Number(current.ounces || 0), 0);
   };
 
-  // Render the component UI
+  // Render the UI
   return (
     <div className="container mx-auto p-4">
       <h2 className="text-2xl font-semibold text-gray-800 mb-4">Water Volume Tracker</h2>
