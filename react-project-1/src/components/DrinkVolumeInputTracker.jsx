@@ -38,61 +38,35 @@ const DrinkVolumeInputTracker = () => {
     return volumes.reduce((total, current) => total + Number(current.ounces || 0), 0);
   };
 
+  const goalValue = 125; // Goal value in ounces
+  const totalVolume = calculateTotalVolume();
+  const goalMet = totalVolume >= goalValue;
+
   // Render the UI
   return (
     <div className="container mx-auto p-4">
       <h2 className="text-2xl font-semibold text-gray-800 mb-4">Water Volume Tracker</h2>
-      <div className="overflow-x-auto">
-        <table className="min-w-full bg-white shadow-md rounded-lg text-left">
-          <thead className="bg-gray-100">
-            <tr>
-              <th className="py-3 px-4 font-semibold">Drink</th>
-              <th className="py-3 px-4 font-semibold">Volume (ounces)</th>
-              <th className="py-3 px-4 font-semibold">Actions</th>
-            </tr>
-          </thead>
-          <tbody>
-            {volumes.map((volume, index) => (
-              <tr key={index} className="border-b">
-                <td className="py-2 px-4">Drink {index + 1}</td>
-                <td className="py-2 px-4">
-                  <input
-                    type="number"
-                    placeholder="Enter volume"
-                    value={volume.ounces}
-                    onChange={(event) => handleVolumeChange(index, event)}
-                    className="border rounded-lg py-2 px-4 w-full"
-                  />
-                </td>
-                <td className="py-2 px-4">
-                  {volumes.length > 1 && (
-                    <button
-                      onClick={() => removeVolumeInput(index)}
-                      className="bg-red-500 text-white py-2 px-4 rounded-lg hover:bg-red- transition duration-300"
-                    >
-                      Remove
-                    </button>
-                  )}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-          <tfoot className="bg-gray-100">
-            <tr>
-              <td className="py-3 px-4 font-semibold text-gray-">Total</td>
-              <td className="py-3 px-4 font-semibold text-gray-">{calculateTotalVolume()}</td>
-              <td></td>
-            </tr>
-          </tfoot>
-        </table>
-      </div>
-      <button
-        onClick={addVolumeInput}
-        className="mt-4 bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue- transition duration-300"
-      >
-        Add another volume
-      </button>
+      {volumes.map((volume, index) => (
+        <div key={index} className="flex items-center mb-2">
+          <input
+            type="number"
+            className="border-2 border-blue-300 focus:border-blue-500 rounded-lg p-2 mr-2 transition duration-200 ease-in-out transform focus:scale-105"
+            value={volume.ounces}
+            onChange={(event) => handleVolumeChange(index, event)}
+            placeholder="Enter volume in ounces"
+          />
+          <button onClick={() => removeVolumeInput(index)} className="bg-red-500 hover:bg-red-600 text-white p-2 rounded-lg transition duration-150 ease-in-out">Remove</button>
+        </div>
+      ))}
+      <button onClick={addVolumeInput} className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-lg my-4 transition duration-150 ease-in-out">Add Drink</button>
       <DrinkVolumeBarGraph volumes={volumes} />
+      <div className="mt-4">
+        {goalMet ? (
+          <p className="text-green-500 font-bold">Goal of 125 ounces met!</p>
+        ) : (
+          <p className="text-red-500 font-bold">Goal not met. Keep going!</p>
+        )}
+      </div>
     </div>
   );
 };

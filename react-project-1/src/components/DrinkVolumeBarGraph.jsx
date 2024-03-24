@@ -1,11 +1,12 @@
 import React from 'react';
 import { Bar } from 'react-chartjs-2';
-import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from 'chart.js';
+import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, PointElement, LineElement } from 'chart.js';
 
-ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
+ChartJS.register(CategoryScale, LinearScale, BarElement, PointElement, LineElement);
 
 const DrinkVolumeBarGraph = ({ volumes }) => {
   const labels = volumes.map((_, index) => `Drink ${index + 1}`);
+  const goalValue = 125; // Goal value in ounces
   const data = {
     labels,
     datasets: [
@@ -21,6 +22,14 @@ const DrinkVolumeBarGraph = ({ volumes }) => {
         ],
         borderColor: 'white',
         borderWidth: 1,
+      },
+      {
+        label: 'Goal',
+        data: Array(volumes.length).fill(goalValue),
+        type: 'line', // This makes it a line chart
+        borderColor: '#FFD700', // Gold color for the goal line
+        borderWidth: 2,
+        fill: false,
       },
     ],
   };
