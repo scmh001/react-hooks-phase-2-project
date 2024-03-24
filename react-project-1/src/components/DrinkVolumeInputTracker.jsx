@@ -33,6 +33,11 @@ const DrinkVolumeInputTracker = () => {
     setVolumes(newVolumes);
   };
 
+  // Function to reset all volume input fields to initial state.
+  const resetVolumeInputs = () => {
+    setVolumes([{ ounces: '' }]);
+  };
+
   // Function to calculate the total volume of all drinks.
   const calculateTotalVolume = () => {
     return volumes.reduce((total, current) => total + Number(current.ounces || 0), 0);
@@ -59,6 +64,7 @@ const DrinkVolumeInputTracker = () => {
         </div>
       ))}
       <button onClick={addVolumeInput} className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-lg my-4 transition duration-150 ease-in-out">Add Drink</button>
+      <button onClick={resetVolumeInputs} className="bg-gray-500 hover:bg-gray-600 text-white p-2 rounded-lg mx-2 my-4 transition duration-150 ease-in-out">Reset Fields</button>
       <DrinkVolumeBarGraph volumes={volumes} />
       <div className="mt-4">
         {goalMet ? (
