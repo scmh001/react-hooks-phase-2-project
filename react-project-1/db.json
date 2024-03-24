@@ -7,7 +7,7 @@
       "ingredients": "2 ounces rye whiskey, 1 ounce sweet vermouth, 2 dashes Angostura bitters, Garnish: brandied cherry (or lemon twist if preferred)",
       "image": "https://www.liquor.com/thmb/GYAzfmYiAo4EZ38Ij_UrpgTPeNw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manhattan-4000x4000-primary-ig-9c3d894510284e9d8fbd9c518d00790b.jpg",
       "cheers": 13,
-      "history": null,
+      "history": "originated at the Manhattan Club in New York City in the mid-1870s",
       "instructions": null,
       "favorite": "false"
     },
@@ -18,7 +18,7 @@
       "ingredients": "1 ounce grenadine, small ice cubes, 4 ounces lemon-lime soda (such as 7UP or Sprite), chilled, 4 ounces ginger ale, chilled, maraschino cherries for garnish",
       "image": "https://www.blessthismessplease.com/wp-content/uploads/2022/05/shirley-temple-recipe-2.jpg",
       "cheers": 4,
-      "history": null,
+      "history": "The cocktail may have been invented in the 1930s by a bartender at Chasen's, a restaurant in Beverly Hills, California, to serve then child actress Shirley Temple (1928–2014). However, other claims to its origin have been made.",
       "instructions": null,
       "favorite": "true"
     },
@@ -29,7 +29,7 @@
       "ingredients": "3 ounces blue fruit punch, 2 ounces 7UP, 2 teaspoons sweetened lime juice, 1 tablespoon pineapple juice, red gummy fish for garnish, lime wedges",
       "image": "https://southernbite.com/wp-content/uploads/2017/05/Ocean-Water.jpg",
       "cheers": 29,
-      "history": null,
+      "history": "Ocean Water quickly became the drive-in chain's signature summertime drink with its vibrant blue color and tropical flavor. Over the years, cocktail enthusiasts incorporated ingredients like blue curacao and coconut rum to create a refreshing drink for adults.",
       "instructions": null,
       "favorite": "false"
     },
@@ -40,7 +40,7 @@
       "ingredients": "4 ounces pineapple juice, 2 ounces 7UP, 1 tablespoon grenadine, maraschino cherries for garnish",
       "image": "https://media02.stockfood.com/largepreviews/MzkyOTg0MzY1/12676915-Tequila-sunrise-cocktail-with-pineapple-and-orange.jpg",
       "cheers": 20,
-      "history": null,
+      "history": " The original tequila sunrise contained tequila, crème de cassis, lime juice, and soda water, and was served at the Arizona Biltmore Hotel where it was created by Gene Sulit in the 1930s or 1940s.",
       "instructions": null,
       "favorite": "false"
     },
@@ -160,7 +160,7 @@
       "category": "Kids Drink",
       "ingredients": "1/2 cup heavy cream (for the top), 1/4 teaspoon ground cinnamon or pumpkin pie spice, 1 pinch salt, 2 tablespoons butterscotch topping, 1 to 2 teaspoons lemon juice, 6 (12 ounce) bottles cream soda",
       "image": "https://www.allrecipes.com/thmb/PEaOc-W6sgYDhpmaIIULWKlLywY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/219139-butterbeer-R0300-4x3-3bdeffd9643c4518b3e2331688754725.jpg",
-      "cheers": 13,
+      "cheers": 11,
       "history": null,
       "instructions": null,
       "favorite": "false"

@@ -1,0 +1,17 @@
+
+{
+    "drinks:" [
+        {
+      "id": "",
+      "name": "",
+      "category": "",
+      "ingredients": "",
+      "image": "",
+      "cheers": 0,
+      "history": null,
+      "instructions": null,
+      "favorite": "false"
+        }
+  ]
+}
+    
