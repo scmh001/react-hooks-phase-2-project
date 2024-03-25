@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="QXUMwPU5-PL0OwosUBug" name="Page-1">
-        <mxGraphModel dx="4083" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="6164" dy="2282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -13,16 +13,16 @@
                 <mxCell id="36" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
                     <mxGeometry x="-180" y="-10" width="1260" height="530" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=19;" parent="1" source="2" target="6" edge="1">
-                    <mxGeometry relative="1" as="geometry"/>
-                </mxCell>
                 <mxCell id="41" style="edgeStyle=none;html=1;fontSize=27;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="40" target="42" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=27;dashed=1;dashPattern=8 8;" parent="1" source="2" target="40" edge="1">
+                <mxCell id="56" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=27;dashed=1;dashPattern=8 8;" parent="1" source="2" target="40" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="71" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=27;" parent="1" source="2" target="70" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.135;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="2" target="79">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="Main Page" style="whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
@@ -30,9 +30,6 @@
                 </mxCell>
                 <mxCell id="3" value="About" style="whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
                     <mxGeometry x="-410" y="790" width="140" height="105" as="geometry"/>
-                </mxCell>
-                <mxCell id="6" value="Header Component" style="whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
-                    <mxGeometry x="-140" y="110" width="180" height="130" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" style="edgeStyle=none;html=1;fontSize=19;dashed=1;dashPattern=8 8;" parent="1" source="2" target="3" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -45,15 +42,15 @@
                     <mxGeometry x="590" y="925" width="250" height="145" as="geometry"/>
                 </mxCell>
                 <mxCell id="40" value="AllDrinksPage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=27;fontStyle=1;strokeWidth=4;" parent="1" vertex="1">
-                    <mxGeometry x="790" y="680" width="210" height="50" as="geometry"/>
+                    <mxGeometry x="785" y="680" width="210" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="44" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=27;" parent="1" source="42" target="17" edge="1">
+                <mxCell id="44" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=27;entryX=0.345;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="42" target="17" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="67" style="edgeStyle=none;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=27;" parent="1" source="42" target="65" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="73" style="edgeStyle=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="42" target="64">
+                <mxCell id="73" style="edgeStyle=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="42" target="64" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="42" value="DrinkList" style="whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
@@ -84,15 +81,15 @@
                 <mxCell id="59" value="Individual Drink" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=4;fontSize=27;" parent="1" vertex="1">
                     <mxGeometry x="777.5" y="1220" width="275" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fontSize=27;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="17" target="59" edge="1">
+                <mxCell id="60" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fontSize=27;entryX=0.537;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="17" target="59" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
                             <mxPoint x="920" y="1070"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="63" value="DetailedDrink" style="whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
-                    <mxGeometry x="790" y="1390" width="177.5" height="90" as="geometry"/>
+                <mxCell id="63" value="Detailed&lt;br&gt;Individual&lt;br&gt;Drink" style="whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
+                    <mxGeometry x="790" y="1355" width="177.5" height="90" as="geometry"/>
                 </mxCell>
                 <mxCell id="64" value="DrinkCard" style="whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
                     <mxGeometry x="810" y="850" width="85" height="45" as="geometry"/>
@@ -103,14 +100,32 @@
                 <mxCell id="70" value="NavBar Component" style="whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
                     <mxGeometry x="800" y="110" width="180" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="72" value="Search-bar" style="whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+                <mxCell id="72" value="Search-bar" style="whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
                     <mxGeometry x="1070" y="752.5" width="170" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="78" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="40" target="72">
+                <mxCell id="78" value="" style="endArrow=classic;html=1;" parent="1" source="40" target="72" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="1080" y="740" as="sourcePoint"/>
                         <mxPoint x="1130" y="690" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="79" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+                    <mxGeometry x="1440" y="640" width="870" height="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="83" target="87">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="DRINK VOLUME INPUT FORM" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1625" y="755" width="500" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="84" target="83">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="DRINKTRACKER" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1810" y="650" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="DRINK VOLUME BAR GRAPH + GOAL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1625" y="930" width="500" height="140" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

@@ -67,24 +67,29 @@ useEffect(()=> {
       handleUpdateFavorite(updatedDrink);
   })
 },[favorited])
-
-const ingredientsArray = ingredients.split(', '); 
-  return (
-    <div className="card bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transition-shadow duration-300 ease-in-out">
-      <NavLink to={`/drink/${id}`} className="block hover:text-blue-500">
-        <h2 className="text-2xl font-bold text-gray-800 p-4">{name}</h2>
-      </NavLink>
-      <button 
-        className='favorite-btn bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:-translate-y-1 hover:scale-110' 
-        onClick={handleFavorite}>
-          {favorited === 'true' ? 'Unfavorite' : 'Favorite'}
-      </button>
+const baseButtonStyle = "font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out";
+const ingredientsArray = ingredients.split(', ');
+return (
+  <div className="card bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-2xl m-4">
+    <NavLink to={`/drink/${id}`} className="block hover:text-blue-500">
       <img src={image} alt={name} className="drink-image w-full h-64 object-cover" />
-      <button className="like-btn" onClick={handleCheers}>{cheers} Cheers!</button>
-      <button className="ingredients-btn bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded-full inline-flex items-center justify-center mb-4" onClick={toggleIngredients}>
-        Show Ingredients
+      <div className="p-4">
+        <h2 className="text-2xl font-bold text-gray-800">{name}</h2>
+        <p className='category text-sm text-gray-600 mb-2'>{category}</p>
+      </div>
+    </NavLink>
+    <div className="px-4 pb-4">
+      <button
+        className={`${baseButtonStyle} bg-blue-500 hover:bg-blue-700 text-white transform hover:-translate-y-1 hover:scale-110 mb-2`}
+        onClick={handleFavorite}>
+        {favorited === 'true' ? '♥ Unfavorite' : '♡ Favorite'}
       </button>
-      <p className='category text-sm text-gray-600'>{category}</p>
+      <button className={`${baseButtonStyle} bg-red-500 hover:bg-red-600 text-white transform hover:-translate-y-1 hover:scale-110 mb-2`} onClick={handleCheers}>
+        {cheers} Cheers!
+      </button>
+      <button className={`${baseButtonStyle} bg-green-500 hover:bg-green-600 text-white transform hover:-translate-y-1 hover:scale-110 mb-4`} onClick={toggleIngredients}>
+        {showIngredients ? 'Hide Ingredients' : 'Show Ingredients'}
+      </button>
       {showIngredients && (
         <ul className="list-disc pl-8 mt-4">
           {ingredientsArray.map((ingredient, index) => (
@@ -93,7 +98,6 @@ const ingredientsArray = ingredients.split(', ');
         </ul>
       )}
     </div>
-
-  );
+  </div>
+);
 }
-
