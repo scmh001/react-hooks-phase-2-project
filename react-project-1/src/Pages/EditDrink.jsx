@@ -19,7 +19,7 @@ function EditProject() {
 			method: "PATCH",
 			body: JSON.stringify({
 				...formData,
-				cheers: parseInt(formData.claps),
+				cheers: parseInt(formData.cheers),
 			}),
 			headers: {
 				"content-type": "application/json",
@@ -75,7 +75,7 @@ function EditProject() {
 				onChange={handleOnChange}
 			/>
             
-            <label htmlFor="cheers">Image</label>
+            <label htmlFor="cheers">Claps</label>
 			<input
 				type="number"
 				id="cheers"

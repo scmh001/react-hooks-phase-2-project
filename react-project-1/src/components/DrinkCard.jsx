@@ -115,8 +115,8 @@ return (
         </ul>
       )}
     </div>
-    <div className='edit-btn'>
-      <button className='edit relative justify-right'>
+    <div className='edit-btn float-right'>
+      <button className='edit'>
         <NavLink to={`/drink/${id}/edit`}>
           <img className='h-5 w-5' src='https://icons.veryicon.com/png/o/miscellaneous/linear-small-icon/edit-246.png'></img>
         </NavLink>
