@@ -67,14 +67,29 @@ useEffect(()=> {
       handleUpdateFavorite(updatedDrink);
   })
 },[favorited])
+
 const baseButtonStyle = "font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out";
+
 const ingredientsArray = ingredients.split(', ');
+
+
+function truncateString(str, num) {
+  if (str.length > num) {
+    return str.slice(0, num) + "...";
+  } else {
+    return str;
+  }
+}
+
+const truncatedName = truncateString(name, 30);
+
+
 return (
   <div className="card bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-2xl m-4">
     <NavLink to={`/drink/${id}`} className="block hover:text-blue-500">
       <img src={image} alt={name} className="drink-image w-full h-full object-cover" />
       <div className="p-4">
-        <h2 className="text-2xl font-bold text-gray-800 truncate w-64">{name}</h2>
+        <h2 className="text-2xl font-bold text-gray-800 ">{truncatedName}</h2>
         <p className='category text-sm text-gray-600 mb-2'>{category}</p>
       </div>
     </NavLink>
