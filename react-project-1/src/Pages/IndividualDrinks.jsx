@@ -22,7 +22,7 @@ console.log(id)
   return (
     <div className="full-page bg-gray-100 p-8">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
-        <div className="rounded-lg overflow-hidden shadow-lg">
+        <div className="rounded-lg overflow-hidden ">
           <img
             src={drink.image}
             alt={drink.name}

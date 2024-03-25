@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
 
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -58,7 +59,7 @@
   }
   
   .drink-image {
-    width: 100%;
+    width: auto;
     height: auto;
     border-radius: 4px;
     margin-bottom: 15px;
@@ -141,7 +142,7 @@
     max-width: 100%;
     height: auto;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
     margin-bottom: 20px;
   }
   
