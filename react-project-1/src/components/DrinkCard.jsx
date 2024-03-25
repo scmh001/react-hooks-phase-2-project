@@ -85,7 +85,7 @@ const truncatedName = truncateString(name, 30);
 
 
 return (
-  <div className="card bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-2xl m-4">
+  <div className="card bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-2xl m-4" title={name}>
     <NavLink to={`/drink/${id}`} className="block hover:text-blue-500">
       <img src={image} alt={name} className="drink-image w-full h-full object-cover" />
       <div className="p-4">
