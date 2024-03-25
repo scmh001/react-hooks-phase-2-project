@@ -8,7 +8,6 @@ function App() {
   const [search, setSearch] = useState('')
   const [categoryState, setCategoryState] = useState(0)
   
-  //TODO look into proxy
   useEffect(() => {
     fetch('http://localhost:4000/drinks')
     .then(res => {
@@ -45,9 +44,6 @@ function App() {
   const handleSearch = (e) => {
     setSearch(e.target.value)
   }
-  
-  
-  
   
   return (
     <div>

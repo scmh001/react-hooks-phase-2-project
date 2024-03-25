@@ -20,8 +20,6 @@ export default function AllDrinksList() {
       <button className="bg-gradient-to-r from-yellow-400 to-orange-500 hover:from-yellow-500 hover:to-orange-600 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-orange-300" onClick={() => setCategoryState("Alcoholic")}>Alcoholic</button>
 
       <button className="bg-gradient-to-r from-pink-400 to-red-500 hover:from-pink-500 hover:to-red-600 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-300" onClick={() => setCategoryState("Non-Alcoholic")}>Non-Alcoholic</button>
-
-      {/* <button className="bg-gradient-to-r from-purple-400 to-indigo-500 hover:from-purple-500 hover:to-indigo-600 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300" onClick={() => setCategoryState("Kids Drink")}>Kids Drink</button> */}
       
       <button className="bg-gradient-to-r from-red-400 to-yellow-600 text-white font-bold py-2 px-4 rounded-full shadow-lg transition duration-300 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-300" onClick={() => setCategoryState("Coffee")}>Coffee</button>
       
