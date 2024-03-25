@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Search({ search, handleSearch }) {
   return (
-    <div className="flex flex-col items-center my-8">
+    <div className="flex flex-col items-center pt-12 pb-9 ">
       <label htmlFor="search" className="mb-2 text-lg font-semibold text-gray-700 dark:text-gray-200">
         Search Drinks:
       </label>
