@@ -20,7 +20,7 @@ export default function MyFavorites() {
   
     return (
     <>
-        <div className="flex justify-center bg-gradient-to-r from-blue-500 to-teal-400 text-white text-2xl font-bold py-4 px-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 ease-in-out ">
+        <div className="animate-shake animate-once animate-duration-1000 animate-ease-out flex justify-center bg-gradient-to-r from-blue-500 to-teal-400 text-white text-2xl font-bold py-4 px-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 ease-in-out ">
               Favorites
         </div>
         <div className="flex justify-center">
