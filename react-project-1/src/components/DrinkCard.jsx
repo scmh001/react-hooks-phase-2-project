@@ -75,7 +75,7 @@ return (
       <img src={image} alt={name} className="drink-image w-full h-64 object-cover" />
       <div className="p-4">
         <h2 className="text-2xl font-bold text-gray-800">{name}</h2>
-        <p className='category text-sm text-gray-600 mb-2'>{category}</p>
+        <p className='category text-sm text-gray-600 mb-2'>Category: {category}</p>
       </div>
     </NavLink>
     <div className="px-4 pb-4">

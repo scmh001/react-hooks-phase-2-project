@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function About() {
   return (
-    <div className="max-w-4xl mx-auto p-5 text-center">
-      <h1 className="text-4xl font-bold underline mb-4 text-indigo-600" style={{ marginLeft: '-150px' }}>About Drinks Galore</h1>
+    <div className="p-5 text-center max-w-5xl content-center m-auto">
+      <h1 className="text-4xl font-bold underline mb-4 text-indigo-600">About Drinks Galore</h1>
       <p className="text-lg text-gray-700 leading-relaxed">
         Welcome to <span className="font-semibold">Drinks Galore</span>, the ultimate destination for beverage enthusiasts looking to explore, discover, and celebrate a wide array of drinks. 
         Our platform showcases the top 5 upvoted drinks on the home page, allows users to "cheers" or upvote their favorites, and offers a Drink Input Form for sharing personal concoctions.

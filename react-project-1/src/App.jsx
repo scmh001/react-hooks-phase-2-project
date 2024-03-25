@@ -9,7 +9,7 @@ function App() {
   const [categoryState, setCategoryState] = useState(0)
   
   useEffect(() => {
-    fetch('http://localhost:4000/drinks')
+    fetch('http://localhost:4000/drinks?_sort=-cheers')
     .then(res => {
       if(res.ok){
         return (res.json())
@@ -18,7 +18,7 @@ function App() {
       }
     })
     .then(drinkData => setAllDrinks(drinkData))
-  }, [])
+  }, [allDrinks])
 
 
   const handleAddCheers = (updatedDrink) => {
