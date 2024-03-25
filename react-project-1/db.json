@@ -42,7 +42,7 @@
       "cheers": 20,
       "history": " The original tequila sunrise contained tequila, crème de cassis, lime juice, and soda water, and was served at the Arizona Biltmore Hotel where it was created by Gene Sulit in the 1930s or 1940s.",
       "instructions": null,
-      "favorite": "false"
+      "favorite": "true"
     },
     {
       "id": "5",
@@ -50,7 +50,7 @@
       "category": "Non-Alcoholic",
       "ingredients": "4 cups cubed and peeled seedless watermelon, 1/2 cup fresh lime juice, 1 teaspoon simple syrup, lime wheels for garnish",
       "image": "https://www.foodandwine.com/thmb/Y952mUEgugj7Xmw1uhqI1K9H6jo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Watermelon-Limeade-FT-RECIPE0623-e64f7037068749feba6442f1bddb4b8f.jpg",
-      "cheers": 5,
+      "cheers": 7,
       "history": "This flavor-packed limeade is a real thirst quencher during the dog days of summer, when watermelon is at its best. Should a festive occasion arise, it also makes a wonderful margarita mixer when paired with premium white tequila.",
       "instructions": null,
       "favorite": "false"
@@ -83,10 +83,10 @@
       "category": "Alcoholic",
       "ingredients": "2 oz vodka, 4 oz ginger beer, ½ oz lime juice",
       "image": "https://www.acouplecooks.com/wp-content/uploads/2019/06/Moscow-Mule-062.jpg",
-      "cheers": 28,
+      "cheers": 31,
       "history": "The Moscow Mule was born on that day in 1941. The perfect combination of vodka and ginger beer, housed in a solid copper mug that kept the drink cold and enhanced its flavor and aroma, resulting in a cocktail that America would fawn over for the next century and beyond.",
       "instructions": null,
-      "favorite": "false"
+      "favorite": "true"
     },
     {
       "id": "9",
@@ -105,7 +105,7 @@
       "category": "Non-Alcoholic",
       "ingredients": "3 ounces espresso, or ½ cup strong coffee, 6 ounces whole milk, or milk of choice, 2 Tablespoons chocolate syrup",
       "image": "https://www.forkinthekitchen.com/wp-content/uploads/2022/06/220518.homemade.mocha_.latte-6728-683x1024.jpg",
-      "cheers": 8,
+      "cheers": 9,
       "history": null,
       "instructions": null,
       "favorite": "false"
@@ -138,7 +138,7 @@
       "category": "Alcoholic",
       "ingredients": "2 ounces gin, ½ ounce lime juice, ½ ounce simple syrup or pure maple syrup, Splash of soda water (optional)",
       "image": "https://www.acouplecooks.com/wp-content/uploads/2019/05/Gimlet-002.jpg",
-      "cheers": 29,
+      "cheers": 31,
       "history": "It may be named after the tool for drilling small holes (alluding to its (piercing) effect on the drinker) or after the surgeon Rear-Admiral Sir Thomas Gimlette (1857–1943), who is said to have first added lime cordial to gin to help combat the ravages of scurvy on long voyages.",
       "instructions": null,
       "favorite": "true"
@@ -149,7 +149,7 @@
       "category": "Non-Alcoholic",
       "ingredients": "2 cups frozen mixed berries, 1 cup strawberry flavored yogurt, 1 banana, sliced, 1 cup milk, ½ teaspoon white sugar (Optional)",
       "image": "https://www.allrecipes.com/thmb/CJSeVzY-if0UVYd3wU5VnWg391g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2275869-f5c32aaf246a44e18ecf5dd602005713.jpg",
-      "cheers": 4,
+      "cheers": 5,
       "history": null,
       "instructions": null,
       "favorite": "false"
@@ -204,7 +204,7 @@
       "category": "Coffee",
       "ingredients": "1 cup strong brewed coffee, 1 tablespoon dairy-free chocolate syrup, 1 teaspoon orange zest (can sub ½ teaspoon orange extract), ¼ teaspoon ground cinnamon, ⅔ cup dairy-free chocolate milk beverage beverage (like Almond Breeze), Dairy-free whipped topping optional",
       "image": "https://www.godairyfree.org/wp-content/uploads/2006/05/pics-Spanish-Latte-vert.jpg",
-      "cheers": 11,
+      "cheers": 12,
       "history": "The Spanish Latte, a popular coffee beverage, has a complex history that intertwines with various coffee traditions from around the world. Despite its name, the exact origins of the Spanish Latte are not well-documented, and it shares similarities with several other coffee drinks from different cultures.",
       "instructions": null,
       "favorite": "false"
