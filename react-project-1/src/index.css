@@ -3,6 +3,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
 
 /* ---------------------------------------------------------------------------------------------------------------------- */
 /* ---------------------------------------------------------------------------------------------------------------------- */
@@ -35,6 +36,7 @@
 
 /* -------------------------------------------------------card------------------------------------------------------------- */
   .card {
+    background: linear-gradient(to bottom right, #f9f9f9, #e6e6e6);
     background-color: #f9f9f9;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -47,6 +49,7 @@
 
   
   .card h2 {
+    font-family: 'Open Sans', sans-serif;
     color: #333;
     font-size: 24px;
     margin-bottom: 15px;
@@ -58,7 +61,7 @@
     border-radius: 4px;
     margin-bottom: 15px;
   }
-  
+
   .card p {
     color: #666;
     font-size: 16px;
@@ -79,7 +82,13 @@
   
   .like-btn:hover, .ingredients-btn:hover {
     background-color: #0056b3;
+    transform: scale(1.05);
   }
+  .card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transform: translateY(-5px);
+}
+
   
   /* -----------------------------------------------------card------------------------------------------------------------- */
 
@@ -140,16 +149,22 @@ table {
   margin-top: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   font-family: 'Arial', sans-serif;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+table:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 /* Table header styles */
 thead th {
   background-color: #222c33;
-  color: white;
-  padding: 10px;
+  color: #FFD700; /* Gold color for headers */
+  padding: 15px;
   text-align: left;
+  font-size: 18px;
+  border-bottom: 2px solid #FFD700; /* Gold underline for headers */
 }
-
 
 /* Zebra striping for rows */
 tbody tr:nth-child(odd) {
@@ -159,18 +174,34 @@ tbody tr:nth-child(odd) {
 /* Hover effect for rows */
 tbody tr:hover {
   background-color: #e8f5e9;
+  transform: scale(1.02); /* Slight scale on hover */
+  transition: background-color 0.3s ease, transform 0.3s ease-in-out;
 }
 
 /* Input field styles */
 input[type="number"] {
-  padding: 6px;
+  padding: 8px;
   margin-top: 4px;
-  border: 1px solid #ddd;
+  border: 2px solid #ddd; /* Thicker border for better visibility */
   border-radius: 4px;
   width: 100%;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1); /* Inner shadow for depth */
+  transition: border-color 0.3s ease-in-out;
 }
+
+input[type="number"]:focus {
+  border-color: #45a049; /* Highlight color on focus */
+  outline: none; /* Remove default focus outline */
+}
+
+button {
+  transition: background-color 0.3s ease-in-out, transform 0.2s ease;
+}
+
 button:hover {
   background-color: #45a049;
+  transform: translateY(-2px); /* Slight raise effect */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow for depth */
 }
 
 

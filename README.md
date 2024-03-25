@@ -48,6 +48,7 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 ## Sources:
 * https://en.wikipedia.org/wiki/Main_Page
 * https://www.health.harvard.edu/staying-healthy/how-much-water-should-you-drink
+* https://www.godairyfree.org/
 
 ## Github Link
 * https://github.com/scmh001/react-hooks-phase-2-project
