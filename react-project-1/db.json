@@ -31,7 +31,7 @@
       "cheers": 37,
       "history": "Ocean Water quickly became the drive-in chain's signature summertime drink with its vibrant blue color and tropical flavor. Over the years, cocktail enthusiasts incorporated ingredients like blue curacao and coconut rum to create a refreshing drink for adults.",
       "instructions": null,
-      "favorite": "false"
+      "favorite": "true"
     },
     {
       "id": "4",
@@ -427,7 +427,7 @@
       "cheers": 38,
       "history": null,
       "instructions": null,
-      "favorite": "false"
+      "favorite": "true"
     },
     {
       "id": "41",

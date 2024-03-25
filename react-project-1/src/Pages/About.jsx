@@ -12,6 +12,9 @@ export default function About() {
         Additionally, we feature a Water Volume Intake Tracker for hydration monitoring and a "Show Ingredients" button for a deeper dive into what makes up each beverage. 
         With the ability to filter drinks by popularity, Drinks Galore serves as a dynamic and interactive glossary for discovering new favorites and engaging with a community of like-minded drink lovers.
       </p>
+      <div>
+        <img src="react-project-1/src/components/assets/light-night-number-advertising-bar-green-1348764-pxhere.com.jpg" alt="happy hour"></img>
+      </div>
     </div>
   )
 }
