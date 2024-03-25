@@ -87,12 +87,12 @@ function MemoryGame() {
       </button>
 
       <div className="grid grid-cols-4 gap-6">
-        {cards.map((card) => (
+  {cards.map((card) => (
           <div
             key={card.id}
             className={`memory-card transform transition duration-500 ease-in-out ${
               card.isFlipped ? 'rotate-y-180' : ''
-            } rounded-lg  cursor-pointer`}
+            } rounded-lg cursor-pointer animate-rotate-y`}
             onClick={() => handleCardClick(card)}
           >
             <div className="relative w-40 h-56">

@@ -25,7 +25,9 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 * Expand search specifics
 * Add instructions
 * Soundscape / atmosphere per drink category
-* Make Drink Memory Game
+* Make Drink Memory Game.
+* Add customizable water goal.
+* Add customizable water goal based on weight.
 
 ## Project Database:
 <img src="planning/assets/images/dbsh.PNG" />
@@ -49,6 +51,7 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 * https://en.wikipedia.org/wiki/Main_Page
 * https://www.health.harvard.edu/staying-healthy/how-much-water-should-you-drink
 * https://www.godairyfree.org/
+* https://www.flaticon.com/
 
 ## Github Link
 * https://github.com/scmh001/react-hooks-phase-2-project

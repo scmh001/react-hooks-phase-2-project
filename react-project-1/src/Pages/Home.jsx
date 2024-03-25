@@ -19,7 +19,9 @@ export default function Home() {
   return (
     <>
     <div className="">
-      <h1 className="text-4xl text-center lg:text-6xl font-extrabold text-gradient bg-clip-text animate-bounce bg-gradient-to-r from-pink-500 to-yellow-500 shadow-xl">The Top Shelf</h1>
+    <h1 className="text-4xl text-center lg:text-6xl font-extrabold bg-gradient-to-r from-slate-950 via-zinc-500 to-slate-950 text-transparent bg-clip-text animate-flip-up animate-duration-1000 animate-ease-out shadow-lg hover:shadow-2xl transition-shadow duration-300 ease-in-out">
+  The Top Shelf
+</h1>
       <div className="place-content-center flex justify-center">
       {topSix.map(drink => {
         return (
