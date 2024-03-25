@@ -18,7 +18,7 @@ function AddNewDrink() {
     let timeoutId;
     if (shouldNavigate) {
       timeoutId = setTimeout(() => {
-        navigate(`/drinks/${drinkId}`);
+        navigate(`/drink/${drinkId}`);
       }, 2000);
     }
 
@@ -79,7 +79,7 @@ function AddNewDrink() {
         </label>
         <label>
           Ingredients:
-          <input type="text" value={ingredients} onChange={e => setIngredients(e.target.value)} />
+          <input type="text" value={ingredients} onChange={e => setIngredients(e.target.value)} placeholder='Please separate ingredients with a comma...'/>
         </label>
         <label>
           Image URL:
@@ -91,7 +91,7 @@ function AddNewDrink() {
         </label>
         <label>
           Instructions:
-          <textarea value={instructions} onChange={e => setInstructions(e.target.value)} placeholder='Please separate instructions with a comma...' />
+          <textarea value={instructions} onChange={e => setInstructions(e.target.value)} />
         </label>
         <input type="submit" value="Submit" className="submit-button" />
       </form>

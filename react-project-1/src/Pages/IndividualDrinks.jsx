@@ -5,7 +5,7 @@ import { useParams } from 'react-router-dom'
 export default function IndividualDrinks() {
   const [drink, setDrink] = useState([])
   const { id } = useParams()
-console.log(id)
+
   useEffect(() => {
     fetch(`http://localhost:4000/drinks/${id}`)
     .then(res => {
@@ -40,9 +40,21 @@ console.log(id)
            ))}
              </ul>
             </div>
-          <div className="font-black shadow-2xl p-4 rounded-lg bg-white">
+          <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-20">
             <h2 className="text-2xl mb-2">History</h2>
             <p>{drink.history ? drink.history : "No history available"}</p>
+          </div>
+          <div className="font-black shadow-2xl p-4 rounded-lg bg-white">
+            <h2 className="text-2xl mb-2">Instructions</h2>
+            
+            {drink.instructions ?  
+            <ol className="list-inside list-decimal">
+          {drink.instructions && drink.instructions.split(', ').map((instruction, index) => (
+            <li key={index}>{instruction.charAt(0).toUpperCase() + instruction.slice(1)}</li>
+           ))}
+             </ol> 
+             : 
+             <p>"No instructions available"</p>}
           </div>
         </div>
       </div>

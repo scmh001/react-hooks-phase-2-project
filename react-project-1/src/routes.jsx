@@ -8,6 +8,7 @@ import IndividualDrinks from './Pages/IndividualDrinks.jsx'
 import DrinkVolumeInputTracker from './components/DrinkVolumeInputTracker.jsx'
 import MyFavorites from './Pages/MyFavorites.jsx'
 import MemoryGame from './components/MemoryGame.jsx'
+import EditDrink from './Pages/EditDrink.jsx'
 
 
 const routes = [
@@ -22,7 +23,8 @@ const routes = [
       {path: "/drink/:id", element: <IndividualDrinks />},
       {path: "/drinktracker", element: <DrinkVolumeInputTracker />},
       {path: "/myfavorites", element: <MyFavorites />},
-      {path: "/memorygame", element: <MemoryGame />}
+      {path: "/memorygame", element: <MemoryGame />},
+      {path: "/drink/:id/edit", element: <EditDrink />}
     ],
   },
 ];
