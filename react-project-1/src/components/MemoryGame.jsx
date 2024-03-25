@@ -74,10 +74,10 @@ function MemoryGame() {
 
   return (
     <div className="MemoryGame bg-gradient-to-r from-blue-400 to-indigo-600 min-h-screen flex flex-col items-center justify-center p-4">
-      <h1 className="text-4xl text-white font-bold mb-8">Drink Match</h1>
+      <h1 className="font-sans text-4xl text-white font-bold mb-8">Drink Match</h1>
       <button
         onClick={shuffleCards}
-        className="mb-6 bg-white text-indigo-600 px-6 py-2 rounded shadow-lg hover:bg-indigo-100 transition duration-300"
+        className="font-sans mb-6 bg-white text-indigo-600 px-6 py-2 rounded shadow-lg hover:bg-indigo-100 transition duration-300"
       >
         New Game
       </button>
@@ -112,7 +112,7 @@ function MemoryGame() {
       </div>
 
       {/* Turn Counter */}
-      <div className="mt-4 text-white text-lg">
+      <div className="mt-4 text-white text-lg font-sans font-bold">
         Turns: {turns}
       </div>
     </div>

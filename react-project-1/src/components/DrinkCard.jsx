@@ -72,10 +72,15 @@ const ingredientsArray = ingredients.split(', ');
 return (
   <div className="card bg-white rounded-lg overflow-hidden shadow-lg hover:shadow-2xl m-4">
     <NavLink to={`/drink/${id}`} className="block hover:text-blue-500">
-      <img src={image} alt={name} className="drink-image w-full h-64 object-cover" />
+      <img src={image} alt={name} className="drink-image w-full h-full object-cover" />
       <div className="p-4">
+<<<<<<< HEAD
         <h2 className="text-2xl font-bold text-gray-800">{name}</h2>
         <p className='category text-sm text-gray-600 mb-2'>Category: {category}</p>
+=======
+        <h2 className="text-2xl font-bold text-gray-800 truncate w-64">{name}</h2>
+        <p className='category text-sm text-gray-600 mb-2'>{category}</p>
+>>>>>>> 816cb185bc571e65327576f98b842707e8cccec3
       </div>
     </NavLink>
     <div className="px-4 pb-4">
@@ -84,9 +89,11 @@ return (
         onClick={handleFavorite}>
         {favorited === 'true' ? '♥ Unfavorite' : '♡ Favorite'}
       </button>
+      
       <button className={`${baseButtonStyle} bg-red-500 hover:bg-red-600 text-white transform hover:-translate-y-1 hover:scale-110 mb-2`} onClick={handleCheers}>
         {cheers} Cheers!
       </button>
+      
       <button className={`${baseButtonStyle} bg-green-500 hover:bg-green-600 text-white transform hover:-translate-y-1 hover:scale-110 mb-4`} onClick={toggleIngredients}>
         {showIngredients ? 'Hide Ingredients' : 'Show Ingredients'}
       </button>
