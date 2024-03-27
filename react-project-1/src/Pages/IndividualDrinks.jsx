@@ -42,8 +42,8 @@ export default function IndividualDrinks() {
             </div>
 
           {drink.history ?  
-          <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-20">
-            <h2 className="text-2xl mb-2">History</h2>
+          <div className="font-black font-sans shadow-2xl p-4 rounded-lg bg-white mb-20">
+            <h2 className="text-2xl mb-2 ">History</h2>
             <p>{drink.history}</p>
           </div>
           : 
@@ -51,8 +51,8 @@ export default function IndividualDrinks() {
           }
 
           {drink.instructions ?   
-          <div className="font-black shadow-2xl p-4 rounded-lg bg-white">
-            <h2 className="text-2xl mb-2">Instructions</h2>
+          <div className="font-black shadow-2xl p-4 rounded-lg bg-white font-sans">
+            <h2 className="text-2xl mb-2 font-sans">Instructions</h2>
             
           
             <ol className="list-inside list-decimal">
