@@ -1,5 +1,8 @@
 import React from 'react'
 
+
+//search component that is controlled via search state; state managed with passed helper function
+
 export default function Search({ search, handleSearch }) {
   return (
     <div className="flex flex-col items-center pt-12 pb-9 ">

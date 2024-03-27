@@ -12,6 +12,8 @@ import EditDrink from './Pages/EditDrink.jsx'
 
 
 const routes = [
+
+  //create routes with paths and corresponding components; note that because all are children of App, they can receive context 
   {
     path:"/",
     element:<App />,

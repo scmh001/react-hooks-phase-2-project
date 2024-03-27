@@ -18,7 +18,8 @@ export default function IndividualDrinks() {
           return console.error("Something went wrong...");
         }
       })
-      .then(drinkData => setDrink(drinkData)); // Setting the fetched drink data to the state
+      .then(drinkData => setDrink(drinkData)) // Setting the fetched drink data to the state
+      .catch(error => console.error(error))
   }, [id]); // Dependency array with id to refetch when id changes
 
   return (

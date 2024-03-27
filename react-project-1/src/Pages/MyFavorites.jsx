@@ -23,6 +23,7 @@ export default function MyFavorites() {
         })
         // Update the favoriteDrinks state with the fetched data
         .then(favoriteData => setFavoriteDrinks(favoriteData))
+        .catch(error => console.error(error))
     },[allDrinks]) // Dependency array to re-run the effect if allDrinks changes
   
     return (
