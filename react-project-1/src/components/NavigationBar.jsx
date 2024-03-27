@@ -4,9 +4,9 @@ import { NavLink } from 'react-router-dom';
 export default function NavigationBar() {
   return (
     <nav className="bg-gray-800 text-white p-4">
-      <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="absolute h-15 w-10 top-8" />
-      <NavLink to={'/memorygame'}>      
-      <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="absolute h-15 w-10 top-8 right-10 transform hover:-translate-y-1 hover:scale-110 mb-2 hover:animate-spin"  />
+      <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="absolute h-15 w-12 top-7" />
+      <NavLink to={'/memorygame'} className="group">
+           <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="absolute h-15 w-12 top-7 right-10 group-hover:animate-spin" />
       </NavLink>
       <div className="container mx-auto flex items-center justify-between">
         <NavLink to={'/'} className="text-xl font-bold">

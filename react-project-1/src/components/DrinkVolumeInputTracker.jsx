@@ -53,7 +53,7 @@ const DrinkVolumeInputTracker = () => {
   return (
     <>
     <div className="container mx-auto p-4">
-      <h2 className="text-2xl font-semibold text-gray-800 mb-4">Water Volume Tracker</h2>
+      <h2 className="text-2xl font-bold text-gray-800 mb-4">Daily Water Volume Tracker</h2>
       <div className="mb-4">
         <label htmlFor="goalInput" className="block mb-2">Goal Volume (ounces):</label>
         <input
