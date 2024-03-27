@@ -25,7 +25,7 @@ const DrinkVolumeBarGraph = ({ volumes, goalValue }) => { // Accept goalValue as
       },
       {
         label: 'Goal',
-        data: Array(volumes.length).fill(goalValue), // Use goalValue here
+        data: Array(volumes.length).fill(goalValue), 
         type: 'line', // This makes it a line chart
         borderColor: '#FFD700', // Gold color for the goal line
         borderWidth: 2,
