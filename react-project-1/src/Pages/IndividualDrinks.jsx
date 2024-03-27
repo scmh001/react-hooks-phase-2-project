@@ -35,7 +35,7 @@ export default function IndividualDrinks() {
           <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-20">
            <h2 className="text-2xl mb-2">Ingredients</h2>
               <ul className="list-disc list-inside">
-          {drink.ingredients && drink.ingredients.split(', ').map((ingredient, index) => (
+          {drink.ingredients && drink.ingredients.split('. ').map((ingredient, index) => (
             <li key={index}>{ingredient}</li>
            ))}
              </ul>
@@ -56,7 +56,7 @@ export default function IndividualDrinks() {
             
           
             <ol className="list-inside list-decimal">
-          {drink.instructions && drink.instructions.split(', ').map((instruction, index) => (
+          {drink.instructions && drink.instructions.split('. ').map((instruction, index) => (
             <li key={index}>{instruction.charAt(0).toUpperCase() + instruction.slice(1)}</li>
            ))}
              </ol> 
