@@ -82,7 +82,7 @@
       "cheers": 5,
       "history": "This flavor-packed limeade is a real thirst quencher during the dog days of summer, when watermelon is at its best. Should a festive occasion arise, it also makes a wonderful margarita mixer when paired with premium white tequila.",
       "instructions": "In a blender, add cubed watermelon and blend until pureed. You may need to smash the watermelon down with a spoon periodically until it all gets blended and smooth. Add in limeade and ice, blend until all slushie. Pour into glasses and enjoy!",
-      "favorite": "false",
+      "favorite": "true",
       "funfacts": {
         "funfact1": "Watermelon Limeade is a perfect summer drink that combines the sweetness of watermelon with the tanginess of lime juice, creating a refreshing and hydrating beverage.",
         "funfact2": "This drink is not only a great way to enjoy watermelon and lime in a drink form but also offers a delightful way to quench thirst during the hot summer months.",
@@ -100,7 +100,7 @@
       "cheers": 5,
       "history": "The first recipe that closely resembled the sweet “iced tea” we know and love today wasn't printed until 1879. A cookbook titled, “Housekeeping in Old Virginia” shared the original recipe by Marion Cabell Tyree. Although it used green tea, this was the first recorded recipe to flavor the drink with sugar and lemon.",
       "instructions": "Boil water, add tea bags, and let steep for 5 minutes. Strain the tea into a pitcher. Add sugar and stir until dissolved. Chill in the refrigerator. Serve over ice with a sprig of mint or a slice of lemon for garnish.",
-      "favorite": "false",
+      "favorite": "true",
       "funfacts": {
         "funfact1": "Sweet Tea is a staple in the South, often enjoyed with a slice of lemon or a sprig of mint for garnish.",
         "funfact2": "The addition of sugar and lemon to tea is a classic combination that dates back to the 1870s, making it a timeless favorite.",
@@ -748,7 +748,7 @@
       "cheers": 3,
       "history": "The Dairy-Free Chocolate Float is a delightful twist on the classic soda fountain treat. Combining rich chocolate syrup, creamy dairy-free milk, and fizzy seltzer water, this beverage is both refreshing and indulgent. Topped with a scoop of dairy-free vanilla ice cream and optional whipped topping, it's the perfect way to satisfy your sweet tooth on a hot day. Whether enjoyed as a dessert or a special treat, the Dairy-Free Chocolate Float is sure to be a hit with kids and adults alike!",
       "instructions": "To make the Dairy-Free Chocolate Float, start by pouring dairy-free chocolate syrup into a glass. Add unsweetened dairy-free milk alternative and stir to combine. Fill the glass with seltzer water or soda water, leaving room for a scoop of dairy-free vanilla ice cream. Gently place the ice cream on top of the float. If desired, garnish with dairy-free whipped topping and a drizzle of chocolate syrup. Serve immediately with a straw and spoon. Enjoy!",
-      "favorite": "false",
+      "favorite": "true",
       "funfacts": {
         "funfact1": "Chocolate floats have been enjoyed for generations as a fun and nostalgic treat reminiscent of soda fountain days.",
         "funfact2": "Dairy-free chocolate syrup adds rich flavor to the float without the need for traditional dairy ingredients.",

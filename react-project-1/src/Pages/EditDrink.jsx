@@ -13,7 +13,8 @@ function EditDrink() {
     useEffect(() => {
         fetch(`http://localhost:4000/drinks/${id}`)
             .then((res) => res.json())
-            .then((data) => setFormData(data));
+            .then((data) => setFormData(data))
+            .catch(error => console.error(error))
     }, [id]); // Dependency array with 'id' to refetch when it changes
 
     // Handle form submission
@@ -32,7 +33,8 @@ function EditDrink() {
             },
         })
             .then((res) => res.json())
-            .then(() => navigate(`/drink/${id}`)); // Navigate to the drink's page after update
+            .then(() => navigate(`/drink/${id}`)) // Navigate to the drink's page after update
+            .catch(error => console.error(error))
     };
 
     // Update form data as user types

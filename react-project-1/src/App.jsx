@@ -20,6 +20,7 @@ function App() {
       }
     })
     .then(drinkData => setAllDrinks(drinkData))
+    .catch(error => console.error(error))
   }, [])
 
 //helper function for POST request to update amount of cheers

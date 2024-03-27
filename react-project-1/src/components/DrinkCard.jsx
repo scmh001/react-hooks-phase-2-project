@@ -35,7 +35,7 @@ export default function DrinkCard({ drink, handleAddCheers, handleUpdateFavorite
       .then(updatedDrink => {
           handleAddCheers(updatedDrink);
       })
-
+      .catch(error => console.error(error))
   }
 
   //function that updates state of favorite and changes to string to be read in JSON
@@ -70,6 +70,7 @@ export default function DrinkCard({ drink, handleAddCheers, handleUpdateFavorite
     .then(updatedDrink => {
         handleUpdateFavorite(updatedDrink);
     })
+    .catch(error => console.error(error))
   },[favorited])
 
   const baseButtonStyle = "font-bold py-2 px-4 rounded-full transition duration-300 ease-in-out";
