@@ -100,6 +100,12 @@ function AddNewDrink() {
         <input type="submit" value="Submit" className="submit-button" />
       </form>
     </div>
+    <footer className="text-center text-gray-600 py-4 border-t-2 border-gray-200 mt-8">
+        <div className="max-w-5xl m-auto">
+          <p>© {new Date().getFullYear()} Drinks Galore. All rights reserved.</p>
+          <p>Designed with 💖 by the Drinks Galore Team</p>
+        </div>
+      </footer>
     </>
   );
 }

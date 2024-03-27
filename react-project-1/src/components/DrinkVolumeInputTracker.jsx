@@ -89,6 +89,12 @@ const DrinkVolumeInputTracker = () => {
       </div>
       <span className= "italic">For healthy individuals, the average daily water intake for men is about 15.5 cups (~124 ounces) and for women about 11.5 cups(~92 ounces). -- (health.harvard.edu 2023) </span>
     </div>
+    <footer className="text-center text-gray-600 py-4 border-t-2 border-gray-200">
+        <div className="max-w-5xl m-auto">
+          <p>© {new Date().getFullYear()} Drinks Galore. All rights reserved.</p>
+          <p>Designed with 💖 by the Drinks Galore Team</p>
+        </div>
+      </footer>
     </>
   );
 };

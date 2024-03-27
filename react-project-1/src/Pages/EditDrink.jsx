@@ -37,6 +37,7 @@ function EditDrink() {
 	};
 
 	return (
+        <>
         <form onSubmit={handleSubmit} className="max-w-lg mx-auto bg-white p-8 rounded-lg shadow" autoComplete="off">
             <h3 className="text-2xl font-bold mb-6">Edit {formData.name}</h3>
 
@@ -134,6 +135,13 @@ function EditDrink() {
                 Update Drink
             </button>
         </form>
+        <footer className="text-center text-gray-600 py-4 border-t-2 border-gray-200 mt-8">
+        <div className="max-w-5xl m-auto">
+          <p>© {new Date().getFullYear()} Drinks Galore. All rights reserved.</p>
+          <p>Designed with 💖 by the Drinks Galore Team</p>
+        </div>
+      </footer>
+        </>
     );
 }
 

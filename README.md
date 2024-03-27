@@ -13,7 +13,7 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 * View the top 5 upvoted drinks on home page.
 * Add "cheers" to "upvote" drinks.
 * Add drinks to "All Drinks" page with a Drink Input Form.
-* Water volume daily intake tracker with standardized goal.
+* Daily Water volume daily intake tracker with standardized goal.
 * Show ingredients with button "Show Ingredients".
 * Favorites button with "Favorites" page that show favorited drinks.
 * Drink history on "Individual Drink Page".
