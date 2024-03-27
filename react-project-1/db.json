@@ -95,108 +95,162 @@
       "uuid": "18bee752-5fbb-4c4c-af64-2875bb451f49",
       "name": "Sweet Tea",
       "category": "Non-Alcoholic",
-      "ingredients": "12 individual tea bags, 1 cup granulated sugar, Ice, Fresh mint leaves or lemon slices (optional)",
+      "ingredients": "12 individual tea bags. 1 cup granulated sugar. Ice. Fresh mint leaves or lemon slices (optional)",
       "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_1022/k%2Farchive%2Fa578ef028e789e8e15c61a51916dc7010c0a72ad",
       "cheers": 5,
-      "history": "The first recipe that closely resembled the sweet “iced tea” we know and love today wasn't printed until 1879. A cookbook titled, “Housekeeping in Old Virginia” shared the original recipe by Marion Cabell Tyree. Although it used green tea, this was the first recorded recipe to flavor the drink with sugar and lemon",
-      "instructions": null,
-      "favorite": "false"
+      "history": "The first recipe that closely resembled the sweet “iced tea” we know and love today wasn't printed until 1879. A cookbook titled, “Housekeeping in Old Virginia” shared the original recipe by Marion Cabell Tyree. Although it used green tea, this was the first recorded recipe to flavor the drink with sugar and lemon.",
+      "instructions": "Boil water, add tea bags, and let steep for 5 minutes. Strain the tea into a pitcher. Add sugar and stir until dissolved. Chill in the refrigerator. Serve over ice with a sprig of mint or a slice of lemon for garnish.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Sweet Tea is a staple in the South, often enjoyed with a slice of lemon or a sprig of mint for garnish.",
+        "funfact2": "The addition of sugar and lemon to tea is a classic combination that dates back to the 1870s, making it a timeless favorite.",
+        "funfact3": "Sweet Tea is not just a drink; it's a social event. It's often served in large pitchers and enjoyed with friends and family, making it a perfect choice for gatherings.",
+        "funfact4": "The sweetness of Sweet Tea can be adjusted to taste, making it a versatile drink that can be enjoyed by people of all ages."
+      }
     },
     {
       "id": "7",
       "uuid": "793f67ff-3515-4e33-a0d5-9411aa519dd3",
       "name": "Margarita",
       "category": "Alcoholic",
-      "ingredients": "1 ½ oz tequila, 1 oz Triple Sec or Cointreau, ¾ oz lime juice",
+      "ingredients": "1 ½ oz tequila. 1 oz Triple Sec or Cointreau. ¾ oz lime juice",
       "image": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Patron-Margarita-002.jpg",
       "cheers": 36,
       "history": "One of the earliest stories is of the margarita being invented in 1938 by Carlos Danny Herrera at his restaurant Rancho La Gloria, halfway between Tijuana and Rosarito, Baja California, created for customer and former Ziegfeld dancer Marjorie King, who was allergic to many spirits, but not to tequila.",
-      "instructions": null,
-      "favorite": "false"
+      "instructions": "Fill a cocktail shaker with ice. Add tequila, Triple Sec or Cointreau, and lime juice. Shake well. Strain into a glass. Garnish with a lime wedge.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Margarita is a classic cocktail that has become a staple in bars worldwide, known for its vibrant color and refreshing taste.",
+        "funfact2": "The drink's name is believed to have originated from the Mexican state of Michoacán, where the margarita flower is native, although the cocktail itself was invented in the United States.",
+        "funfact3": "The Margarita is not just a cocktail; it's a celebration. It's often served in large batches at parties and events, making it a perfect choice for social gatherings. If you're feeling adventurous, why not play 'Margaritaville' by Jimmy Buffet on Spotify while you're enjoying your drink?",
+        "funfact4": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M?si=75c18d3c65fe4d87"
+      }
     },
     {
       "id": "8",
       "uuid": "0a26b057-5fce-47fd-b26e-2edb1cdc449d",
       "name": "Moscow Mule",
       "category": "Alcoholic",
-      "ingredients": "2 oz vodka, 4 oz ginger beer, ½ oz lime juice",
+      "ingredients": "2 oz vodka. 4 oz ginger beer. ½ oz lime juice",
       "image": "https://www.acouplecooks.com/wp-content/uploads/2019/06/Moscow-Mule-062.jpg",
       "cheers": 28,
       "history": "The Moscow Mule was born on that day in 1941. The perfect combination of vodka and ginger beer, housed in a solid copper mug that kept the drink cold and enhanced its flavor and aroma, resulting in a cocktail that America would fawn over for the next century and beyond.",
-      "instructions": null,
-      "favorite": "false"
+      "instructions": "Fill a copper mug with ice. Add vodka and lime juice. Pour ginger beer over the top. Stir gently to mix. Garnish with a lime wedge.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Moscow Mule is a refreshing cocktail that combines the spicy kick of ginger beer with the smoothness of vodka, creating a unique and enjoyable drink.",
+        "funfact2": "The drink's name is a playful nod to its Russian-inspired ingredients, but it's actually an American invention that dates back to the 1940s.",
+        "funfact3": "The Moscow Mule is traditionally served in a copper mug, which helps to keep the drink cold and enhances its flavor and aroma.",
+        "funfact4": "The Moscow Mule is versatile and can be enjoyed in various ways, such as on the rocks, in a highball glass, or even in a Moscow Mule mug, making it a perfect choice for special occasions."
+      }
     },
     {
       "id": "9",
       "uuid": "08cf6620-a790-4a64-b2be-70ff209a2ec8",
       "name": "Oreo Milkshake",
       "category": "Non-Alcoholic",
-      "ingredients": "6 chocolate sandwich cookies (such as Oreo®), 3 scoops vanilla ice cream, ¾ cup milk",
+      "ingredients": "6 chocolate sandwich cookies (such as Oreo®). 3 scoops vanilla ice cream. ¾ cup milk",
       "image": "https://www.allrecipes.com/thmb/LoXJbnPLMX-Agcb5OC1unM28J_s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2028980-7f016ddf84fa453fbd3161e4e277028c.jpg",
       "cheers": 6,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Oreo Milkshake is a delightful and indulgent treat that has become a beloved classic. It originated from the popular Oreo cookie, which was introduced by the National Biscuit Company (now known as Nabisco) in 1912. The combination of the iconic chocolate sandwich cookies and creamy vanilla ice cream creates a perfect harmony of flavors and textures. Over the years, the Oreo Milkshake has gained popularity as a nostalgic and comforting beverage, enjoyed by people of all ages.",
+      "instructions": "In your blender, combine ice cream, milk, and 4 Oreos. Blend until mixed and pour into a glass. Take one more Oreo cookie and crush it in your hand before dropping the pieces over the shake. Top with optional whipped cream, add a straw, and enjoy!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Oreo Milkshake is a creamy and dreamy treat that combines the classic cookies and cream flavor with the richness of vanilla ice cream and milk.",
+        "funfact2": "Feel free to experiment with different flavors of Oreos to add a unique twist to your milkshake. Any Oreo variation will work here.",
+        "funfact3": "The perfect ratio of Oreos to ice cream is key to achieving a thick and creamy milkshake that's not too thick to drink with a straw.",
+        "funfact4": "The Oreo Milkshake is a quick and easy treat that's perfect for a sweet tooth. It's a delicious way to enjoy your favorite cookies in a new and delightful way."
+      }
     },
     {
       "id": "10",
       "uuid": "6cc56396-6039-4582-9a3a-9a57422b4fa7",
       "name": "Mocha Latte",
       "category": "Non-Alcoholic",
-      "ingredients": "3 ounces espresso, or ½ cup strong coffee, 6 ounces whole milk, or milk of choice, 2 Tablespoons chocolate syrup",
+      "ingredients": "3 ounces espresso, or ½ cup strong coffee. 6 ounces whole milk, or milk of choice. 2 Tablespoons chocolate syrup",
       "image": "https://www.forkinthekitchen.com/wp-content/uploads/2022/06/220518.homemade.mocha_.latte-6728-683x1024.jpg",
       "cheers": 8,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Mocha Latte is a delightful coffee drink that has gained popularity for its rich and harmonious combination of espresso, chocolate syrup, and steamed milk. It is believed to have originated in Italy, where the combination of coffee and chocolate has long been cherished. Over time, the Mocha Latte has become a beloved choice for coffee enthusiasts around the world, offering a perfect balance of bold coffee flavor and sweet chocolate notes.",
+      "instructions": "Brew your espresso or strong coffee. Steam milk until hot. Pour the hot milk into a cup and add the espresso or coffee. Stir in the chocolate syrup until fully dissolved. Serve immediately.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Mocha Latte is a rich and indulgent coffee drink that combines the strength of espresso with the sweetness of chocolate syrup and the creaminess of steamed milk.",
+        "funfact2": "The addition of chocolate syrup gives the Mocha Latte a unique flavor profile that's perfect for coffee lovers who enjoy a bit of sweetness.",
+        "funfact3": "Steaming the milk before adding it to the coffee ensures that the milk is hot and ready to mix with the coffee, resulting in a smooth and creamy latte.",
+        "funfact4": "The Mocha Latte is a versatile drink that can be enjoyed hot or cold, making it a perfect choice for any time of day."
+      }
     },
     {
       "id": "11",
       "uuid": "89a56841-d2f3-412d-9f19-9607ba2ae8c9",
       "name": "Masala Chai",
       "category": "Non-Alcoholic",
-      "ingredients": "1 whole cinnamon stick, 6-8 green cardamom pods, 1 tsp whole black peppercorns, 3-4 whole cloves, 2 ½ cups water, 2 Tbsp grated ginger, 3 Tbsp loose leaf black tea",
+      "ingredients": "1 whole cinnamon stick. 6-8 green cardamom pods. 1 tsp whole black peppercorns. 3-4 whole cloves. 2 ½ cups water. 2 Tbsp grated ginger. 3 Tbsp loose leaf black tea",
       "image": "https://www.teaforturmeric.com/wp-content/uploads/2021/11/Masala-Chai-Tea-9.jpg",
       "cheers": 9,
       "history": "Legends state that Masala Chai's foundations were laid some 5,000 years ago when Indian emperors used to sip a brewed concoction of spices to remain alert throughout courtly affairs. The drink was caffeine free and used as an ayurvedic medicine.",
-      "instructions": null,
-      "favorite": "false"
+      "instructions": "In a pot, combine water, ginger, and black tea. Bring to a boil. Add the cinnamon stick, cardamom pods, and black peppercorns. Let simmer for 10 minutes. Strain and serve hot with milk and sugar to taste.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Masala Chai is a traditional Indian beverage that combines the richness of black tea with the warmth of milk and the sweetness of sugar, all enhanced by a blend of spices.",
+        "funfact2": "The addition of spices like cinnamon, cardamom, and black peppercorns gives Masala Chai its unique flavor profile, making it a beloved drink in India and around the world.",
+        "funfact3": "Masala Chai is not just a drink; it's a tradition. It's often served with a side of snacks, creating a social experience that brings people together.",
+        "funfact4": "The history of Masala Chai dates back thousands of years, and it's still a staple in many households today. It's a testament to the enduring appeal of traditional Indian flavors."
+      }
     },
     {
       "id": "12",
       "uuid": "91586fa5-4d51-4cc3-94a7-ee9667d93d0a",
       "name": "Cosmopolitan Cocktail",
       "category": "Alcoholic",
-      "ingredients": "1 ounce vodka or citron vodka, 1 ounce 100% cranberry juice (unsweetened), ½ ounce Cointreau, ½ ounce fresh lime juice, 1 teaspoon simple syrup, garnish: lime wheel",
+      "ingredients": "1 ounce vodka or citron vodka. 1 ounce 100% cranberry juice (unsweetened). ½ ounce Cointreau. ½ ounce fresh lime juice. 1 teaspoon simple syrup. Garnish: lime wheel",
       "image": "https://www.acouplecooks.com/wp-content/uploads/2019/12/Cosmopolitan-Cocktail-006.jpg",
       "cheers": 10,
-      "history": "The origin of the cosmopolitan is disputed. with some histories tracing it from the gay community in 1970s Provincetown, moving west to Cleveland and Minneapolis, and landing in San Francisco. From there, it moved back east, with the contemporary recipe being mixed in 1989 in New York City.",
-      "instructions": null,
-      "favorite": "false"
+      "history": "The origin of the cosmopolitan is disputed, with some histories tracing it from the gay community in 1970s Provincetown, moving west to Cleveland and Minneapolis, and landing in San Francisco. From there, it moved back east, with the contemporary recipe being mixed in 1989 in New York City.",
+      "instructions": "In a cocktail shaker, combine vodka, cranberry juice, Cointreau, lime juice, and simple syrup. Shake well. Strain into a glass. Garnish with a lime wheel.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Cosmopolitan Cocktail is a sophisticated blend of flavors that combines the sweetness of cranberry juice with the tanginess of lime juice and the bitterness of vodka, all enhanced by the sweetness of Cointreau.",
+        "funfact2": "The Cosmopolitan is a versatile cocktail that can be enjoyed in various ways, such as on the rocks, in a highball glass, or even in a martini glass, making it a perfect choice for any occasion.",
+        "funfact3": "The Cosmopolitan is not just a cocktail; it's a celebration of flavors. It's often served in large batches at parties and events, making it a perfect choice for social gatherings.",
+        "funfact4": "The Cosmopolitan is a nod to the cosmopolitan lifestyle, reflecting the drink's versatility and the ability to enjoy it in a variety of settings."
+      }
     },
     {
       "id": "13",
       "uuid": "a79bc48b-4f4a-4463-ab9b-b38d3685e0d4",
       "name": "Gimlet",
       "category": "Alcoholic",
-      "ingredients": "2 ounces gin, ½ ounce lime juice, ½ ounce simple syrup or pure maple syrup, Splash of soda water (optional)",
+      "ingredients": "2 ounces gin. ½ ounce lime juice. ½ ounce simple syrup or pure maple syrup. Splash of soda water (optional)",
       "image": "https://www.acouplecooks.com/wp-content/uploads/2019/05/Gimlet-002.jpg",
       "cheers": 29,
-      "history": "It may be named after the tool for drilling small holes (alluding to its (piercing) effect on the drinker) or after the surgeon Rear-Admiral Sir Thomas Gimlette (1857–1943), who is said to have first added lime cordial to gin to help combat the ravages of scurvy on long voyages.",
-      "instructions": null,
-      "favorite": "true"
+      "history": "The Gimlet dates back to the 19th century when British sailors were provided with lime rations to combat scurvy. The juice was often mixed with smaller quantities of neutral spirits to preserve it for long voyages. The drink was named after a tool used to bore holes on ships, or after Rear-Admiral Sir Thomas Desmond Gimlette, a British naval doctor, who is said to have first added lime cordial to gin to help combat the ravages of scurvy on long voyages.",
+      "instructions": "In a cocktail shaker, combine gin, lime juice, and simple syrup. Add ice and shake until well-chilled. Strain into a chilled cocktail glass or an rocks glass filled with fresh ice. Optionally, top with a splash of soda water. Garnish with a lime wheel.",
+      "favorite": "true",
+      "funfacts": {
+        "funfact1": "The Gimlet is a classic cocktail that has been enjoyed by sailors and cocktail enthusiasts alike for over a century. Its simple yet elegant combination of gin, lime juice, and sugar is a testament to its timeless appeal.",
+        "funfact2": "The Gimlet's history is as rich as its taste. From its origins as a scurvy prevention drink for sailors to its modern-day popularity, the Gimlet has always been a favorite among those who appreciate a well-balanced cocktail.",
+        "funfact3": "The Gimlet is not just a drink; it's a tradition. It's often served in large batches at parties and events, making it a perfect choice for social gatherings. And if you're feeling adventurous, why not try adding a splash of soda water for a twist on the classic recipe?",
+        "funfact4": "The Gimlet is a nod to the past, reflecting the drink's origins in the British Navy. It's a reminder of how simple ingredients can come together to create a delightful and memorable cocktail."
+      }
     },
     {
       "id": "14",
       "uuid": "8c825087-6b48-4505-ab1e-9f26af6f2122",
       "name": "Berry Delicious Smoothie",
       "category": "Non-Alcoholic",
-      "ingredients": "2 cups frozen mixed berries, 1 cup strawberry flavored yogurt, 1 banana, sliced, 1 cup milk, ½ teaspoon white sugar (Optional)",
+      "ingredients": "2 cups frozen mixed berries. 1 cup strawberry flavored yogurt. 1 banana, sliced. 1 cup milk. ½ teaspoon white sugar (Optional)",
       "image": "https://www.allrecipes.com/thmb/CJSeVzY-if0UVYd3wU5VnWg391g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2275869-f5c32aaf246a44e18ecf5dd602005713.jpg",
       "cheers": 4,
       "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "instructions": "In the container of a blender, combine the mixed berries, strawberry yogurt, banana, milk, and sugar. Cover, and blend until smooth. Pour into glasses and serve.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Berry Delicious Smoothie is a delightful blend of fruits and yogurt that offers a refreshing and sweet treat. It's perfect for a quick snack or a healthy dessert.",
+        "funfact2": "The smoothie is not just a drink; it's a celebration of the sweetness of berries and the creaminess of yogurt. It's a perfect way to enjoy your favorite fruits in a new and delightful way.",
+        "funfact3": "The Berry Delicious Smoothie is a versatile drink that can be enjoyed at any time of day. Whether you're looking for a breakfast treat, a snack, or a dessert, this smoothie has got you covered.",
+        "funfact4": "The Berry Delicious Smoothie is a great choice for those watching their sugar intake. The optional addition of white sugar allows you to adjust the sweetness to your liking, making it a perfect choice for dietary preferences."
+      }
     },
     {
       "id": "15",
@@ -206,9 +260,15 @@
       "ingredients": "1/2 cup heavy cream (for the top), 1/4 teaspoon ground cinnamon or pumpkin pie spice, 1 pinch salt, 2 tablespoons butterscotch topping, 1 to 2 teaspoons lemon juice, 6 (12 ounce) bottles cream soda",
       "image": "https://www.allrecipes.com/thmb/PEaOc-W6sgYDhpmaIIULWKlLywY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/219139-butterbeer-R0300-4x3-3bdeffd9643c4518b3e2331688754725.jpg",
       "cheers": 11,
-      "history": "Butterbeer may be based on Buttered Beer, which was a real drink. The earliest reference to Buttered Beer is from, 'The Good Huswifes Handmaide for the Kitchin' published in London in 1588 A.D., made from beer, sugar, eggs, nutmeg, cloves and butter back in Tudor times.",
-      "instructions": null,
-      "favorite": "false"
+      "history": "Butterbeer is a beloved fictional beverage from the 'Harry Potter' series. However, its inspiration may have roots in history. The earliest reference to a similar drink, Buttered Beer, dates back to the late 16th century in England. It was made from beer, sugar, eggs, nutmeg, cloves, and butter, and enjoyed during Tudor times.",
+      "instructions": "To make Butterbeer, start by chilling the cream soda. In a separate bowl, whip the heavy cream with cinnamon or pumpkin pie spice and a pinch of salt until thick. Add butterscotch topping and lemon juice to the cream soda, stirring gently to combine. Pour the cream soda mixture into mugs, leaving room at the top. Top each mug with a dollop of the spiced whipped cream. Enjoy your magical treat!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Butterbeer gained immense popularity due to its portrayal in the Harry Potter series as a favorite beverage among wizards and witches.",
+        "funfact2": "The Wizarding World of Harry Potter theme park attractions serve Butterbeer in various forms, including cold, frozen, and hot.",
+        "funfact3": "Fans have created numerous homemade recipes and variations of Butterbeer, adding to its charm and appeal among Harry Potter enthusiasts worldwide.",
+        "funfact4": "The flavor profile of Butterbeer often combines sweet, buttery, and slightly spicy notes, making it a unique and comforting drink."
+      }
     },
     {
       "id": "16",
@@ -218,9 +278,15 @@
       "ingredients": "1 very ripe banana broken into chunks, 1 cup frozen blueberries, ½ to 1 cup unsweetened plain or vanilla dairy-free milk beverage, ½ cup fresh or frozen baby spinach leaves (optional but do try!), 1 tablespoon ground flaxseed, ¼ to ½ teaspoon ground cinnamon to taste (optional), ½ cup ice (optional), Honey or agave nectar or stevia to taste (optional)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2006/05/Wild-Blue-Smoothie-online-writing.jpg",
       "cheers": 10,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "Smoothies have been enjoyed for centuries, with variations found in cultures around the world. The Breakfast Banana Blueberry Smoothie combines nutritious ingredients like bananas, blueberries, and spinach to create a delicious and energizing beverage to start your day.",
+      "instructions": "To make this smoothie, add the banana chunks, frozen blueberries, dairy-free milk, spinach leaves, ground flaxseed, and optional ingredients like ground cinnamon and sweetener to a blender. Blend until smooth and creamy. Add ice if desired for a colder texture. Pour into glasses and enjoy this nutritious and tasty breakfast treat!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Bananas are a great source of potassium, which helps maintain proper heart function and blood pressure.",
+        "funfact2": "Blueberries are packed with antioxidants, which can help protect your body from oxidative stress and inflammation.",
+        "funfact3": "Spinach is rich in vitamins A and C, as well as iron, making it a nutrient powerhouse for boosting immunity and energy levels.",
+        "funfact4": "Flaxseeds are high in omega-3 fatty acids and fiber, promoting heart health and aiding in digestion."
+      }
     },
     {
       "id": "17",
@@ -230,9 +296,15 @@
       "ingredients": "1 to 2 tablespoons cocoa powder to taste, 2 tablespoons sugar (can sub your sweetener of choice) or to taste, Pinch salt, Boiling water to fill your mug (about 1 to 1½ cups)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2007/02/Hot-Cocoa-online-writing.jpg",
       "cheers": 6,
-      "history": "Hot chocolate, also known as hot cocoa or drinking chocolate, is a heated drink that has a rich history dating back thousands of years. The first chocolate drink is believed to have been created by the Mayo-Chinchipe culture and was an essential part of Aztec culture by 1400 AD, referred to as xocōlātl",
-      "instructions": null,
-      "favorite": "false"
+      "history": "Hot chocolate, also known as hot cocoa or drinking chocolate, has a rich history dating back thousands of years. The first chocolate drink is believed to have been created by the ancient Mayans and later enjoyed by the Aztecs. They prized chocolate for its rich flavor and believed it had mystical and aphrodisiac properties.",
+      "instructions": "To make Basic Dairy-Free Hot Cocoa, mix cocoa powder, sugar, and salt in a mug. Add boiling water and stir until well combined. Adjust sweetness and cocoa intensity to taste. Serve hot and enjoy the comforting warmth of this timeless beverage.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Aztecs called chocolate 'xocolātl' and often flavored it with spices like chili peppers, vanilla, and cinnamon.",
+        "funfact2": "In ancient Mayan culture, cocoa beans were so valuable they were used as currency and even featured in religious ceremonies.",
+        "funfact3": "Hot chocolate became popular in Europe after the Spanish brought cocoa beans back from the New World in the 16th century.",
+        "funfact4": "The addition of spices like gingerbread, Aztec, or nutty flavors adds complexity and depth to traditional hot cocoa recipes, offering a delightful twist on a classic beverage."
+      }
     },
     {
       "id": "18",
@@ -242,9 +314,15 @@
       "ingredients": "14 ounces dairy-free sweetened condensed milk, 1 (15-ounce) can cream of coconut (I used Coco Lopez), 1 (13.5-ounce) can coconut milk (regular full fat), ¾ teaspoon ground cinnamon to taste plus additional for garnish (optional - I forgot in my photos), ½ teaspoon vanilla extract, ¼ teaspoon ground nutmeg, 1½ cups dark rum or to taste, ½ to 1 cup unsweetened dairy-free milk beverage",
       "image": "https://www.godairyfree.org/wp-content/uploads/2020/11/coquito-online-writing2.jpg",
       "cheers": 11,
-      "history": "Coquito, a traditional Puerto Rican holiday drink, is often likened to eggnog due to its creamy texture and festive association. The name (coquito) translates to (little coconut) in Spanish, highlighting the drink's primary flavor. While traditional coquito recipes include dairy products such as evaporated milk and sweetened condensed milk, there has been a growing interest in dairy-free versions to accommodate those with lactose intolerance or those following a vegan lifestyle.",
-      "instructions": null,
-      "favorite": "false"
+      "history": "Coquito, a traditional Puerto Rican holiday drink, is often likened to eggnog due to its creamy texture and festive association. The name 'coquito' translates to 'little coconut' in Spanish, highlighting the drink's primary flavor. While traditional coquito recipes include dairy products such as evaporated milk and sweetened condensed milk, there has been a growing interest in dairy-free versions to accommodate those with lactose intolerance or those following a vegan lifestyle.",
+      "instructions": "To make Dairy-Free Coquito, blend dairy-free sweetened condensed milk, cream of coconut, coconut milk, ground cinnamon, vanilla extract, ground nutmeg, and dark rum in a blender until smooth. Adjust the sweetness and rum level to taste. Chill the mixture in the refrigerator for at least an hour before serving. Serve in glasses with a sprinkle of ground cinnamon for garnish, if desired.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Coquito is a staple of Puerto Rican holiday celebrations, often enjoyed during Christmas and New Year's festivities.",
+        "funfact2": "The addition of dark rum gives coquito its characteristic warmth and depth of flavor, making it a comforting and indulgent treat.",
+        "funfact3": "Coquito recipes are often passed down through generations, with each family adding its unique twist to the traditional recipe.",
+        "funfact4": "Dairy-free versions of coquito allow individuals with dietary restrictions to enjoy this beloved holiday drink without sacrificing flavor or tradition."
+      }
     },
     {
       "id": "19",
@@ -255,8 +333,14 @@
       "image": "https://www.godairyfree.org/wp-content/uploads/2006/05/pics-Spanish-Latte-vert.jpg",
       "cheers": 11,
       "history": "The Spanish Latte, a popular coffee beverage, has a complex history that intertwines with various coffee traditions from around the world. Despite its name, the exact origins of the Spanish Latte are not well-documented, and it shares similarities with several other coffee drinks from different cultures.",
-      "instructions": null,
-      "favorite": "false"
+      "instructions": "To prepare a Spanish Latte, brew a cup of strong coffee and add dairy-free chocolate syrup, orange zest, ground cinnamon, and dairy-free chocolate milk beverage to a mug. Stir well to combine. Top with dairy-free whipped topping for an indulgent finish, if desired. Serve hot and enjoy the rich and flavorful experience.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The combination of chocolate and orange flavors in a Spanish Latte creates a decadent and aromatic coffee experience.",
+        "funfact2": "Spanish Lattes are often enjoyed as a mid-day pick-me-up or as a delightful dessert alternative.",
+        "funfact3": "While the exact origin of the Spanish Latte is uncertain, its popularity has grown worldwide due to its delicious flavor profile and versatility.",
+        "funfact4": "Dairy-free versions of Spanish Lattes allow individuals with lactose intolerance or dietary preferences to savor this exquisite coffee creation without compromising on taste."
+      }
     },
     {
       "id": "20",
@@ -266,9 +350,15 @@
       "ingredients": "1 medium very ripe banana broken into chunks - fresh or frozen, 1 cup sliced ripe strawberries - fresh or frozen, ½ cup orange juice (fresh-squeezed if possible), 1 serving dairy-free probiotic powder (optional), ½ cup ice (optional)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2006/07/pics-Strawberry-C-Smoothie-vert.jpg",
       "cheers": 5,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Super C Strawberry Smoothie is a refreshing and nutritious beverage that combines the sweetness of ripe strawberries with the tangy zest of orange juice. Smoothies have a long history of being enjoyed as a quick and convenient way to get a boost of vitamins and minerals.",
+      "instructions": "To make a Super C Strawberry Smoothie, blend ripe banana chunks, sliced strawberries, orange juice, and optional dairy-free probiotic powder in a blender until smooth. Add ice if desired for a chilled and refreshing texture. Pour into glasses and enjoy this vibrant and energizing smoothie!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Strawberries are rich in vitamin C, antioxidants, and fiber, making them a nutritious addition to any smoothie.",
+        "funfact2": "Oranges are renowned for their high vitamin C content, which supports immune health and adds a refreshing citrus flavor to smoothies.",
+        "funfact3": "Adding dairy-free probiotic powder to smoothies may promote gut health by introducing beneficial bacteria into the digestive system.",
+        "funfact4": "Smoothies are versatile and can be customized with various fruits, juices, and supplements to suit individual tastes and nutritional needs."
+      }
     },
     {
       "id": "21",
@@ -278,369 +368,555 @@
       "ingredients": "½ cup long grain white rice, 1 cup blanched or peeled almonds (see Almond Note below), 1 cinnamon stick or ½ teaspoon ground cinnamon, 4 cups water (divided), ¼ to ⅓ cup sugar or honey or agave nectar to taste, ½ teaspoon vanilla extract, 4 lime wedges",
       "image": "https://www.godairyfree.org/wp-content/uploads/2017/05/pics-mexican-horchata-writing.jpg",
       "cheers": 7,
-      "history": "The history of Horchata, a beloved beverage, spans continents and centuries, evolving through cultural exchanges and adaptations to local tastes and ingredients. Its journey from ancient origins to a dairy-free Mexican favorite reflects a rich tapestry of culinary innovation.",
-      "instructions": null,
-      "favorite": "false"
+      "history": "Dairy-Free Mexican Horchata, a beloved beverage, has a rich and storied history that spans continents and centuries. Originating in ancient Egypt, horchata made its way to the Iberian Peninsula during the Moorish occupation and eventually reached the Americas through Spanish colonization.",
+      "instructions": "To prepare Dairy-Free Mexican Horchata, soak long grain white rice and blanched almonds in water with a cinnamon stick overnight. The next day, blend the soaked mixture with sugar (or honey or agave nectar), vanilla extract, and additional water until smooth. Strain the mixture through a fine mesh sieve or cheesecloth to remove solids. Serve over ice with a lime wedge for a refreshing and authentic taste of Mexican horchata.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Horchata is enjoyed throughout Latin America and has regional variations that include ingredients like rice, almonds, sesame seeds, and tiger nuts.",
+        "funfact2": "In Mexico, horchata is often served alongside spicy dishes to cool the palate and balance out the heat.",
+        "funfact3": "The name 'horchata' is derived from the Latin word 'hordeata,' which means made from barley.",
+        "funfact4": "Dairy-Free Mexican Horchata offers a refreshing and dairy-free alternative to the traditional recipe, making it accessible to individuals with lactose intolerance or dietary preferences."
+      }
     },
     {
       "id": "22",
       "uuid": "a07f264c-694c-47cb-ad25-5d30855e4215",
       "name": "Dairy-Free Pumpkin Spice Latte (Starbucks Copycat!)",
       "category": "Coffee",
-      "ingredients": "1 cup water, 1 cup sugar, 1 teaspoon vanilla extract",
+      "ingredients": "1 cup brewed coffee or espresso, 1/2 cup dairy-free milk (almond, oat, coconut, etc.), 1/4 cup pumpkin puree, 1 teaspoon pumpkin spice mix, 1 tablespoon maple syrup or agave nectar (optional), Dairy-free whipped cream (optional), Additional pumpkin spice mix for garnish (optional)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2018/10/Pumpkin-Spice-Latte-online-writing1.jpg",
       "cheers": 8,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Pumpkin Spice Latte, a beloved autumnal beverage, gained popularity through its association with cozy sweaters, falling leaves, and all things pumpkin spice. Inspired by the iconic Starbucks drink, this homemade version allows you to enjoy the comforting flavors of pumpkin spice without dairy.",
+      "instructions": "To make a Dairy-Free Pumpkin Spice Latte, combine brewed coffee or espresso, dairy-free milk, pumpkin puree, pumpkin spice mix, and sweetener (if using) in a saucepan. Heat over medium heat until warm, stirring occasionally. Alternatively, you can heat the milk separately and then whisk in the pumpkin puree and spices. Once heated through, pour the mixture into a mug. Top with dairy-free whipped cream and a sprinkle of pumpkin spice mix if desired. Enjoy your Dairy-Free Pumpkin Spice Latte!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Pumpkin spice lattes are often associated with the arrival of fall and have become a seasonal favorite among coffee enthusiasts.",
+        "funfact2": "The popularity of pumpkin spice lattes has inspired a wide range of pumpkin spice-flavored products, including cookies, cereals, and even dog treats.",
+        "funfact3": "Starbucks introduced the Pumpkin Spice Latte to its menu in 2003, and it quickly became a bestseller, generating a cult-like following among customers.",
+        "funfact4": "The Pumpkin Spice Latte has inspired countless homemade recipes and variations, with each enthusiast adding their unique twist to the classic beverage."
+      }
     },
     {
       "id": "23",
       "uuid": "9ac1f817-0c79-403b-b6c3-5d4bd1419818",
       "name": "Everyday Turmeric Smoothie",
       "category": "Smoothie",
-      "ingredients": "1 frozen ripe banana broken into chunks (can sub ¾ cup frozen mango chunks), ½ to 1 cup dairy-free unsweetened coconut milk beverage, 2 tablespoons full-fat coconut milk, ¼ to ½ teaspoon vanilla extract, ½ teaspoon ground turmeric, ⅛ teaspoon ground ginger, ⅛ teaspoon ground cinnamon, Pinch salt, Pinch black pepper, 3 to 5 drops pure stevia or your favorite sweetener to taste",
+      "ingredients": "1 frozen ripe banana broken into chunks (can sub ¾ cup frozen mango chunks). ½ to 1 cup dairy-free unsweetened coconut milk beverage. 2 tablespoons full-fat coconut milk. ¼ to ½ teaspoon vanilla extract. ½ teaspoon ground turmeric. ⅛ teaspoon ground ginger. ⅛ teaspoon ground cinnamon. Pinch salt. Pinch black pepper. 3 to 5 drops pure stevia or your favorite sweetener to taste",
       "image": "https://www.godairyfree.org/wp-content/uploads/2017/01/everyday-turmeric-smoothie-on-white-3.jpg",
       "cheers": 11,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Everyday Turmeric Smoothie combines the health benefits of turmeric with the refreshing taste of tropical fruits and creamy coconut milk. Turmeric, known for its vibrant yellow color and earthy flavor, has been used for centuries in traditional medicine for its potential anti-inflammatory and antioxidant properties. By blending it into a smoothie with other wholesome ingredients, this recipe offers a delicious and convenient way to incorporate turmeric into your daily routine.",
+      "instructions": "To make the Everyday Turmeric Smoothie, combine all ingredients in a blender. Blend until smooth and creamy, adding more coconut milk if needed to reach your desired consistency. Taste and adjust sweetness as desired with additional stevia or sweetener of choice. Pour into a glass and enjoy immediately.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Turmeric, often referred to as the 'golden spice,' is derived from the root of the Curcuma longa plant and is commonly used in culinary dishes and traditional medicine.",
+        "funfact2": "Black pepper is added to the smoothie not only for flavor but also to enhance the absorption of curcumin, the active compound in turmeric known for its health benefits.",
+        "funfact3": "Coconut milk adds creaminess to the smoothie while also providing healthy fats, vitamins, and minerals. It's a popular dairy-free alternative in smoothie recipes.",
+        "funfact4": "The addition of spices like ginger and cinnamon not only complements the flavor of turmeric but also adds warmth and depth to the smoothie, creating a well-balanced and flavorful blend."
+      }
     },
     {
       "id": "24",
       "uuid": "25797972-9a25-41f9-978f-c597e2a13bb2",
       "name": "Warm Carob Milk (with Spiced Option)",
       "category": "Non-Alcoholic",
-      "ingredients": "2 cups unsweetened almond milk beverage, 2 tablespoons carob powder, 2 tablespoons maple syrup (or your liquid sweetener of choice), ½ tablespoon vanilla extract, ¼ teaspoon ground cinnamon (optional), Dash ground ginger or cloves (optional), Pinch salt",
+      "ingredients": "2 cups unsweetened almond milk beverage. 2 tablespoons carob powder. 2 tablespoons maple syrup (or your liquid sweetener of choice). ½ tablespoon vanilla extract. ¼ teaspoon ground cinnamon (optional). Dash ground ginger or cloves (optional). Pinch salt",
       "image": "https://www.godairyfree.org/wp-content/uploads/2016/11/carob-milk-vert-writing-2.jpg",
       "cheers": 10,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "Warm Carob Milk is a comforting beverage made from creamy almond milk and carob powder, offering a delightful alternative to traditional hot chocolate. Carob, derived from the pods of the Ceratonia siliqua tree, has a naturally sweet flavor reminiscent of chocolate but without the caffeine and theobromine found in cocoa. Enjoyed warm and spiced with cinnamon and ginger or cloves, this beverage is perfect for cozy evenings or as a soothing treat any time of day.",
+      "instructions": "To prepare Warm Carob Milk, combine almond milk, carob powder, maple syrup, vanilla extract, and optional spices in a small saucepan. Heat over medium-low heat, stirring frequently, until the mixture is warmed through. Be careful not to boil. Once heated, pour the carob milk into mugs, sprinkle with additional cinnamon if desired, and serve warm.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Carob has been used for centuries as a natural sweetener and chocolate substitute in various cultures around the world.",
+        "funfact2": "Unlike cocoa, carob is naturally caffeine-free and contains no theobromine, making it a suitable option for individuals sensitive to caffeine or those avoiding chocolate.",
+        "funfact3": "Maple syrup adds a rich sweetness to the carob milk while also providing essential minerals like manganese and zinc.",
+        "funfact4": "Spicing the carob milk with cinnamon, ginger, or cloves adds warmth and depth of flavor, enhancing the overall drinking experience."
+      }
     },
     {
       "id": "25",
       "uuid": "69eef02f-1b8c-49d9-8a5f-6bd0d7d71c21",
       "name": "Dairy-Free Mighty Molasses Milk (Hot or Cold)",
       "category": "Non-Alcoholic",
-      "ingredients": "1 cup Silk Unsweetened Almond Milk Beverage (or coconut milk beverage for nut-free), 1 tablespoon blackstrap molasses, ¼ to ½ teaspoon pure vanilla extract or flavoring, 3 to 5 drops pure stevia extract, Pinch salt",
+      "ingredients": "1 cup almond milk (unsweetened). 1 tablespoon blackstrap molasses. ¼ to ½ teaspoon pure vanilla extract or flavoring. 3 to 5 drops pure stevia extract. Pinch salt",
       "image": "https://www.godairyfree.org/wp-content/uploads/2016/02/Warm-Molasses-Milk-11.jpg",
       "cheers": 9,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "Dairy-Free Mighty Molasses Milk offers a unique twist on traditional hot cocoa or chocolate milk by incorporating the rich flavor of blackstrap molasses. Molasses, a byproduct of the sugar refining process, is known for its robust taste and nutritional benefits. It contains essential minerals like iron, calcium, and magnesium, making it a nourishing addition to this dairy-free beverage. Whether enjoyed hot on a chilly day or cold over ice, this drink provides a comforting and wholesome treat for all occasions.",
+      "instructions": "To prepare Dairy-Free Mighty Molasses Milk, heat almond milk in a saucepan over medium heat until warm but not boiling. Stir in blackstrap molasses, vanilla extract, stevia extract, and a pinch of salt until well combined and heated through. Alternatively, for a cold version, simply combine all ingredients in a glass and stir until well mixed. Adjust sweetness and flavor to taste, then serve hot or cold as desired.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Blackstrap molasses is a highly concentrated form of molasses, obtained from the third boiling of sugar syrup during the refining process. It is darker, thicker, and has a stronger flavor than regular molasses.",
+        "funfact2": "Molasses has been used for centuries as a natural sweetener and flavor enhancer in cooking and baking, as well as for its perceived health benefits.",
+        "funfact3": "In addition to its rich taste, blackstrap molasses is valued for its nutritional content, containing significant amounts of iron, calcium, magnesium, and potassium.",
+        "funfact4": "Adding a pinch of salt to the molasses milk enhances the flavor and helps balance the sweetness, creating a more complex and satisfying taste profile."
+      }
     },
     {
       "id": "26",
       "uuid": "02a44cac-14b7-41fe-ab91-6ec395c51dba",
       "name": "Dairy-Free Strawberry Oatmeal Smoothie",
       "category": "Smoothie",
-      "ingredients": "½ cup oats (rolled or quick; certified gluten-free if needed), 14 strawberries (if using frozen use fresh banana), 1 frozen banana, 1 cup unsweetened dairy-free milk alternative, 1½ teaspoons sugar or honey or agave nectar, ½ teaspoon vanilla extract",
+      "ingredients": "½ cup oats (rolled or quick; certified gluten-free if needed). 14 strawberries (fresh or frozen). 1  banana (fresh or frozen). 1 cup unsweetened dairy-free milk alternative. 1½ teaspoons sugar or honey or agave nectar. ½ teaspoon vanilla extract",
       "image": "https://www.godairyfree.org/wp-content/uploads/2023/09/pics-Strawberry-Oatmeal-Smoothie-vert.jpg",
       "cheers": 9,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Strawberry Oatmeal Smoothie offers a delicious and nutritious way to start your day. Oats, a hearty and fiber-rich grain, provide sustained energy and help keep you feeling full. Combined with sweet and juicy strawberries, creamy dairy-free milk, and a touch of sweetness from honey or agave nectar, this smoothie is a satisfying breakfast or snack option for those with dietary restrictions or preferences. Whether enjoyed on the go or as a leisurely meal, this smoothie is sure to delight your taste buds and nourish your body.",
+      "instructions": "To prepare the Dairy-Free Strawberry Oatmeal Smoothie, simply combine all ingredients in a blender. Blend until smooth and creamy, adjusting the consistency with more dairy-free milk if needed. Taste and adjust sweetness as desired. Pour into a glass and enjoy immediately.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Oats are a nutritious whole grain that are high in fiber and protein, making them a filling and satisfying addition to smoothies.",
+        "funfact2": "Strawberries are rich in vitamin C, antioxidants, and fiber, offering numerous health benefits including immune support and improved digestion.",
+        "funfact3": "Using a frozen banana adds creaminess and a naturally sweet flavor to the smoothie without the need for added sugar.",
+        "funfact4": "Dairy-free milk alternatives like almond milk or coconut milk provide a creamy base for the smoothie while also catering to lactose intolerance or vegan diets."
+      }
     },
     {
       "id": "27",
       "uuid": "6978a53e-435d-42cb-b2f7-9f08c7c82233",
       "name": "Dairy-Free Strawberry Watermelon Slushie",
       "category": "Non-Alcoholic",
-      "ingredients": "2 cups (or about 12 ounces) seedless watermelon balls, ¾ to 1 cup strawberries (fresh or frozen), 1 to 2 teaspoons fresh lime juice, to taste, 1 tablespoon agave nectar, honey, or sugar (or to taste), Ice, as needed",
+      "ingredients": "2 cups (or about 12 ounces) seedless watermelon balls. ¾ to 1 cup strawberries (fresh or frozen). 1 to 2 teaspoons fresh lime juice, to taste. 1 tablespoon agave nectar, honey, or sugar (or to taste). Ice, as needed",
       "image": "https://www.godairyfree.org/wp-content/uploads/2023/08/pics-Strawberry-Watermelon-Slushie-vert.jpg",
       "cheers": 10,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Strawberry Watermelon Slushie is a refreshing beverage that combines the sweetness of watermelon with the tartness of strawberries and a hint of citrus from fresh lime juice. Originating from the need to beat the summer heat, slushies have been enjoyed for generations as a fun and cooling treat. This dairy-free version offers a guilt-free indulgence for those seeking a refreshing drink without the use of dairy products.",
+      "instructions": "To make the Dairy-Free Strawberry Watermelon Slushie, simply combine watermelon balls, strawberries, lime juice, and agave nectar (or sweetener of choice) in a blender. Blend until smooth. Add ice as needed to achieve a slushie consistency. Pour into glasses and serve immediately.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Watermelon is composed of about 92% water, making it an excellent hydrating fruit choice for hot summer days.",
+        "funfact2": "Strawberries are not only delicious but also packed with vitamins, minerals, and antioxidants, making them a nutritious addition to any diet.",
+        "funfact3": "Lime juice adds a refreshing citrus flavor to the slushie while also providing a boost of vitamin C.",
+        "funfact4": "Agave nectar, honey, or sugar can be adjusted to taste, allowing you to customize the sweetness of the slushie to your preference."
+      }
     },
     {
       "id": "28",
       "uuid": "7f78eadb-6d4a-4165-a4ec-ed863170f63e",
       "name": "Dairy-Free Strawberry Julius",
       "category": "Smoothie",
-      "ingredients": "2 cups strawberries, hulled and halved, 2 cups ice, ½ cup water (can sub unsweetened milk alternative), 3 tablespoons honey or agave nectar (can sub sugar), ½ teaspoon vanilla extract, Pinch salt (optional), 1½ tablespoons plain egg protein powder",
+      "ingredients": "2 cups strawberries, hulled and halved. 2 cups ice. ½ cup water (can sub unsweetened milk alternative). 3 tablespoons honey or agave nectar (can sub sugar). ½ teaspoon vanilla extract. Pinch salt (optional). 1½ tablespoons plain egg protein powder",
       "image": "https://www.godairyfree.org/wp-content/uploads/2009/05/Strawberry-Julius-vert.jpg",
       "cheers": 11,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Strawberry Julius is a spin-off of the classic Orange Julius, a beloved beverage originating from the United States in the 1920s. Originally served as an orange juice stand, Orange Julius quickly gained popularity for its creamy and frothy texture. This dairy-free version swaps out the traditional dairy ingredients for plant-based alternatives, offering a refreshing and nostalgic smoothie that can be enjoyed by those with lactose intolerance or dairy allergies.",
+      "instructions": "To prepare the Dairy-Free Strawberry Julius, simply combine strawberries, ice, water (or milk alternative), honey or agave nectar (or sugar), vanilla extract, salt (optional), and egg protein powder in a blender. Blend until smooth and creamy. Pour into glasses and serve immediately for a refreshing treat.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The original Orange Julius was created by Julius Freed, who experimented with blending oranges, sugar, milk, ice, and other ingredients to create a frothy and creamy beverage.",
+        "funfact2": "Strawberries are one of the most popular berries in the world and are enjoyed fresh, frozen, or in various culinary applications.",
+        "funfact3": "Egg protein powder is added to the smoothie to provide an extra boost of protein, making it a satisfying and nutritious beverage option.",
+        "funfact4": "The addition of salt (optional) enhances the flavor of the smoothie and balances the sweetness of the strawberries and honey or agave nectar."
+      }
     },
     {
       "id": "29",
       "uuid": "bd76a9b1-bb1d-4aed-9f49-9dca5f75eafb",
       "name": "Dairy-Free Chocolate Float",
       "category": "Non-Alcoholic",
-      "ingredients": "3 tablespoons dairy-free chocolate syrup (like Hershey's), ½ cup unsweetened dairy-free milk alternative, Seltzer water or soda water, as needed, 1 scoop dairy-free vanilla ice cream, Dairy-free whipped topping (optional; homemade or dairy-free)",
+      "ingredients": "3 tablespoons dairy-free chocolate syrup (like Hershey's). ½ cup unsweetened dairy-free milk alternative. Seltzer water or soda water, as needed. 1 scoop dairy-free vanilla ice cream. Dairy-free whipped topping (optional; homemade or dairy-free)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2015/08/pics-chocolate-float-vert.jpg",
       "cheers": 14,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Chocolate Float is a delightful twist on the classic soda fountain treat, the ice cream float. Ice cream floats, also known as soda floats or coke floats, have been enjoyed since the late 19th century and typically consist of ice cream floating in a carbonated beverage. This dairy-free version substitutes dairy-free chocolate syrup and dairy-free vanilla ice cream for the traditional dairy products, offering a delicious and indulgent treat for those with lactose intolerance or dairy allergies.",
+      "instructions": "To make the Dairy-Free Chocolate Float, start by pouring dairy-free chocolate syrup into a glass. Add unsweetened dairy-free milk alternative and stir to combine. Fill the glass with seltzer water or soda water, leaving some room at the top. Add a scoop of dairy-free vanilla ice cream to the glass. Top with dairy-free whipped topping, if desired. Serve immediately with a straw and spoon for an extra decadent treat.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Ice cream floats gained popularity in soda fountains and ice cream parlors in the early 20th century, offering a refreshing and indulgent treat for customers.",
+        "funfact2": "Chocolate syrup is a popular topping for ice cream and desserts and has been enjoyed for generations as a sweet and indulgent sauce.",
+        "funfact3": "Seltzer water or soda water adds fizziness and carbonation to the float, creating a bubbly and refreshing contrast to the creamy ice cream.",
+        "funfact4": "Dairy-free whipped topping can be made at home using coconut cream or purchased pre-made from the store, providing a creamy and decadent finishing touch to the float."
+      }
     },
     {
       "id": "30",
       "uuid": "6cce0be0-918a-4e1e-9bcd-6e4e1b53b650",
       "name": "Dairy-Free Berry Mint Smoothies",
       "category": "Smoothie",
-      "ingredients": "1 cup mixed berries (fresh or frozen), 1 cup unsweetened dairy-free milk alternative (Stephanie uses So Delicious Coconut), Handful fresh parsley, 3 to 4 sprigs fresh mint, plus sprigs for garnish, 1 tablespoon dairy-free protein powder (plain or vanilla), Sweetener, to taste (optional), Ice (optional)",
+      "ingredients": "1 cup mixed berries (fresh or frozen). 1 cup unsweetened dairy-free milk alternative (Stephanie uses So Delicious Coconut). Handful fresh parsley. 3 to 4 sprigs fresh mint, plus sprigs for garnish. 1 tablespoon dairy-free protein powder (plain or vanilla). Sweetener, to taste (optional). Ice (optional)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2014/03/pics-berry-mint-smoothies-vert.jpg",
       "cheers": 17,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Berry Mint Smoothies offer a refreshing blend of mixed berries, fresh herbs, and creamy coconut milk alternative. Smoothies have a long history dating back to ancient cultures, where fruits and herbs were blended together to create nutritious and flavorful beverages. This dairy-free version combines the sweetness of mixed berries with the cooling sensation of fresh mint, providing a delicious and revitalizing treat for any time of day.",
+      "instructions": "To prepare the Dairy-Free Berry Mint Smoothies, simply combine mixed berries, dairy-free milk alternative, parsley, fresh mint, dairy-free protein powder, sweetener (optional), and ice (optional) in a blender. Blend until smooth and creamy. Pour into glasses, garnish with fresh mint sprigs, and serve immediately for a refreshing and nutritious drink.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Mixed berries, including strawberries, blueberries, raspberries, and blackberries, are rich in antioxidants, vitamins, and fiber, making them a nutritious addition to smoothies.",
+        "funfact2": "Fresh mint not only adds a refreshing flavor to the smoothies but also contains menthol, which may help aid digestion and provide a cooling sensation.",
+        "funfact3": "Dairy-free protein powder is often made from plant-based sources such as pea, rice, or hemp protein, providing a vegan-friendly option for adding protein to smoothies.",
+        "funfact4": "Smoothies are highly customizable, allowing you to adjust the sweetness, thickness, and flavor according to your preferences and dietary needs."
+      }
     },
     {
       "id": "31",
       "uuid": "4b8cce98-6c1e-44cc-988c-0b1defd4af9a",
       "name": "Dairy-Free Banana Orange Strawberry Smoothie",
       "category": "Smoothie",
-      "ingredients": "1 medium banana, ½ medium orange, peeled and sectioned, 6 large strawberries, hulled, ¼ cup blueberries (optional), ¼ cup dairy-free milk beverage, Ice (optional)",
+      "ingredients": "1 medium banana. ½ medium orange, peeled and sectioned. 6 large strawberries, hulled. ¼ cup blueberries (optional). ¼ cup dairy-free milk beverage. Ice (optional)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2007/04/pics-the-boss-smoothie-vert.jpg",
       "cheers": 7,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Banana Orange Strawberry Smoothie is a vibrant and refreshing beverage that combines the sweetness of bananas, the citrusy tang of oranges, and the juiciness of strawberries. Smoothies have evolved over time to include a wide variety of fruits and ingredients, offering endless possibilities for flavor combinations. This dairy-free version provides a nutritious and delicious option for those seeking a refreshing drink without dairy products.",
+      "instructions": "To make the Dairy-Free Banana Orange Strawberry Smoothie, simply combine banana, orange sections, strawberries, optional blueberries, dairy-free milk beverage, and ice (optional) in a blender. Blend until smooth and creamy. Pour into glasses and serve immediately for a refreshing and satisfying treat.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Bananas are an excellent source of potassium, vitamins, and dietary fiber, making them a nutritious addition to smoothies.",
+        "funfact2": "Oranges are rich in vitamin C, antioxidants, and other nutrients, providing immune-boosting benefits and a burst of citrus flavor to smoothies.",
+        "funfact3": "Strawberries are one of the most popular berries worldwide and are enjoyed fresh, frozen, or in various culinary applications.",
+        "funfact4": "Blueberries, although optional in this recipe, are packed with antioxidants and may offer numerous health benefits, including improved heart health and brain function."
+      }
     },
     {
       "id": "32",
       "uuid": "e272c78c-5fea-4d1a-82d3-9bf73bb42b31",
       "name": "Dairy-Free Tigernut Milk",
       "category": "Non-Alcoholic",
-      "ingredients": "1 cup whole peeled tiger nuts, 4 cups water, plus additional for soaking",
+      "ingredients": "1 cup whole peeled tiger nuts. 4 cups water, plus additional for soaking",
       "image": "https://www.godairyfree.org/wp-content/uploads/2023/04/pics-tigernut-milk-vert.jpg",
       "cheers": 7,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "Tigernut milk, a nutritious and dairy-free alternative, is derived from the tuberous root vegetable known as tiger nuts. Originating from ancient Egypt, tiger nuts have been consumed for thousands of years and are prized for their rich nutritional profile and health benefits. Tigernut milk offers a naturally sweet and nutty flavor, making it a delicious addition to various recipes and beverages.",
+      "instructions": "To prepare dairy-free tigernut milk, begin by soaking the whole peeled tiger nuts in water overnight or for at least 8 hours. Drain and rinse the soaked tiger nuts, then blend them with 4 cups of fresh water until smooth and creamy. Strain the mixture through a nut milk bag or fine mesh sieve, squeezing out as much liquid as possible. Store the tigernut milk in a sealed container in the refrigerator for up to 4 days.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Tiger nuts are rich in fiber, vitamins, minerals, and healthy fats, making them a nutritious addition to the diet.",
+        "funfact2": "Tigernut milk is naturally gluten-free, lactose-free, and nut-free, making it suitable for individuals with various dietary restrictions and preferences.",
+        "funfact3": "In addition to being used as a beverage, tigernut milk can also be used in cooking, baking, and making dairy-free desserts and sauces.",
+        "funfact4": "Tigernuts are sometimes referred to as chufa nuts and are often used to make traditional Spanish horchata."
+      }
     },
     {
       "id": "33",
       "uuid": "2f1afcae-21db-4808-9b44-8b3f6969469f",
       "name": "Simply Almond Milk (Homemade Copycat)",
       "category": "Non-Alcoholic",
-      "ingredients": "4 cups water, 2½ to 3 tablespoons creamy almond butter (see Almond Butter Note below), ⅛ teaspoon salt (omit if using salted almond butter)",
+      "ingredients": "4 cups water. 2½ to 3 tablespoons creamy almond butter (see Almond Butter Note below). ⅛ teaspoon salt (omit if using salted almond butter)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2023/04/Simply-Almond-Milk-Vert.jpg",
       "cheers": 7,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "Almond milk, a popular dairy-free alternative, has been enjoyed for centuries and is believed to have originated in the Middle East. Traditional methods of making almond milk involved soaking almonds in water, then blending and straining the mixture to extract the milk. Today, almond milk is widely available in stores but can also be easily made at home with just a few simple ingredients.",
+      "instructions": "To create homemade almond milk, combine water, creamy almond butter, and salt (if using) in a blender. Blend on high speed until the mixture is smooth and creamy. If desired, sweeten the almond milk with a natural sweetener such as honey or maple syrup. Strain the mixture through a nut milk bag or fine mesh sieve to remove any remaining almond pulp. Store the almond milk in a sealed container in the refrigerator for up to 5 days.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Almond milk is low in calories and carbohydrates, making it a popular choice for individuals seeking a lighter alternative to dairy milk.",
+        "funfact2": "Homemade almond milk allows for customization of sweetness and flavor, allowing you to adjust the recipe according to your preferences.",
+        "funfact3": "Almond milk is a rich source of vitamin E, which is known for its antioxidant properties and benefits for skin health.",
+        "funfact4": "Almond milk can be used in a variety of recipes, including smoothies, baked goods, sauces, and desserts, adding a creamy texture and nutty flavor."
+      }
     },
     {
       "id": "34",
       "uuid": "571340b4-666f-41a8-bd72-145634e1c5c7",
       "name": "Dairy-Free Blueberry Banana Pear Smoothie",
       "category": "Smoothie",
-      "ingredients": "1½ cups blueberries, 2 pears, cored and cut into quarters, 2 bananas, fresh or frozen, 1 cup plain or vanilla dairy-free milk beverage, ¼ teaspoon ground cinnamon",
+      "ingredients": "1½ cups blueberries. 2 pears, cored and cut into quarters. 2 bananas, fresh or frozen. 1 cup plain or vanilla dairy-free milk beverage. ¼ teaspoon ground cinnamon",
       "image": "https://www.godairyfree.org/wp-content/uploads/2007/05/pics-Blueberry-Pear-Smoothie-vert.jpg",
       "cheers": 8,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Blueberry Banana Pear Smoothie is a delightful blend of fresh fruit and creamy dairy-free milk, offering a refreshing and nutritious beverage option. Blueberries, known for their antioxidant properties, provide a burst of flavor and vibrant color to the smoothie, while pears add natural sweetness and a subtle texture. Bananas contribute creaminess and additional sweetness, making this smoothie a satisfying and delicious treat for any time of day.",
+      "instructions": "To prepare the Dairy-Free Blueberry Banana Pear Smoothie, simply combine all ingredients in a blender. Blend until smooth and creamy, adjusting the consistency with more dairy-free milk if desired. Pour into glasses and serve immediately for a refreshing and energizing drink.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Blueberries are often referred to as a 'superfood' due to their high concentration of antioxidants, vitamins, and minerals, which contribute to overall health and well-being.",
+        "funfact2": "Pears are a good source of dietary fiber, vitamin C, and vitamin K, offering numerous health benefits, including improved digestion and immune support.",
+        "funfact3": "Bananas are rich in potassium, a vital mineral that plays a key role in heart health, muscle function, and nerve transmission.",
+        "funfact4": "Cinnamon not only adds warmth and depth to the flavor profile of the smoothie but also offers potential health benefits, including anti-inflammatory and antioxidant properties."
+      }
     },
     {
       "id": "35",
       "uuid": "5c8003fa-8cc6-4ce9-b78d-4afe78685b54",
       "name": "Dairy-Free Tropical Milkshakes",
       "category": "Non-Alcoholic",
-      "ingredients": "2 tablespoons chopped raw cashews, 2 tablespoons unsweetened coconut flakes, 1 ripe frozen banana, broken into chunks, 1 kiwi, peeled and coarsely chopped, 1 cup chopped mango, 1 cup chopped pineapple, 1 cup unsweetened coconut milk beverage, 1 cup dairy-free vanilla bean coconut milk ice cream, ½ cup light coconut whipped topping (optional, for garnish), 4 cherries (optional, for garnish), 1 teaspoon rainbow sprinkles (optional, for garnish)",
+      "ingredients": "2 tablespoons chopped raw cashews. 2 tablespoons unsweetened coconut flakes. 1 ripe frozen banana, broken into chunks. 1 kiwi, peeled and coarsely chopped. 1 cup chopped mango. 1 cup chopped pineapple. 1 cup unsweetened coconut milk beverage. 1 cup dairy-free vanilla bean coconut milk ice cream. ½ cup light coconut whipped topping (optional, for garnish). 4 cherries (optional, for garnish). 1 teaspoon rainbow sprinkles (optional, for garnish)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2022/09/Tropical-Banana-Split-Milkshake-online-vert.jpg",
       "cheers": 8,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Tropical Milkshakes offer a taste of paradise with a blend of exotic fruits and creamy coconut flavors. Inspired by classic tropical desserts, this milkshake is a refreshing and indulgent treat that captures the essence of sunny beaches and lush landscapes. With a combination of ripe banana, juicy mango, tangy pineapple, and creamy coconut milk ice cream, each sip is bursting with tropical goodness.",
+      "instructions": "To create the Dairy-Free Tropical Milkshakes, start by adding chopped cashews and unsweetened coconut flakes to a blender. Blend until finely ground. Add the frozen banana, kiwi, mango, pineapple, coconut milk beverage, and dairy-free vanilla bean coconut milk ice cream to the blender. Blend until smooth and creamy, adjusting the consistency with more coconut milk if needed. Pour the milkshake into glasses and garnish with coconut whipped topping, cherries, and rainbow sprinkles if desired. Serve immediately and enjoy the taste of the tropics!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Coconut milk is a popular dairy-free alternative known for its rich and creamy texture, as well as its distinct tropical flavor.",
+        "funfact2": "Cashews add a creamy consistency and nutty flavor to the milkshake while also providing healthy fats, protein, and essential nutrients.",
+        "funfact3": "Kiwi is packed with vitamin C, antioxidants, and fiber, making it a nutritious addition to the milkshake and promoting immune health and digestion.",
+        "funfact4": "Pineapple contains bromelain, an enzyme known for its anti-inflammatory properties and digestive benefits, contributing to overall wellness and vitality."
+      }
     },
     {
       "id": "36",
       "uuid": "ea8152fa-07ec-4889-84a0-b7289d2f3345",
       "name": "Dairy-Free Pineapple Coconut Smoothie",
       "category": "Drinks",
-      "ingredients": "1 cup frozen pineapple, ½ cup plain unsweetened coconut milk beverage or light canned coconut milk, ½ cup pineapple juice or orange juice, ½ cup ice, 2 tablespoons agave nectar or sugar, or to taste",
+      "ingredients": "1 cup frozen pineapple. ½ cup plain unsweetened coconut milk beverage or light canned coconut milk. ½ cup pineapple juice or orange juice. ½ cup ice. 2 tablespoons agave nectar or sugar, or to taste",
       "image": "https://www.godairyfree.org/wp-content/uploads/2013/04/pics-pineapple-coconut-smoothie-vert.jpg",
       "cheers": 12,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Pineapple Coconut Smoothie offers a taste of the tropics with its refreshing blend of pineapple and coconut flavors. Pineapple, known for its sweet and tangy taste, pairs perfectly with creamy coconut milk, creating a smoothie that's both delicious and hydrating. Whether enjoyed as a breakfast treat or a midday refreshment, this smoothie is sure to transport you to a sunny island paradise with each sip.",
+      "instructions": "To prepare the Dairy-Free Pineapple Coconut Smoothie, simply combine all ingredients in a blender. Blend until smooth and creamy, adjusting the sweetness with agave nectar or sugar to taste. Pour into glasses and serve immediately for a tropical delight.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Pineapple is rich in vitamin C and manganese, offering numerous health benefits, including immune support and bone health.",
+        "funfact2": "Coconut milk contains healthy fats known as medium-chain triglycerides (MCTs), which are easily absorbed and utilized by the body for energy.",
+        "funfact3": "The combination of pineapple and coconut is a classic flavor pairing often found in tropical-inspired dishes and beverages around the world.",
+        "funfact4": "Agave nectar is a natural sweetener derived from the agave plant and is often used as a healthier alternative to refined sugar in recipes."
+      }
     },
     {
       "id": "37",
       "uuid": "0fbe7604-523c-403b-bf7a-64cca6c2d9fa",
       "name": "Dairy-Free Root Beer Ice Cream",
       "category": "Dessert",
-      "ingredients": "1 cup vanilla dairy-free milk beverage, 1½ tablespoons arrowroot starch (can sub cornstarch), 1 cup root beer (NOT diet), ½ cup sugar, ¼ teaspoon salt, 1 tablespoon root beer extract",
+      "ingredients": "1 cup vanilla dairy-free milk beverage. 1½ tablespoons arrowroot starch (can sub cornstarch). 1 cup root beer (NOT diet). ½ cup sugar. ¼ teaspoon salt. 1 tablespoon root beer extract",
       "image": "https://www.godairyfree.org/wp-content/uploads/2009/07/pics-root-beer-ice-cream-vert.jpg",
       "cheers": 20,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Root Beer Ice Cream is a nostalgic treat that captures the classic flavors of root beer in a creamy and indulgent dessert. Root beer, with its distinctive blend of spices and botanicals, lends its unique taste to this dairy-free ice cream, offering a refreshing and satisfying treat for root beer enthusiasts of all ages. Paired with creamy vanilla dairy-free milk and a touch of sweetness, this ice cream is a delightful way to enjoy the flavors of summer all year round.",
+      "instructions": "To make the Dairy-Free Root Beer Ice Cream, start by whisking together the arrowroot starch and a small amount of the vanilla dairy-free milk beverage in a saucepan until smooth. Gradually whisk in the remaining dairy-free milk beverage, root beer, sugar, salt, and root beer extract. Cook over medium heat, stirring constantly, until the mixture thickens and coats the back of a spoon, about 5 minutes. Remove from heat and let cool completely. Once cooled, transfer the mixture to an ice cream maker and churn according to the manufacturer's instructions. Transfer the churned ice cream to a container and freeze until firm. Serve and enjoy the nostalgic flavors of root beer in a creamy dairy-free treat!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Root beer is a carbonated beverage flavored with extracts from roots, barks, and spices such as sassafras, vanilla, and wintergreen.",
+        "funfact2": "Arrowroot starch is a gluten-free thickening agent commonly used in dairy-free ice cream recipes to achieve a smooth and creamy texture.",
+        "funfact3": "Root beer floats, a classic American dessert, are made by combining root beer with a scoop of vanilla ice cream, creating a fizzy and creamy treat.",
+        "funfact4": "Root beer extract is a concentrated flavoring made from natural and artificial ingredients, providing the distinctive taste of root beer to recipes."
+      }
     },
     {
       "id": "38",
       "uuid": "8b8416bb-5aa1-4ae6-88f9-bd1ec43c02f2",
       "name": "Strawberry Watermelon Smoothie",
       "category": "Smoothie",
-      "ingredients": "3 cups diced watermelon, seeds removed, ½ cup plain dairy-free yogurt, 8 to 10 frozen strawberries",
+      "ingredients": "3 cups diced watermelon. Seeds removed. ½ cup plain dairy-free yogurt. 8 to 10 frozen strawberries",
       "image": "https://www.godairyfree.org/wp-content/uploads/2007/06/pics-Watermelon-Strawberry-smoothie-vert.jpg",
       "cheers": 19,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Strawberry Watermelon Smoothie offers a delightful combination of juicy watermelon and sweet strawberries, blended into a creamy and refreshing drink. Watermelon, with its high water content, provides hydration and a subtle sweetness, while strawberries add vibrant color and natural sweetness. Blended with dairy-free yogurt for creaminess, this smoothie is perfect for hot summer days or as a healthy snack any time of year.",
+      "instructions": "To make the Strawberry Watermelon Smoothie, simply combine all ingredients in a blender. Blend until smooth and creamy, adjusting the consistency with more dairy-free yogurt or watermelon as needed. Pour into glasses and serve immediately for a refreshing and satisfying treat.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Watermelon is composed of about 92% water, making it one of the most hydrating fruits available.",
+        "funfact2": "Strawberries are rich in antioxidants, vitamins, and fiber, offering numerous health benefits, including heart health and improved digestion.",
+        "funfact3": "Dairy-free yogurt is a versatile ingredient that can be used in smoothies, dips, dressings, and more, providing a creamy texture and probiotic benefits.",
+        "funfact4": "Smoothies are an easy and delicious way to incorporate more fruits and vegetables into your diet, offering a convenient source of vitamins, minerals, and fiber."
+      }
     },
     {
       "id": "39",
       "uuid": "d8695ca9-9404-4b89-b4c5-248107884f90",
       "name": "Dairy-Free Carrot Cake Milkshakes",
       "category": "Dessert",
-      "ingredients": "1 large ripe banana, peeled, sliced, and frozen, 1 pint vanilla dairy-free ice cream, 1 cup carrot juice, ¾ cup vanilla dairy-free milk beverage, ½ cup plain or vanilla dairy-free creamer, 2 graham crackers, crumbled (gluten-free, if needed), ¼ cup crushed pineapple, 3 tablespoons dairy-free cream cheese alternative, 2 tablespoons frozen raisins (optional), ¼ teaspoon ground cinnamon, or to taste, Pinch ground nutmeg, Pinch ground ginger, 4 to 5 ice cubes, Dairy-free whipped cream",
+      "ingredients": "1 large ripe banana. Peeled, sliced, and frozen. 1 pint vanilla dairy-free ice cream. 1 cup carrot juice. ¾ cup vanilla dairy-free milk beverage. ½ cup plain or vanilla dairy-free creamer. 2 graham crackers, crumbled (gluten-free, if needed). ¼ cup crushed pineapple. 3 tablespoons dairy-free cream cheese alternative. 2 tablespoons frozen raisins (optional). ¼ teaspoon ground cinnamon, or to taste. Pinch ground nutmeg. Pinch ground ginger. 4 to 5 ice cubes. Dairy-free whipped cream",
       "image": "https://www.godairyfree.org/wp-content/uploads/2014/04/pics-Carrot-Cake-Milkshake-vert.jpg",
       "cheers": 12,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Carrot Cake Milkshake is a decadent dessert-inspired treat that combines the flavors of classic carrot cake with the indulgence of a milkshake. Made with vanilla dairy-free ice cream, carrot juice, and a blend of warm spices, this milkshake captures the essence of carrot cake in a cool and creamy beverage. Topped with dairy-free whipped cream and graham cracker crumbs, it's a delightful dessert option for those with dairy sensitivities or following a vegan lifestyle.",
+      "instructions": "To prepare the Dairy-Free Carrot Cake Milkshake, start by adding the frozen banana slices, dairy-free ice cream, carrot juice, dairy-free milk beverage, dairy-free creamer, crumbled graham crackers, crushed pineapple, dairy-free cream cheese alternative, frozen raisins (if using), ground cinnamon, ground nutmeg, ground ginger, and ice cubes to a blender. Blend until smooth and creamy, adjusting the sweetness and spice levels to taste. Pour into glasses, top with dairy-free whipped cream, and sprinkle with additional graham cracker crumbs for garnish. Serve immediately and enjoy the delicious flavors of carrot cake in milkshake form!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Carrots are a rich source of beta-carotene, a powerful antioxidant that supports eye health and immune function.",
+        "funfact2": "Graham crackers are a popular snack made from whole wheat flour, graham flour, sugar, and other ingredients, often enjoyed as a crunchy treat or used in dessert recipes.",
+        "funfact3": "Raisins, dried grapes, add natural sweetness and chewiness to baked goods and desserts, making them a popular ingredient in recipes like cookies, cakes, and milkshakes.",
+        "funfact4": "Nutmeg and ginger are warm spices commonly used in baking and cooking, adding depth of flavor and warmth to dishes like carrot cake, pumpkin pie, and gingerbread."
+      }
     },
     {
       "id": "40",
       "uuid": "23f05177-4656-4b43-83ea-c71f5368aca5",
       "name": "Dairy-Free Kale Fruit Smoothie",
       "category": "Smoothie",
-      "ingredients": "1 cup diced pineapple, 1 kiwi fruit peeled and sliced, 1 pear peeled and diced, 2 cups baby kale, 1 cup crushed ice, 1 cup unsweetened dairy-free milk beverage, or as needed",
+      "ingredients": "1 cup diced pineapple. 1 kiwi fruit peeled and sliced. 1 pear peeled and diced. 2 cups baby kale. 1 cup crushed ice. 1 cup unsweetened dairy-free milk beverage, or as needed",
       "image": "https://www.godairyfree.org/wp-content/uploads/2013/04/pics-kale-smoothie-vert.jpg",
       "cheers": 18,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Kale Fruit Smoothie is a nutritious and delicious way to start your day with a burst of vitamins and antioxidants. Kale, known for its health benefits, adds a vibrant green color and a dose of nutrients to this refreshing smoothie. Combined with sweet and tangy fruits like pineapple, kiwi, and pear, this smoothie offers a balanced flavor profile that is both satisfying and energizing. Whether enjoyed as a breakfast drink or a post-workout refreshment, this smoothie is sure to leave you feeling revitalized and ready to tackle the day.",
+      "instructions": "To make the Dairy-Free Kale Fruit Smoothie, simply combine all ingredients in a blender. Blend until smooth and creamy, adding more dairy-free milk beverage as needed to reach your desired consistency. Pour into glasses and serve immediately for a nutritious and refreshing treat.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Kale is a nutrient-dense leafy green vegetable rich in vitamins A, C, and K, as well as antioxidants and fiber.",
+        "funfact2": "Pineapple contains bromelain, an enzyme that may help improve digestion and reduce inflammation in the body.",
+        "funfact3": "Kiwi fruit is a good source of vitamin C, vitamin K, and dietary fiber, making it a nutritious addition to smoothies.",
+        "funfact4": "Pears are packed with fiber and vitamins, including vitamin C and vitamin K, and offer a sweet and juicy flavor to smoothie recipes."
+      }
     },
     {
       "id": "41",
       "uuid": "a7ba8be9-cb98-4b83-814c-e6c29ce9be11",
       "name": "Dairy-Free Chocolate Peanut Butter Smoothie",
       "category": "Smoothie",
-      "ingredients": "1 medium very ripe banana, sliced and frozen, ¾ cup dairy-free chocolate milk beverage, 1 to 2 tablespoons creamy peanut butter, to taste, 2 to 3 teaspoons cocoa powder, to taste, ½ cup ice",
+      "ingredients": "1 medium to very ripe banana, sliced and frozen. ¾ cup dairy-free chocolate milk beverage. 1 to 2 tablespoons creamy peanut butter, to taste. 2 to 3 teaspoons cocoa powder, to taste. ½ cup ice",
       "image": "https://www.godairyfree.org/wp-content/uploads/2022/06/pics-PB-Chocolate-Smoothie-vert2.jpg",
       "cheers": 7,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Chocolate Peanut Butter Smoothie is a decadent yet wholesome treat that combines the rich flavors of chocolate and peanut butter in a creamy and indulgent beverage. Made with dairy-free chocolate milk beverage, ripe bananas, creamy peanut butter, and a touch of cocoa powder, this smoothie offers all the satisfaction of a classic milkshake without the dairy. Whether enjoyed as a post-workout snack or a sweet afternoon pick-me-up, this smoothie is sure to satisfy your cravings for something sweet and satisfying.",
+      "instructions": "To prepare the Dairy-Free Chocolate Peanut Butter Smoothie, simply combine all ingredients in a blender. Blend until smooth and creamy, adjusting the amount of peanut butter and cocoa powder to taste. Add more dairy-free chocolate milk beverage if needed to reach your desired consistency. Pour into glasses, garnish with a sprinkle of cocoa powder or chopped peanuts if desired, and enjoy immediately for a delicious and satisfying treat.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Peanut butter is a good source of protein, healthy fats, and essential nutrients like vitamin E and magnesium.",
+        "funfact2": "Cocoa powder is rich in antioxidants called flavonoids, which may help improve heart health and reduce inflammation.",
+        "funfact3": "Bananas add natural sweetness and creaminess to smoothies while providing essential nutrients like potassium and vitamin B6.",
+        "funfact4": "Dairy-free chocolate milk beverage offers the rich flavor of chocolate without the lactose or dairy, making it suitable for individuals with lactose intolerance or dairy allergies."
+      }
     },
     {
       "id": "42",
       "uuid": "66188a5f-4da8-43d5-bbd6-e80163ee51b1",
       "name": "Dairy-Free Basic Green Smoothie",
       "category": "Smoothie",
-      "ingredients": "2 cups spinach leaves, 1 cup dairy-free vanilla milk beverage, 2 tablespoons dairy-free vanilla yogurt, 1 frozen banana, 1 teaspoon flaxseed meal (optional)",
+      "ingredients": "2 cups spinach leaves. 1 cup dairy-free vanilla milk beverage. 2 tablespoons dairy-free vanilla yogurt. 1 frozen banana. 1 teaspoon flaxseed meal (optional)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2014/03/pics-Creamy-Green-Smoothie-vert3.jpg",
       "cheers": 5,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Basic Green Smoothie is a simple yet nutritious beverage that combines the goodness of leafy greens with the creamy texture of dairy-free yogurt and milk. Spinach, a nutrient-rich green, serves as the base of this smoothie, providing essential vitamins and minerals. Blended with a frozen banana, dairy-free vanilla milk beverage, and dairy-free vanilla yogurt, this smoothie offers a balanced flavor profile that is both refreshing and satisfying. Optional flaxseed meal adds a boost of omega-3 fatty acids and fiber, making this smoothie a wholesome choice for breakfast or a midday snack.",
+      "instructions": "To make the Dairy-Free Basic Green Smoothie, simply combine all ingredients in a blender. Blend until smooth and creamy, adding more dairy-free milk beverage if needed to reach your desired consistency. Pour into glasses and serve immediately for a refreshing and nutritious treat.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Spinach is a nutrient powerhouse, packed with vitamins A, C, and K, as well as iron, calcium, and antioxidants.",
+        "funfact2": "Bananas add natural sweetness and creaminess to smoothies while providing potassium, vitamin B6, and fiber.",
+        "funfact3": "Dairy-free yogurt adds creaminess and probiotics to smoothies, promoting gut health and digestion.",
+        "funfact4": "Flaxseed meal is a good source of omega-3 fatty acids and fiber, which may help support heart health and promote regularity."
+      }
     },
     {
       "id": "43",
       "uuid": "27034970-6940-4506-a91f-1c1b24d87b32",
       "name": "Apricot Slushie Recipe",
       "category": "Non-Alcoholic",
-      "ingredients": "4 to 5 pitted ripe fresh apricots, ⅓ cup water, 3 small pieces crystalized ginger, Sweetener, 1 cup ice",
+      "ingredients": "4 to 5 pitted ripe fresh apricots. ⅓ cup water. 3 small pieces crystalized ginger. Sweetener. 1 cup ice",
       "image": "https://www.godairyfree.org/wp-content/uploads/2012/08/Apricot-Frosty-online-vert.jpg",
       "cheers": 5,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Apricot Slushie Recipe offers a refreshing and fruity beverage option perfect for hot summer days. Made with fresh ripe apricots, water, crystalized ginger, and ice, this slushie is bursting with natural sweetness and tangy flavor. Crystalized ginger adds a hint of warmth and spice, while the ice creates a frosty texture that is both cooling and invigorating. Sweetener can be added to taste, depending on the ripeness of the apricots and personal preference. Whether enjoyed as a standalone treat or as a refreshing accompaniment to a meal, this apricot slushie is sure to delight your taste buds and quench your thirst.",
+      "instructions": "To prepare the Apricot Slushie, start by pitting the fresh apricots and placing them in a blender. Add water and crystalized ginger, along with sweetener to taste if desired. Blend until smooth. Add ice and blend again until the mixture reaches a slushie consistency. Pour into glasses and serve immediately for a cool and revitalizing treat.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Apricots are a good source of vitamin A, vitamin C, and dietary fiber, making them a nutritious addition to smoothies and slushies.",
+        "funfact2": "Crystalized ginger adds a spicy kick to recipes and is believed to aid digestion and soothe upset stomachs.",
+        "funfact3": "Slushies are a fun and customizable beverage option that can be made with a variety of fruits and flavorings to suit individual tastes.",
+        "funfact4": "Adding ice to the blender creates a slushie texture that is reminiscent of frozen treats enjoyed during the summer months."
+      }
     },
     {
       "id": "44",
       "uuid": "0ccd0a3b-25da-4b5f-8277-fac054325a96",
       "name": "Bahama Mama Cocktail",
       "category": "Alcoholic",
-      "ingredients": "1½ ounces coconut rum, 1 ounce triple sec, 4 ounces orange juice, 4 ounces pineapple juice, ½ ounce grenadine, Ice",
+      "ingredients": "1½ ounces coconut rum. 1 ounce triple sec. 4 ounces orange juice. 4 ounces pineapple juice. ½ ounce grenadine. Ice",
       "image": "https://www.godairyfree.org/wp-content/uploads/2022/07/pics-bahama-mama.jpg",
       "cheers": 4,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Bahama Mama Cocktail is a tropical drink that brings the flavors of the Caribbean right to your glass. Made with coconut rum, triple sec, orange juice, pineapple juice, and grenadine, this cocktail is sweet, fruity, and refreshing. Its vibrant colors and tropical taste make it a popular choice for parties, beach days, or any time you want to feel like you're on vacation. Whether you're sipping it poolside or enjoying it at home, the Bahama Mama is sure to transport you to a sunny island paradise.",
+      "instructions": "To make a Bahama Mama Cocktail, simply fill a cocktail shaker with ice. Add coconut rum, triple sec, orange juice, pineapple juice, and grenadine. Shake well until chilled. Strain the mixture into a glass filled with ice. Garnish with a slice of orange or pineapple, if desired. Enjoy responsibly!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Bahama Mama Cocktail is believed to have originated in the Bahamas and has become popular at beach resorts and tropical destinations around the world.",
+        "funfact2": "Coconut rum adds a tropical flavor to the cocktail and pairs well with the sweetness of the fruit juices.",
+        "funfact3": "Grenadine not only adds a splash of color to the Bahama Mama but also adds a touch of sweetness and depth to the flavor profile.",
+        "funfact4": "This cocktail can be served over ice or blended with ice to create a frozen version known as a Frozen Bahama Mama."
+      }
     },
     {
       "id": "45",
       "uuid": "888fcc3a-cbf4-41a0-aa8e-943af16034c2",
       "name": "Basic Dairy-Free Mochi (Chi Chi Dango)",
       "category": "Non-Alcoholic",
-      "ingredients": "1 pound mochiko (sweet rice flour), 2¼ cups sugar, 1½ teaspoons baking powder, 1 (13.5-ounce) can coconut milk, 1½ cups water, 1 teaspoon vanilla extract, Few drops natural food color (optional), Potato starch or cornstarch, for rolling",
+      "ingredients": "1 pound mochiko (sweet rice flour). 2¼ cups sugar. 1½ teaspoons baking powder. 1 (13.5-ounce) can coconut milk. 1½ cups water. 1 teaspoon vanilla extract. Few drops natural food color (optional). Potato starch or cornstarch. for rolling",
       "image": "https://www.godairyfree.org/wp-content/uploads/2023/06/pics-Chi-Chi-Dango-Mochi-vert.jpg",
       "cheers": 3,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "Basic Dairy-Free Mochi, also known as Chi Chi Dango, is a popular Japanese treat made from sweet rice flour, sugar, and coconut milk. This simple yet delicious recipe yields soft and chewy mochi with a subtle coconut flavor. Traditionally served during celebrations and festivals, mochi is enjoyed as a sweet snack or dessert. Its delightful texture and mild sweetness make it a favorite among both children and adults. With just a few ingredients and easy preparation, you can enjoy homemade dairy-free mochi anytime!",
+      "instructions": "To make Basic Dairy-Free Mochi, begin by combining mochiko, sugar, and baking powder in a large mixing bowl. In a separate bowl, whisk together coconut milk, water, and vanilla extract. Gradually add the wet ingredients to the dry ingredients, stirring until smooth. If desired, add a few drops of natural food color for a pop of color. Pour the mixture into a greased baking dish and bake until set. Once cooled, cut the mochi into squares and dust with potato starch or cornstarch to prevent sticking. Serve and enjoy!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Mochi is a traditional Japanese rice cake made from glutinous rice, which gives it its signature chewy texture.",
+        "funfact2": "Coconut milk adds richness and moisture to the mochi, resulting in a soft and tender texture.",
+        "funfact3": "Chi Chi Dango is a variation of traditional mochi that incorporates coconut milk for a dairy-free twist.",
+        "funfact4": "Mochi is often eaten during Japanese New Year celebrations as it is believed to bring good luck and prosperity for the coming year."
+      }
     },
     {
       "id": "46",
       "uuid": "6fcacdbe-ebb9-4c08-a343-a1aad3ef3d7e",
       "name": "Dairy-Free Strawberry Julius",
       "category": "Non-Alcoholic",
-      "ingredients": "2 cups strawberries, hulled and halved, 2 cups ice, ½ cup water, 3 tablespoons honey or agave nectar, ½ teaspoon vanilla extract, Pinch salt (optional), 1½ tablespoons plain egg protein powder",
+      "ingredients": "2 cups strawberries, hulled and halved. 2 cups ice. ½ cup water. 3 tablespoons honey or agave nectar. ½ teaspoon vanilla extract. Pinch salt (optional). 1½ tablespoons plain egg protein powder",
       "image": "https://www.godairyfree.org/wp-content/uploads/2009/05/Strawberry-Julius-vert.jpg",
       "cheers": 5,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Strawberry Julius is a refreshing and creamy drink that captures the essence of summer. Made with fresh strawberries, ice, and a few simple ingredients, this non-alcoholic beverage is perfect for cooling off on a hot day. With the addition of honey or agave nectar for sweetness and vanilla extract for flavor, it's a healthier alternative to traditional milkshakes or smoothies. Plus, the optional pinch of salt helps to enhance the flavors and balance the sweetness. Whether enjoyed as a snack or served alongside a meal, the Dairy-Free Strawberry Julius is sure to be a hit with everyone!",
+      "instructions": "To make the Dairy-Free Strawberry Julius, simply combine strawberries, ice, water, honey or agave nectar, vanilla extract, salt (if using), and plain egg protein powder in a blender. Blend until smooth and creamy. Pour into glasses and serve immediately. Garnish with fresh strawberries or a sprig of mint, if desired. Enjoy!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The original Orange Julius drink was created in the 1920s by Julius Freed, who blended orange juice with a few other ingredients to make a frothy and refreshing beverage.",
+        "funfact2": "Strawberries are not only delicious but also packed with vitamins, minerals, and antioxidants, making them a nutritious addition to any diet.",
+        "funfact3": "Egg protein powder adds a boost of protein to the Dairy-Free Strawberry Julius, making it a satisfying and energizing drink.",
+        "funfact4": "This recipe can easily be customized by using different types of fruit or adding extras like spinach, yogurt, or coconut milk for added creaminess and flavor."
+      }
     },
     {
       "id": "47",
       "uuid": "53d7cf87-0861-4fd8-bd06-d54736b15154",
       "name": "Dairy-Free Chocolate Float",
       "category": "Non-Alcoholic",
-      "ingredients": "3 tablespoons dairy-free chocolate syrup, ½ cup unsweetened dairy-free milk alternative, Seltzer water or soda water, 1 scoop dairy-free vanilla ice cream, Dairy-free whipped topping (optional)",
+      "ingredients": "3 tablespoons dairy-free chocolate syrup. ½ cup unsweetened dairy-free milk alternative. Seltzer water or soda water. 1 scoop dairy-free vanilla ice cream. Dairy-free whipped topping (optional)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2015/08/pics-chocolate-float-vert.jpg",
       "cheers": 3,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Chocolate Float is a delightful twist on the classic soda fountain treat. Combining rich chocolate syrup, creamy dairy-free milk, and fizzy seltzer water, this beverage is both refreshing and indulgent. Topped with a scoop of dairy-free vanilla ice cream and optional whipped topping, it's the perfect way to satisfy your sweet tooth on a hot day. Whether enjoyed as a dessert or a special treat, the Dairy-Free Chocolate Float is sure to be a hit with kids and adults alike!",
+      "instructions": "To make the Dairy-Free Chocolate Float, start by pouring dairy-free chocolate syrup into a glass. Add unsweetened dairy-free milk alternative and stir to combine. Fill the glass with seltzer water or soda water, leaving room for a scoop of dairy-free vanilla ice cream. Gently place the ice cream on top of the float. If desired, garnish with dairy-free whipped topping and a drizzle of chocolate syrup. Serve immediately with a straw and spoon. Enjoy!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Chocolate floats have been enjoyed for generations as a fun and nostalgic treat reminiscent of soda fountain days.",
+        "funfact2": "Dairy-free chocolate syrup adds rich flavor to the float without the need for traditional dairy ingredients.",
+        "funfact3": "Seltzer water or soda water adds fizziness to the Dairy-Free Chocolate Float, creating a bubbly and refreshing drink.",
+        "funfact4": "This recipe can be easily customized by using different flavors of dairy-free ice cream or adding extras like chopped nuts, sprinkles, or chocolate chips for added texture and flavor."
+      }
     },
     {
       "id": "48",
       "uuid": "b0daad72-2fc6-44bc-bf8d-2e1879d1355b",
       "name": "Dairy-Free Berry Mint Smoothies",
       "category": "Smoothie",
-      "ingredients": "1 cup mixed berries, 1 cup unsweetened dairy-free milk alternative, Handful fresh parsley, 3 to 4 sprigs fresh mint, 1 tablespoon dairy-free protein powder, Sweetener, Ice (optional)",
+      "ingredients": "1 cup mixed berries. 1 cup unsweetened dairy-free milk alternative. Handful fresh parsley. 3 to 4 sprigs fresh mint. 1 tablespoon dairy-free protein powder. Sweetener. Ice (optional)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2014/03/pics-berry-mint-smoothies-vert.jpg",
       "cheers": 4,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Berry Mint Smoothies are a refreshing and nutritious way to start your day. Packed with antioxidants from the mixed berries and fresh herbs, these smoothies are bursting with flavor and goodness. The addition of dairy-free milk alternative provides creaminess, while the dairy-free protein powder adds an extra boost of protein to keep you satisfied until your next meal. Whether enjoyed for breakfast, as a post-workout snack, or as a midday pick-me-up, these smoothies are sure to become a new favorite!",
+      "instructions": "To make the Dairy-Free Berry Mint Smoothies, simply combine mixed berries, dairy-free milk alternative, fresh parsley, fresh mint, dairy-free protein powder, and sweetener in a blender. Blend until smooth and creamy. Add ice if desired for a colder and more refreshing texture. Pour into glasses and serve immediately. Enjoy!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Fresh mint not only adds a refreshing flavor to the smoothie but also contains menthol, which can help to soothe digestion and alleviate nausea.",
+        "funfact2": "Berries are known for their high antioxidant content, which can help to protect against oxidative stress and inflammation in the body.",
+        "funfact3": "Dairy-free protein powder is a convenient way to increase your protein intake, especially for those following a plant-based diet or looking to reduce their consumption of animal products.",
+        "funfact4": "This recipe is highly customizable, so feel free to experiment with different combinations of berries, herbs, and sweeteners to suit your taste preferences."
+      }
     },
     {
       "id": "49",
       "uuid": "28e734a9-3887-44ae-bed4-ab458dd4e4d4",
       "name": "Dairy-Free Banana Orange Strawberry Smoothie",
       "category": "Smoothie",
-      "ingredients": "1 medium banana, ½ medium orange, peeled and sectioned, 6 large strawberries, hulled, ¼ cup blueberries (optional), ¼ cup dairy-free milk beverage, Ice (optional)",
+      "ingredients": "1 medium banana. ½ medium orange, peeled and sectioned. 6 large strawberries, hulled. ¼ cup blueberries (optional). ¼ cup dairy-free milk beverage. Ice (optional)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2007/04/pics-the-boss-smoothie-vert.jpg",
       "cheers": 5,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Banana Orange Strawberry Smoothie is a delicious and vibrant blend of fruits that's perfect for breakfast, a snack, or even a light dessert. With the sweetness of ripe banana, tanginess of fresh orange, and juiciness of strawberries, this smoothie is bursting with flavor and packed with essential vitamins and minerals. The addition of dairy-free milk beverage provides creaminess and extra nutrients, while the optional blueberries add even more antioxidants and a pop of color. Whether enjoyed on its own or paired with your favorite breakfast foods, this smoothie is sure to brighten your day!",
+      "instructions": "To make the Dairy-Free Banana Orange Strawberry Smoothie, simply combine banana, orange sections, strawberries, optional blueberries, and dairy-free milk beverage in a blender. Blend until smooth and creamy. If desired, add ice for a colder and more refreshing texture. Pour into glasses and serve immediately. Enjoy!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Bananas are rich in potassium, which is essential for maintaining healthy blood pressure levels and supporting proper muscle and nerve function.",
+        "funfact2": "Oranges are a great source of vitamin C, which is important for immune function, skin health, and collagen production.",
+        "funfact3": "Strawberries are low in calories but high in fiber, vitamins, and antioxidants, making them a nutritious addition to any diet.",
+        "funfact4": "This smoothie can be easily customized by adding different fruits, such as pineapple, mango, or peaches, to suit your taste preferences and seasonal availability."
+      }
     },
     {
       "id": "50",
       "uuid": "dfa06aae-945e-42ed-8e84-87aacf0d7fcb",
       "name": "Dairy-Free Tigernut Milk",
       "category": "Non-Alcoholic",
-      "ingredients": "1 cup whole peeled tiger nuts, 4 cups water, plus additional for soaking",
+      "ingredients": "1 cup whole peeled tiger nuts. 4 cups water, plus additional for soaking",
       "image": "https://www.godairyfree.org/wp-content/uploads/2023/04/pics-tigernut-milk-vert.jpg",
       "cheers": 6,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "Tigernut milk is a delicious and nutritious alternative to dairy milk. It is made from tigernuts, which are small root vegetables that are rich in nutrients like fiber, vitamins, and minerals. Tigernut milk has a slightly sweet and nutty flavor, making it perfect for drinking on its own or using in recipes.",
+      "instructions": "To make dairy-free tigernut milk, start by soaking the tigernuts in water for at least 12 hours or overnight. After soaking, drain and rinse the tigernuts, then add them to a blender with fresh water. Blend on high speed until smooth and creamy. Strain the mixture through a nut milk bag or cheesecloth to remove any pulp. Store the tigernut milk in a sealed container in the refrigerator for up to 3-4 days. Shake well before using.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Tigernuts are not actually nuts, but rather small root vegetables that grow underground.",
+        "funfact2": "Tigernuts are naturally gluten-free and are a good source of resistant starch, which can help support gut health and digestion.",
+        "funfact3": "Tigernut milk is naturally sweet, so it doesn't require any added sweeteners.",
+        "funfact4": "Tigernut milk can be used in place of dairy milk in almost any recipe, including smoothies, baked goods, and sauces."
+      }
     },
     {
       "id": "51",
       "uuid": "3e07ea1f-298c-467c-902c-baac466e6114",
       "name": "Simply Almond Milk (Homemade Copycat)",
       "category": "Non-Alcoholic",
-      "ingredients": "4 cups water, 2½ to 3 tablespoons creamy almond butter, ⅛ teaspoon salt (omit if using salted almond butter)",
+      "ingredients": "4 cups water. 2½ to 3 tablespoons creamy almond butter. ⅛ teaspoon salt (omit if using salted almond butter)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2023/04/Simply-Almond-Milk-Vert.jpg",
       "cheers": 5,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "Making homemade almond milk is easy and economical, and it allows you to control the ingredients and sweetness level. This recipe for Simply Almond Milk is a homemade copycat version of store-bought almond milk, but without any additives or preservatives. With just a few simple ingredients, you can enjoy fresh almond milk that's perfect for drinking, cooking, or baking.",
+      "instructions": "To make Simply Almond Milk, start by adding water and almond butter to a blender. Blend on high speed until smooth and creamy. Add salt if desired, then blend again to combine. Taste and adjust sweetness if necessary by adding a sweetener of your choice, such as maple syrup or dates. Strain the mixture through a nut milk bag or cheesecloth to remove any pulp. Store the almond milk in a sealed container in the refrigerator for up to 3-4 days. Shake well before using.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Almond milk is naturally lactose-free, making it a suitable alternative for those who are lactose intolerant or allergic to dairy.",
+        "funfact2": "Almond milk is a good source of vitamin E, which is an antioxidant that helps protect cells from damage caused by free radicals.",
+        "funfact3": "Homemade almond milk tends to separate over time, so be sure to shake it well before using.",
+        "funfact4": "You can customize the flavor of almond milk by adding ingredients like vanilla extract, cinnamon, or cocoa powder."
+      }
     },
     {
       "id": "52",
@@ -650,273 +926,375 @@
       "ingredients": "1½ cups blueberries, 2 pears, cored and cut into quarters, 2 bananas, fresh or frozen, 1 cup plain or vanilla dairy-free milk beverage, ¼ teaspoon ground cinnamon",
       "image": "https://www.godairyfree.org/wp-content/uploads/2007/05/pics-Blueberry-Pear-Smoothie-vert.jpg",
       "cheers": 6,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "Blueberry Banana Pear Smoothie is a refreshing and nutritious dairy-free smoothie that's perfect for breakfast or as a snack. Blueberries, pears, and bananas add natural sweetness and fiber, while dairy-free milk beverage provides creaminess. A hint of ground cinnamon adds warmth and depth of flavor to this delicious smoothie.",
+      "instructions": "To make the Blueberry Banana Pear Smoothie, simply combine all the ingredients in a blender and blend until smooth. Adjust the consistency by adding more dairy-free milk beverage if necessary. Pour the smoothie into glasses and serve immediately. Garnish with fresh blueberries or pear slices if desired.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Blueberries are often called \"brain berries\" due to their potential cognitive benefits. They're not only delicious but also packed with antioxidants that may support brain health.",
+        "funfact2": "Pears are one of the few fruits that don't ripen well on the tree. Instead, they're harvested when mature but still hard and then left to ripen at room temperature.",
+        "funfact3": "Bananas are berries botanically classified as \"false berries\" because they don't develop from a single ovary like true berries. Despite this, they're a great source of potassium and other essential nutrients.",
+        "funfact4": "Cinnamon has been used for centuries not only for its flavor but also for its potential health benefits. It may help lower blood sugar levels and reduce inflammation, making it a tasty and beneficial addition to your smoothie."
+      }
     },
     {
       "id": "53",
       "uuid": "77405bf7-e7c9-4eef-aeac-3cbc62fba350",
       "name": "Dairy-Free Tropical Milkshakes",
       "category": "Non-Alcoholic",
-      "ingredients": "2 tablespoons chopped raw cashews, 2 tablespoons unsweetened coconut flakes, 1 ripe frozen banana, 1 kiwi, peeled and coarsely chopped, 1 cup chopped mango, 1 cup chopped pineapple, 1 cup unsweetened coconut milk beverage, 1 cup dairy-free vanilla bean coconut milk ice cream, ½ cup light coconut whipped topping (optional), 4 cherries (optional), 1 teaspoon rainbow sprinkles (optional)",
+      "ingredients": "2 tablespoons chopped raw cashews. 2 tablespoons unsweetened coconut flakes. 1 ripe frozen banana. 1 kiwi, peeled and coarsely chopped. 1 cup chopped mango. 1 cup chopped pineapple. 1 cup unsweetened coconut milk beverage. 1 cup dairy-free vanilla bean coconut milk ice cream. ½ cup light coconut whipped topping (optional). 4 cherries (optional). 1 teaspoon rainbow sprinkles (optional)",
       "image": "https://www.godairyfree.org/wp-content/uploads/2022/09/Tropical-Banana-Split-Milkshake-online-vert.jpg",
       "cheers": 8,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "Tropical Milkshakes are a delightful dairy-free treat that combines the flavors of coconut, mango, pineapple, and banana. This refreshing drink is perfect for warm weather or anytime you want to feel like you're on a tropical vacation. The combination of creamy coconut milk beverage, sweet fruits, and dairy-free vanilla bean coconut milk ice cream creates a rich and indulgent milkshake that's sure to satisfy your sweet tooth.",
+      "instructions": "To make Dairy-Free Tropical Milkshakes, start by blending the chopped raw cashews and unsweetened coconut flakes in a blender until finely ground. Add the frozen banana, kiwi, mango, pineapple, coconut milk beverage, and dairy-free vanilla bean coconut milk ice cream to the blender. Blend until smooth and creamy. If desired, top each milkshake with light coconut whipped topping, cherries, and rainbow sprinkles for a fun and festive touch. Serve immediately and enjoy!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Coconuts are not only delicious but also nutritious. They are rich in healthy fats, fiber, and minerals like manganese and copper.",
+        "funfact2": "Mangoes are sometimes called the 'king of fruits' due to their popularity, flavor, and nutritional benefits. They're loaded with vitamins, minerals, and antioxidants.",
+        "funfact3": "Pineapples contain an enzyme called bromelain, which may help aid digestion and reduce inflammation.",
+        "funfact4": "Bananas are one of the most popular fruits worldwide and are known for their high potassium content, which is essential for heart health and muscle function."
+      }
     },
     {
       "id": "54",
       "uuid": "056a3a4c-1b7a-4a3d-8d1e-e182b1b63d1b",
       "name": "Dairy-Free Pineapple Coconut Smoothie",
       "category": "Smoothie",
-      "ingredients": "1 cup frozen pineapple, ½ cup plain unsweetened coconut milk beverage or light canned coconut milk, ½ cup pineapple juice or orange juice, ½ cup ice, 2 tablespoons agave nectar or sugar",
+      "ingredients": "1 cup frozen pineapple. ½ cup plain unsweetened coconut milk beverage or light canned coconut milk. ½ cup pineapple juice or orange juice. ½ cup ice. 2 tablespoons agave nectar or sugar",
       "image": "https://www.godairyfree.org/wp-content/uploads/2013/04/pics-pineapple-coconut-smoothie-vert.jpg",
       "cheers": 11,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
-    },
-    {
-      "id": "55",
-      "uuid": "31cfd2db-2f19-4d05-8685-8cedbfcf4b55",
-      "name": "Dairy-Free Root Beer Ice Cream",
-      "category": "Non-Alcoholic",
-      "ingredients": "1 cup vanilla dairy-free milk beverage, 1½ tablespoons arrowroot starch, 1 cup root beer, ½ cup sugar, ¼ teaspoon salt, 1 tablespoon root beer extract",
-      "image": "https://www.godairyfree.org/wp-content/uploads/2009/07/pics-root-beer-ice-cream-vert.jpg",
-      "cheers": 10,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Dairy-Free Pineapple Coconut Smoothie is a tropical delight that combines the sweet and tangy flavors of pineapple with the creamy richness of coconut. This refreshing smoothie is perfect for breakfast or as a midday pick-me-up. The addition of pineapple juice or orange juice adds extra brightness and citrusy notes, while agave nectar or sugar provides the perfect amount of sweetness.",
+      "instructions": "To make the Dairy-Free Pineapple Coconut Smoothie, simply combine all the ingredients in a blender and blend until smooth and creamy. Adjust the sweetness by adding more agave nectar or sugar if desired. Pour the smoothie into glasses and serve immediately. Garnish with a pineapple wedge or a sprinkle of shredded coconut for a tropical touch.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Pineapples contain an enzyme called bromelain, which may help aid digestion and reduce inflammation.",
+        "funfact2": "Coconut milk is rich in medium-chain triglycerides (MCTs), which are a type of healthy fat that may promote weight loss and provide energy.",
+        "funfact3": "Pineapple and coconut are classic tropical flavors that complement each other perfectly in this smoothie.",
+        "funfact4": "Adding frozen pineapple and ice to the smoothie creates a thick and frosty texture, perfect for hot summer days."
+      }
     },
     {
       "id": "56",
       "uuid": "f08b0efd-4d3f-48b9-a787-f8133e043644",
       "name": "Strawberry Watermelon Smoothie",
       "category": "Smoothie",
-      "ingredients": "3 cups diced watermelon, seeds removed, ½ cup plain dairy-free yogurt, 8 to 10 frozen strawberries",
+      "ingredients": "3 cups diced watermelon. ½ cup plain dairy-free yogurt. 8 to 10 frozen strawberries",
       "image": "https://www.godairyfree.org/wp-content/uploads/2007/06/pics-Watermelon-Strawberry-smoothie-vert.jpg",
       "cheers": 12,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
+      "history": "The Strawberry Watermelon Smoothie is a refreshing and hydrating beverage that combines the sweetness of watermelon with the tartness of strawberries. This smoothie is perfect for hot summer days or as a post-workout drink to replenish electrolytes and vitamins. The addition of dairy-free yogurt adds creaminess and a touch of tanginess to the smoothie.",
+      "instructions": "To make the Strawberry Watermelon Smoothie, simply place the diced watermelon, dairy-free yogurt, and frozen strawberries in a blender. Blend until smooth and creamy. If the smoothie is too thick, you can add a splash of water or dairy-free milk to thin it out. Pour the smoothie into glasses and serve immediately. Garnish with fresh mint leaves or sliced strawberries for an extra pop of color and flavor.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Watermelon is not only delicious but also hydrating, as it contains about 92% water. It's a great choice for staying cool and refreshed on hot days.",
+        "funfact2": "Strawberries are packed with vitamins, fiber, and antioxidants, making them a nutritious addition to any smoothie.",
+        "funfact3": "Dairy-free yogurt provides a creamy texture and tangy flavor similar to traditional yogurt, but without the dairy.",
+        "funfact4": "Smoothies are a versatile and convenient way to pack in nutrients and hydration, and they can be customized with various fruits, vegetables, and add-ins."
+      }
     },
     {
       "id": "57",
       "uuid": "6a01ffe2-f169-4c8e-b1dd-7cd02a41952a",
       "name": "Dalgona coffee",
       "category": "Coffee",
-      "ingredients": "3 tbsp instant coffee, 2 tbsp sugar, 400-500ml milk (we used whole milk)",
+      "ingredients": "3 tbsp instant coffee. 2 tbsp sugar. 400-500ml milk (we used whole milk)",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dalgona-coffee-ddfc357.jpg?quality=90&resize=440,400",
       "cheers": 48,
-      "history": "",
-      "instructions": "Whisk the coffee sugar and 3 tbsp boiling water in a bowl for approximately 5 mins until the mixture is thick and fluffy with stiff peaks, This is easiest done using an electric whisk but can be done by hand, For hot coffee heat the milk and pour into two heatproof glasses, For cold coffee pour the cold milk into two glasses, Divide the coffee mixture in half and spoon evenly on top of the glasses, Serve and stir thoroughly before drinking",
-      "favorite": "false"
+      "history": "Dalgona coffee, also known as whipped coffee, is a viral coffee trend that originated in South Korea. It gained popularity on social media platforms like TikTok and Instagram. The drink features a fluffy and frothy coffee foam on top of cold or hot milk. It's named after a South Korean candy called dalgona, which has a similar appearance.",
+      "instructions": "To make Dalgona coffee, start by whisking together instant coffee, sugar, and hot water in a bowl. Use an electric whisk or whisk vigorously by hand until the mixture becomes thick and frothy with stiff peaks. Heat or chill your milk as desired and pour it into glasses. Spoon the whipped coffee mixture on top of the milk and stir thoroughly before drinking. Enjoy the rich and creamy coffee foam!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Dalgona coffee gained widespread popularity during the COVID-19 pandemic as people sought creative ways to make coffee at home.",
+        "funfact2": "The name 'Dalgona' refers to a type of Korean honeycomb toffee, which resembles the fluffy whipped coffee foam.",
+        "funfact3": "Whipped coffee has been a traditional beverage in several countries, including India, Pakistan, Greece, and Macau, long before the viral trend.",
+        "funfact4": "The ratio of instant coffee, sugar, and hot water is crucial to achieving the perfect consistency for the whipped coffee foam."
+      }
     },
     {
       "id": "58",
       "uuid": "b2a63b5c-3c94-44c8-bbe4-6323cc32e597",
-      "name": "Iced latte",
+      "name": "Iced Latte",
       "category": "Coffee",
-      "ingredients": "2 espresso shots (60ml), 2 tsp sugar, honey or maple syrup (to taste), ice, 100ml whole milk",
-      "image": null,
+      "ingredients": "2 espresso shots (60ml). 2 tsp sugar. honey or maple syrup (to taste). ice. 100ml whole milk",
+      "image": "https://images.pexels.com/photos/7937429/pexels-photo-7937429.jpeg",
       "cheers": 21,
-      "history": "",
-      "instructions": "Mix the hot espresso with the sugar until it dissolves, Fill a glass with ice and stir in the sweetened coffee, Pour over the milk and stir until combined",
-      "favorite": "false"
+      "history": "The Iced Latte is a refreshing and invigorating coffee beverage, perfect for hot summer days or as a pick-me-up any time of the year. It combines the bold flavor of espresso with the creamy richness of milk, served over ice for a chilled and satisfying drink. The addition of sweetener adds a touch of sweetness to balance out the bitterness of the espresso.",
+      "instructions": "To make an Iced Latte, start by mixing hot espresso with sugar until it dissolves. Fill a glass with ice and pour the sweetened espresso over the ice. Then, pour the whole milk over the espresso and stir until combined. You can adjust the sweetness by adding honey or maple syrup to taste. Enjoy your refreshing Iced Latte!",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Iced Latte originated in Italy and became popular in the United States during the 1990s.",
+        "funfact2": "Unlike a traditional latte, which is served hot, an Iced Latte is served over ice, making it a cooler alternative.",
+        "funfact3": "Iced Lattes can be customized with various flavors and sweeteners, allowing for endless possibilities to suit individual preferences.",
+        "funfact4": "Some coffee shops offer Iced Lattes with whipped cream or flavored syrups for an extra indulgent treat."
+      }
     },
     {
       "id": "59",
       "uuid": "1f2453ea-6152-4c56-a15d-d6e4588ad332",
       "name": "Cortado",
       "category": "Coffee",
-      "ingredients": "40ml espresso, 40ml steamed milk (heat to 55-65C)",
+      "ingredients": "40ml espresso. 40ml steamed milk (heated to 55-65°C)",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Cortada-2e01077.png?quality=90&resize=556,505",
       "cheers": 2,
-      "history": "",
-      "instructions": "Pour the espresso into a 4-6oz heatproof glass or cup, Pour over the steamed milk, Finish with a little bit of foam on top (around the thickness of a finger)",
-      "favorite": "false"
+      "history": "The Cortado is a classic coffee beverage that originated in Spain and has gained popularity worldwide. It's made by combining equal parts espresso and steamed milk, resulting in a balanced and smooth drink that highlights the bold flavor of the espresso while adding a creamy texture from the milk.",
+      "instructions": "To make a Cortado, start by pouring 40ml of espresso into a 4-6oz heatproof glass or cup. Then, pour an equal amount of steamed milk (heated to 55-65°C) over the espresso. Finish by adding a small amount of foam on top, about the thickness of a finger. The Cortado is traditionally served in a small glass to showcase its rich flavor and velvety texture.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Cortado is also known as a Gibraltar in some coffee circles, named after the glass it's typically served in.",
+        "funfact2": "In Spanish, 'cortado' means 'cut', referring to the way the espresso is 'cut' with steamed milk.",
+        "funfact3": "The Cortado is a favorite among espresso enthusiasts for its balanced flavor and smooth mouthfeel.",
+        "funfact4": "In some regions, the Cortado is served with a small cookie or piece of chocolate on the side, perfect for dipping."
+      }
     },
     {
       "id": "60",
       "uuid": "372a0166-932d-46b2-b9a5-ac6bdba8316e",
-      "name": "Iced caramel macchiato",
+      "name": "Iced Caramel Macchiato",
       "category": "Coffee",
-      "ingredients": "two handfuls of  ice, 250ml  milk, 2 tbsp  vanilla syrup, 2 shots  espresso or 50ml strong coffee, 2 tbsp  caramel sauce",
+      "ingredients": "two handfuls of ice. 250ml milk. 2 tbsp vanilla syrup. 2 shots espresso or 50ml strong coffee. 2 tbsp caramel sauce",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/04/Iced-Caramel-Macchiato-f4a10f9.jpg?quality=90&resize=556,505",
       "cheers": 2,
-      "history": "",
-      "instructions": "Fill two tall glasses with ice and divide the milk and vanilla syrup between them before mixing well, Pour an espresso shot into each glass then drizzle with the caramel sauce before serving",
-      "favorite": "false"
-    },
-    {
-      "id": "61",
-      "uuid": "3ea3de98-1545-46f4-9301-c216a312c158",
-      "name": "Pumpkin spice latte",
-      "category": "Coffee",
-      "ingredients": "2 tsp pumpkin purée, pinch of ground cinnamon, plus extra to serve (or use pumpkin spice), pinch of ground ginger, pinch of ground nutmeg, 30ml  espresso  or strong coffee, 250ml  milk (any will work)",
-      "image": null,
-      "cheers": 11,
-      "history": "",
-      "instructions": "Put the pumpkin purée in a large heatproof glass or mug, Stir in the spices and espresso or strong coffee, Heat the milk in a saucepan over a low heat until steaming and frothy, Pour into the glass or mug and spoon over any froth, Stir to combine then dust with more cinnamon or some pumpkin spice before serving",
-      "favorite": "false"
+      "history": "The Iced Caramel Macchiato is a delicious and refreshing coffee beverage that combines the bold flavors of espresso with the sweetness of caramel and vanilla. It's perfect for cooling down on a hot day or as a treat any time of year. The layers of milk, espresso, and caramel create a beautiful presentation, making it as visually appealing as it is tasty.",
+      "instructions": "Fill two tall glasses with ice and divide the milk and vanilla syrup between them before mixing well. Pour an espresso shot into each glass then drizzle with the caramel sauce before serving.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The term 'macchiato' means 'stained' or 'spotted' in Italian, referring to the way the espresso 'stains' the milk in this drink.",
+        "funfact2": "Caramel macchiato is a popular variation of this drink, featuring caramel syrup or sauce for added sweetness and flavor.",
+        "funfact3": "Iced caramel macchiato can be customized by adjusting the amount of caramel sauce or adding toppings like whipped cream or caramel drizzle.",
+        "funfact4": "Iced caramel macchiato is often enjoyed as a dessert drink due to its sweet and indulgent flavor profile."
+      }
     },
     {
       "id": "62",
       "uuid": "5f21e06b-5106-409c-b870-dee3caa9c82f",
-      "name": "Cafe au lait",
+      "name": "Cafe au Lait",
       "category": "Coffee",
-      "ingredients": "115ml strong coffee (such as espresso), 115ml steamed milk",
+      "ingredients": "115ml strong coffee (such as espresso). 115ml steamed milk",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Cafe-au-lait-259a97b.png?quality=90&resize=556,505",
       "cheers": 3,
-      "history": "",
-      "instructions": "Pour the hot coffee into a large mug (the mug will need to hold 130ml plus a little foam) Pour over the steamed milk and top with a little of the foam if you like",
-      "favorite": "false"
+      "history": "Cafe au Lait, meaning 'coffee with milk' in French, is a classic coffee beverage enjoyed in France and around the world. It's made by combining equal parts of strong brewed coffee, typically espresso, and steamed milk. This results in a smooth, creamy, and slightly stronger coffee drink compared to other milk-based coffees.",
+      "instructions": "Pour the hot coffee into a large mug (the mug will need to hold 130ml plus a little foam). Pour over the steamed milk and top with a little of the foam if you like.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Cafe au Lait is often served in a bowl-like mug called a 'bol' in France, allowing for plenty of room to mix the coffee and milk.",
+        "funfact2": "In New Orleans, Cafe au Lait is traditionally made with chicory coffee, which adds a slightly bitter and earthy flavor to the drink.",
+        "funfact3": "Cafe au Lait is commonly enjoyed as a breakfast beverage in France, often accompanied by pastries like croissants or pain au chocolat.",
+        "funfact4": "In some regions, Cafe au Lait is sweetened with sugar or flavored syrups like vanilla or hazelnut for added sweetness and flavor."
+      }
     },
     {
       "id": "63",
       "uuid": "c23d3890-c9a5-4ab6-9f89-d0e68817d8cf",
-      "name": "Iced mocha",
+      "name": "Iced Mocha",
       "category": "Coffee",
-      "ingredients": "150ml milk, 25g milk or dark chocolate buttons, ice, 35ml  freshly made espresso, 30ml double cream, whipped (optional), pinch  cocoa powder or cinnamon, or both (optional)",
+      "ingredients": "150ml milk. 25g milk or dark chocolate buttons. ice. 35ml freshly made espresso. 30ml double cream, whipped (optional). pinch cocoa powder or cinnamon, or both (optional)",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/05/Iced-Mocha-db3c51a.jpg?quality=90&resize=556,505",
       "cheers": 1,
-      "history": "",
-      "instructions": "Pour 50ml of the milk into a small pan and add the chocolate buttons, Mix well until melted then leave to cool, Half-fill a large tall glass with ice then pour in the cooled chocolate milk and the remaining 100ml milk and stir to combine, Top up with more ice then slowly pour in the espresso, Finish with a dollop of whipped cream and a dusting of cocoa powder or cinnamon – or both if you like",
-      "favorite": "false"
+      "history": "The Iced Mocha is a delightful coffee beverage that combines the rich flavors of chocolate and espresso with the refreshing chill of ice. It's a perfect drink for warm weather or whenever you're craving a sweet and caffeinated treat. Originating from the classic combination of chocolate and coffee, the Iced Mocha has become a popular choice among coffee enthusiasts worldwide.",
+      "instructions": "Pour 50ml of the milk into a small pan and add the chocolate buttons. Mix well until melted, then leave to cool. Half-fill a large tall glass with ice, then pour in the cooled chocolate milk and the remaining 100ml milk and stir to combine. Top up with more ice, then slowly pour in the espresso. Finish with a dollop of whipped cream and a dusting of cocoa powder or cinnamon – or both if you like.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The combination of chocolate and coffee in the Iced Mocha is sometimes referred to as 'mochaccino' or 'cafe mocha.'",
+        "funfact2": "The Iced Mocha can be customized by using different types of chocolate, such as milk chocolate, dark chocolate, or even white chocolate.",
+        "funfact3": "In some variations, the Iced Mocha is sweetened with flavored syrups like vanilla, hazelnut, or caramel for added sweetness and flavor complexity.",
+        "funfact4": "The Iced Mocha can be enjoyed as a dessert-like treat or as a midday pick-me-up for a boost of energy and indulgence."
+      }
     },
     {
       "id": "64",
       "uuid": "c8a60513-d518-48a4-a2fd-2d90e20d9e90",
-      "name": "Espresso martini",
+      "name": "Espresso Martini",
       "category": "Coffee",
-      "ingredients": "100g golden caster sugar, ice, 100ml vodka, 50ml freshly brewed espresso coffee, 50ml coffee liqueur, 4 coffee beans (optional)",
+      "ingredients": "100g golden caster sugar. Ice. 100ml vodka. 50ml freshly brewed espresso coffee. 50ml coffee liqueur. 4 coffee beans (optional)",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/espresso-martini-f099531.jpg?quality=90&resize=440,400",
       "cheers": 48,
-      "history": "",
-      "instructions": "Start by making the sugar syrup, Put the caster sugar in a small pan over a medium heat and pour in 50ml water, Stir and bring to the boil, Turn off the heat and allow the mixture to cool, Put 2 martini glasses in the fridge to chill, Once the sugar syrup is cold pour 1 tbsp into a cocktail shaker along with a handful of ice the vodka espresso and coffee liqueur, Shake until the outside of the cocktail shaker feels icy cold, Strain into the chilled glasses, Garnish each one with coffee beans if you like",
-      "favorite": "false"
+      "history": "The Espresso Martini is a sophisticated cocktail that combines the bold flavors of espresso with the smoothness of vodka and the richness of coffee liqueur. It's a popular choice for coffee lovers who enjoy a hint of sweetness and a kick of caffeine in their cocktails. Originating from London in the 1980s, the Espresso Martini has become a classic cocktail enjoyed in bars and homes around the world.",
+      "instructions": "Start by making the sugar syrup. Put the caster sugar in a small pan over a medium heat and pour in 50ml water. Stir and bring to the boil. Turn off the heat and allow the mixture to cool. Put 2 martini glasses in the fridge to chill. Once the sugar syrup is cold, pour 1 tbsp into a cocktail shaker along with a handful of ice, the vodka, espresso, and coffee liqueur. Shake until the outside of the cocktail shaker feels icy cold. Strain into the chilled glasses. Garnish each one with coffee beans if you like.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Espresso Martini was created by bartender Dick Bradsell in the late 1980s in London. It was originally called the 'Vodka Espresso' and later became known as the Espresso Martini.",
+        "funfact2": "The Espresso Martini is often credited with helping to popularize the concept of coffee-flavored cocktails.",
+        "funfact3": "Despite its name, the Espresso Martini does not contain any vermouth, which is a typical ingredient in classic martinis. Instead, it features vodka, coffee liqueur, and freshly brewed espresso.",
+        "funfact4": "The Espresso Martini is sometimes served with a twist of lemon peel or orange zest for added flavor and aroma."
+      }
     },
     {
       "id": "65",
       "uuid": "9df6c89b-62a8-4647-837c-4433bc682142",
-      "name": "Cold brew coffee",
+      "name": "Cold Brew Coffee",
       "category": "Coffee",
-      "ingredients": "50g ground coffee (use coarsely ground for cafetières), ice, sparkling water or still water to dilute",
+      "ingredients": "50g ground coffee (use coarsely ground for cafetières). ice. sparkling water or still water to dilute",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cold-brew-e08dbfa.jpg?quality=90&resize=440,400",
       "cheers": 13,
-      "history": "",
-      "instructions": "Put 400ml cold water into a large jug or jar and add the coffee grounds but do not stir the mixture, Cover and leave to steep for 24 hrs, Gently stir the mixture then pour it through a funnel or sieve lined with coffee filter paper (or a sheet of kitchen paper) into another large jug, This concentrate will keep in the fridge for 2-3 days, To serve dilute 1 part cold brew with 2 parts still or sparkling water (or to your taste) and serve with lots of ice",
-      "favorite": "false"
+      "history": "Cold Brew Coffee is a method of brewing coffee that involves steeping coarsely ground coffee beans in cold water for an extended period, typically 12 to 24 hours. This slow extraction process results in a smooth, low-acid coffee concentrate that can be diluted with water or milk and served over ice. Cold Brew Coffee has gained popularity for its refreshing taste and convenience, as it can be prepared in advance and enjoyed chilled.",
+      "instructions": "Put 400ml cold water into a large jug or jar and add the coffee grounds, but do not stir the mixture. Cover and leave to steep for 24 hours. Gently stir the mixture, then pour it through a funnel or sieve lined with coffee filter paper (or a sheet of kitchen paper) into another large jug. This concentrate will keep in the fridge for 2-3 days. To serve, dilute 1 part cold brew with 2 parts still or sparkling water (or to your taste) and serve with lots of ice.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Cold Brew Coffee is often less acidic and smoother in taste compared to traditionally brewed hot coffee, making it appealing to those with sensitive stomachs.",
+        "funfact2": "The cold brewing process extracts fewer bitter compounds from the coffee grounds, resulting in a sweeter and more flavorful coffee concentrate.",
+        "funfact3": "Cold Brew Coffee can be enjoyed black or customized with milk, cream, flavored syrups, or spices like cinnamon or vanilla.",
+        "funfact4": "Cold Brew Coffee originated in Japan in the 17th century and became popular in the United States in the late 20th century, especially during the summer months."
+      }
     },
     {
       "id": "66",
       "uuid": "265efe89-dcea-49cb-b94f-3f98ef17cda5",
-      "name": "Iced coffee",
+      "name": "Iced Coffee",
       "category": "Coffee",
-      "ingredients": "200ml strong black coffee, 50ml milk, ice, maple syrup, optional",
+      "ingredients": "200ml strong black coffee. 50ml milk. Ice. Maple syrup (optional)",
       "image": null,
       "cheers": 25,
-      "history": "",
-      "instructions": "Make a 200ml cup of black coffee following pack instructions then allow the coffee to go completely cold, Pour into a blender with the milk along with 2 or 3 handfuls of ice and maple syrup if using then blend until smooth and foamy, Pour into a chilled tall glass and serve",
-      "favorite": "false"
+      "history": "Iced Coffee is a chilled coffee beverage that is perfect for hot summer days or as a refreshing pick-me-up. It is made by brewing a strong cup of black coffee and then chilling it. The chilled coffee is blended with milk, ice, and optionally sweetened with maple syrup for a touch of sweetness.",
+      "instructions": "Make a 200ml cup of black coffee following pack instructions, then allow the coffee to go completely cold. Pour into a blender with the milk, along with 2 or 3 handfuls of ice and maple syrup if using, then blend until smooth and foamy. Pour into a chilled tall glass and serve.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Iced Coffee originated in Algeria in the 19th century and spread to other countries, becoming popular worldwide.",
+        "funfact2": "The addition of milk and sweeteners to Iced Coffee creates a creamy and flavorful beverage that can be customized according to personal taste preferences.",
+        "funfact3": "Iced Coffee can be enjoyed in various forms, including flavored versions with syrups such as vanilla, caramel, or hazelnut.",
+        "funfact4": "Iced Coffee is often served with whipped cream or a scoop of ice cream for added indulgence, especially in coffee shops and cafes."
+      }
     },
     {
       "id": "67",
       "uuid": "4b5edb97-fecf-4a89-95a3-7a0829125aa2",
-      "name": "Flat white",
+      "name": "Flat White",
       "category": "Coffee",
-      "ingredients": "18g ground espresso, or 1 espresso pod, 100ml milk, the right cup, 150-200ml capacity",
+      "ingredients": "18g ground espresso, or 1 espresso pod. 100ml milk. A cup with a capacity of 150-200ml",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/flat-white-d8ada0f.jpg?quality=90&resize=440,400",
       "cheers": 4,
-      "history": "",
-      "instructions": "Make around 35ml espresso using your coffee machine and pour into the base of your cup, Steam the milk with the steamer attachment so that it has around 1-2cm of foam on top, Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily, As the volume within the cup increases bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre, Once the milk jug is almost touching the surface of the coffee tilt the jug to speed up the rate of pour, As you accelerate the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top",
-      "favorite": "false"
+      "history": "The Flat White is a popular coffee beverage that originated in Australia and New Zealand. It is characterized by its velvety microfoam and strong espresso flavor. The drink is typically served in a smaller cup compared to a latte, allowing the rich espresso flavor to shine through the steamed milk.",
+      "instructions": "Make around 35ml espresso using your coffee machine and pour into the base of your cup. Steam the milk with the steamer attachment so that it has around 1-2cm of foam on top. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre. Once the milk jug is almost touching the surface of the coffee, tilt the jug to speed up the rate of pour. As you accelerate the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Flat White gained popularity in the 1980s in Australia and New Zealand before spreading to other parts of the world.",
+        "funfact2": "The term 'Flat White' refers to the smooth texture of the milk foam, which is achieved through precise steaming techniques.",
+        "funfact3": "The Flat White is often compared to a latte but has a higher coffee-to-milk ratio, resulting in a stronger coffee flavor.",
+        "funfact4": "In some countries, such as the United States, the Flat White has become a staple menu item in coffee shops and cafes, offering coffee enthusiasts a rich and satisfying beverage."
+      }
     },
     {
       "id": "68",
       "uuid": "9fb9527b-de1a-4aff-bde7-64d45af811a1",
       "name": "Macchiato",
       "category": "Coffee",
-      "ingredients": "18g ground espresso, or 1 espresso pod, 50-100ml milk (or the minimum amount your machine will work with), small cup, 50-80ml capacity",
+      "ingredients": "18g ground espresso, or 1 espresso pod. 50-100ml milk (or the minimum amount your machine will work with). A small cup with a capacity of 50-80ml",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/macchiato-027-35b22b8.jpg?quality=90&resize=440,400",
       "cheers": 1,
-      "history": "",
-      "instructions": "Make around 35ml espresso using your coffee machine and pour into the base of your cup, Steam the milk with the steamer attachment so that it has around 1-2cm of foam on top then spoon 2-3 teaspoons of the foam on top of the espresso (discard the rest of the milk)",
-      "favorite": "false"
+      "history": "The Macchiato, a beloved coffee beverage with Italian roots, has a rich and storied history dating back to the espresso culture of Italy. Originating in the bustling cafes of Italy, the word 'macchiato' translates to 'stained' or 'spotted' in Italian, referring to the small amount of milk 'staining' the bold espresso. Traditionally served in smaller cups to emphasize the robust flavor of the espresso, the Macchiato has evolved over time, offering coffee enthusiasts a variety of delightful variations to savor.",
+      "instructions": "Make around 35ml espresso using your coffee machine and pour into the base of your cup. Steam the milk with the steamer attachment so that it has around 1-2cm of foam on top then spoon 2-3 teaspoons of the foam on top of the espresso (discard the rest of the milk)",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The word 'macchiato' means 'stained' or 'spotted' in Italian, referring to the small amount of milk 'staining' the espresso.",
+        "funfact2": "Macchiatos are often served in smaller cups compared to other coffee drinks to highlight the bold flavor of the espresso.",
+        "funfact3": "The Macchiato originated in Italy and has become a popular choice for coffee enthusiasts looking for a stronger and more concentrated coffee experience.",
+        "funfact4": "There are different variations of the Macchiato, including the Caffè Macchiato (espresso with a dollop of milk foam) and the Latte Macchiato (steamed milk 'stained' with a shot of espresso)."
+      }
     },
     {
       "id": "69",
       "uuid": "bbe7cffb-fd6f-4c72-a80b-2c8f250c3528",
       "name": "Mocha",
       "category": "Coffee",
-      "ingredients": "18g ground espresso, or 1 espresso pod, 250ml milk, 1 tsp drinking chocolate, large cup, 300-350ml capacity",
+      "ingredients": "18g ground espresso or 1 espresso pod, 250ml milk, 1 tsp drinking chocolate, large cup with a capacity of 300-350ml",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mocha-001-8301418.jpg?quality=90&resize=440,400",
       "cheers": 4,
-      "history": "",
-      "instructions": "Make around 35ml espresso using a coffee machine and pour into the base of your cup, Add the drinking chocolate and mix well until smooth, Steam the milk with the steamer attachment so that it has around 4-6cm of foam on top, Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily, As the volume within the cup increases bring the jug as close to the surface of the drink as possible whilst aiming into the centre, Once the milk jug is almost touching the surface of the coffee tilt to speed up the rate of pour, As you accelerate the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top",
-      "favorite": "false"
+      "history": "The Mocha, also known as a Mochaccino, is a delightful coffee beverage that combines the rich flavors of espresso and chocolate with creamy steamed milk. Its origins trace back to the 18th century when the combination of coffee and chocolate gained popularity in Europe. The Mocha offers a perfect balance of bitterness from the espresso, sweetness from the chocolate, and creaminess from the milk, making it a beloved choice for coffee enthusiasts with a sweet tooth.",
+      "instructions": "Make around 35ml espresso using a coffee machine and pour into the base of your cup. Add the drinking chocolate and mix well until smooth. Steam the milk with the steamer attachment so that it has around 4-6cm of foam on top. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases bring the jug as close to the surface of the drink as possible whilst aiming into the centre. Once the milk jug is almost touching the surface of the coffee, tilt to speed up the rate of pour. As you accelerate the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Mocha is believed to have been named after the port city of Mocha in Yemen, which was a major center for trade of coffee beans and a key location in the history of coffee.",
+        "funfact2": "In some variations of the Mocha, whipped cream is added on top for an extra indulgent experience.",
+        "funfact3": "The Mocha has inspired various dessert creations, including Mocha cakes, Mocha cookies, and Mocha ice cream, all featuring the delightful combination of coffee and chocolate flavors.",
+        "funfact4": "Despite its popularity, the Mocha is often overlooked in favor of other coffee beverages like lattes and cappuccinos, but its unique blend of flavors continues to attract coffee lovers around the world."
+      }
     },
     {
       "id": "70",
       "uuid": "c33b23f0-7de3-4b83-b8a3-01d9c957240e",
-      "name": "Dirty chai latte",
+      "name": "Dirty Chai Latte",
       "category": "Coffee",
-      "ingredients": "1 cinnamon stick, 4 cardamom pods, 4 peppercorns, 2 cloves, 1 star anise, 2 black teabags, ½ tsp vanilla extract, pinch of freshly grated nutmeg, plus extra to serve, 250ml whole milk, 1 tsp light brown soft sugar, 60ml  freshly brewed espresso",
+      "ingredients": "1 cinnamon stick, 4 cardamom pods, 4 peppercorns, 2 cloves, 1 star anise, 2 black tea bags, ½ tsp vanilla extract, pinch of freshly grated nutmeg (plus extra to serve), 250ml whole milk, 1 tsp light brown soft sugar, 60ml freshly brewed espresso",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2023/12/Dirty-chai-latte-b5c00fc.jpg?quality=90&resize=556,505",
       "cheers": 0,
-      "history": "",
-      "instructions": "Toast the spices in a dry frying pan over a low heat until fragrant then tip into a teapot with the teabags vanilla and nutmeg, Cover with 250ml boiled water and leave to steep for 3 mins, Tip the milk and brown sugar into a small pan and warm over a low heat stirring until the sugar has dissolved and the milk is simmering, Beat with a whisk or milk frother until foamy, Divide the espresso between two mugs, Strain the tea into a jug and pour this over the espresso, Slowly add the hot milk mixture holding some of the froth back with a spoon then top with the frothy milk and a sprinkle of nutmeg",
-      "favorite": "false"
+      "history": "The Dirty Chai Latte is a unique and flavorful twist on the classic chai latte, incorporating the boldness of espresso with the aromatic spices of chai. Originating from the fusion of Indian masala chai and Western espresso culture, the Dirty Chai Latte offers a delightful combination of warmth, spice, and caffeine kick.",
+      "instructions": "Toast the spices in a dry frying pan over a low heat until fragrant, then tip into a teapot with the tea bags, vanilla, and nutmeg. Cover with 250ml boiled water and leave to steep for 3 mins. Tip the milk and brown sugar into a small pan and warm over a low heat, stirring until the sugar has dissolved and the milk is simmering. Beat with a whisk or milk frother until foamy. Divide the espresso between two mugs. Strain the tea into a jug and pour this over the espresso. Slowly add the hot milk mixture, holding some of the froth back with a spoon, then top with the frothy milk and a sprinkle of nutmeg.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The term 'dirty' in Dirty Chai Latte refers to the addition of espresso to the traditional chai latte, giving it a 'dirty' appearance.",
+        "funfact2": "Dirty Chai Lattes are known for their unique blend of spicy chai flavors and rich espresso, offering a complex and satisfying taste profile.",
+        "funfact3": "This drink is often enjoyed as a comforting and indulgent treat during cooler months, offering warmth from the spices and a caffeine boost from the espresso.",
+        "funfact4": "Dirty Chai Lattes can be customized with different types of milk (such as almond or oat milk) and sweeteners (such as honey or agave syrup) to suit individual preferences."
+      }
     },
     {
       "id": "71",
       "uuid": "7019daa0-5c9e-4df4-8828-f4b863c60546",
-      "name": "Coffee granita",
+      "name": "Coffee Granita",
       "category": "Coffee",
-      "ingredients": "500ml freshly brewed, strong black coffee (we used 30g ground coffee in a cafetière and brewed for 7 mins), 80g golden caster sugar, 100ml coffee liqueur (we used Kahlúa), 1 tub mascarpone, 50g dark chocolate, grated",
+      "ingredients": "500ml freshly brewed strong black coffee. 80g golden caster sugar. 100ml coffee liqueur. 1 tub mascarpone. 50g dark chocolate, grated",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/coffee-granita-7814b72.jpg?quality=90&resize=440,400",
       "cheers": 2,
-      "history": "",
-      "instructions": "Pour the coffee into a jug and stir in the sugar until it has dissolved, Add the coffee liqueur and leave to cool completely, Once cold pour the mixture into a freezable container and put in the freezer for 1 hr, Mix it with a fork – you should start to see ice crystals forming at the edges, Return to the freezer for 20 mins then stir again, Repeat once or twice more until the granita is all clumps of ice, Serve in glasses or bowls as an elegant dessert, For a more indulgent version add a dollop of mascarpone and a grating of dark chocolate",
-      "favorite": "false"
+      "history": "Coffee Granita is a refreshing and sophisticated dessert originating from Italy. It consists of frozen coffee crystals, sweetened with sugar and enhanced with a hint of coffee liqueur for depth of flavor. This icy treat is perfect for hot summer days or as a delightful ending to a special meal.",
+      "instructions": "Pour the coffee into a jug and stir in the sugar until it has dissolved. Add the coffee liqueur and leave to cool completely. Once cold, pour the mixture into a freezable container and put it in the freezer for 1 hour. Mix it with a fork – you should start to see ice crystals forming at the edges. Return to the freezer for 20 minutes, then stir again. Repeat once or twice more until the granita is all clumps of ice. Serve in glasses or bowls as an elegant dessert. For a more indulgent version, add a dollop of mascarpone and a grating of dark chocolate.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Coffee Granita is believed to have originated in Sicily, Italy, and is often enjoyed as a palate cleanser between courses or as a light dessert.",
+        "funfact2": "The process of making granita involves scraping the frozen mixture with a fork to create a granular texture, which gives the dessert its characteristic icy consistency.",
+        "funfact3": "Coffee Granita can be customized with various toppings, such as whipped cream, chocolate shavings, or a splash of liqueur, to suit individual preferences and occasions.",
+        "funfact4": "While traditionally made with coffee, granita can also be prepared with other flavors, including fruit juices, herbal infusions, or even wine, offering a versatile option for dessert lovers."
+      }
     },
     {
       "id": "72",
       "uuid": "d2a58b6f-03e2-4aad-a761-88ca33c47c3c",
       "name": "Cappuccino",
       "category": "Coffee",
-      "ingredients": "18g ground espresso (or 1 espresso pod), 150ml milk, cocoa powder (optional), the right cup, 200-250ml capacity",
+      "ingredients": "18g ground espresso (or 1 espresso pod). 150ml milk. Cocoa powder (optional). The right cup, 200-250ml capacity",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cappucino-32dbfba.jpg?quality=90&resize=440,400",
       "cheers": 2,
-      "history": "",
-      "instructions": "Make around 35ml espresso using a coffee machine and pour it into the base of your cup, Steam the milk with the steamer attachment so that it has around 4-6cm of foam on top, Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily, As the volume within the cup increases bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre, Once the milk jug is almost touching the surface of the coffee tilt the jug to speed up the rate of pour, As you accelerate the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top, Dust the surface with a little cocoa powder if you like",
-      "favorite": "false"
+      "history": "The Cappuccino is a classic Italian coffee drink that has gained popularity worldwide. It is characterized by its equal parts of espresso, steamed milk, and milk foam, creating a creamy and indulgent beverage. The name 'cappuccino' is derived from the Capuchin friars, whose brown robes resemble the color of the drink.",
+      "instructions": "Make around 35ml espresso using a coffee machine and pour it into the base of your cup. Steam the milk with the steamer attachment so that it has around 4-6cm of foam on top. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming to pour into the center. Once the milk jug is almost touching the surface of the coffee, tilt the jug to speed up the rate of pour. As you accelerate the milk, it will hit the back of the cup and start naturally folding in on itself to create a pattern on the top. Dust the surface with a little cocoa powder if you like.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "Cappuccino is traditionally consumed as a breakfast beverage in Italy but is enjoyed throughout the day in other parts of the world.",
+        "funfact2": "In Italy, it's considered a faux pas to order a cappuccino after 11 a.m. as it's believed to be too heavy for later in the day.",
+        "funfact3": "The foam on top of a cappuccino acts as an insulator, helping to retain the heat of the underlying espresso.",
+        "funfact4": "Variations of the cappuccino include flavored syrups, such as vanilla or caramel, added to the espresso or foam for additional taste."
+      }
     },
     {
       "id": "73",
       "uuid": "f0f3b708-94d4-40d1-97ae-0d7996b00bf7",
-      "name": "Espresso old fashioned",
+      "name": "Espresso Old Fashioned",
       "category": "Coffee",
-      "ingredients": "double shot (60ml) espresso, 50ml bourbon, 10ml brown sugar syrup, 2 dashes bitters, ice, orange zest",
+      "ingredients": "Double shot (60ml) espresso. 50ml bourbon. 10ml brown sugar syrup. 2 dashes bitters. Ice. Orange zest",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/espresso-old-fashioned-33dcc82.jpg?quality=90&resize=440,400",
       "cheers": 3,
-      "history": "",
-      "instructions": "Mix a double shot (60ml) espresso with 50ml bourbon 10ml brown sugar syrup and 2 dashes bitters in a shaker with lots of ice, Shake and strain into a short glass and garnish with a twist of orange zest",
-      "favorite": "false"
+      "history": "The Espresso Old Fashioned reinvents the classic cocktail by infusing it with the robust essence of espresso. Originating as a modern twist on the traditional Old Fashioned, this variation introduces a rich harmony of flavors, blending the boldness of espresso with the warmth of bourbon and the subtle sweetness of brown sugar syrup. It has swiftly gained popularity among coffee enthusiasts and cocktail aficionados alike for its sophisticated taste profile and invigorating character.",
+      "instructions": "Mix a double shot (60ml) espresso with 50ml bourbon, 10ml brown sugar syrup, and 2 dashes bitters in a shaker with lots of ice. Shake and strain into a short glass and garnish with a twist of orange zest.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The Espresso Old Fashioned is a delightful fusion of coffee and cocktail culture, offering a sophisticated yet approachable beverage for any occasion.",
+        "funfact2": "Adding espresso to a classic Old Fashioned recipe introduces depth and complexity to the drink, appealing to those who enjoy both coffee and whiskey flavors.",
+        "funfact3": "The Espresso Old Fashioned can be customized with variations such as different types of bitters or the addition of flavored syrups, allowing for creativity in crafting the perfect drink.",
+        "funfact4": "This cocktail is not only enjoyed in upscale bars and restaurants but can also be easily made at home, making it a versatile choice for coffee and cocktail enthusiasts alike."
+      }
     },
     {
       "id": "74",
       "uuid": "0555d0b7-ef4b-4a5a-9225-dcae073ab343",
       "name": "Latte",
       "category": "Coffee",
-      "ingredients": "18g ground espresso, or 1 espresso pod, 250ml milk, large cup, 300-350ml capacity",
+      "ingredients": "18g ground espresso, or 1 espresso pod. 250ml milk. Large cup, 300-350ml capacity",
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/latte-e2a66d3.jpg?quality=90&resize=440,400",
       "cheers": 3,
-      "history": "",
-      "instructions": "Make around 35ml espresso using your coffee machine and pour it into the base of your cup, Steam the milk with the steamer attachment so that it has around 2-3cm of foam on top, Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily, As the volume within the cup increases bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre, Once the milk jug is almost touching the surface of the coffee tilt to speed up the rate of pour, As you accelerate the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top",
-      "favorite": "false"
+      "history": "The Latte, originating from Italy, is a popular coffee beverage enjoyed worldwide for its creamy texture and smooth taste. It is made by combining espresso with steamed milk, creating a harmonious balance of rich coffee flavor and velvety milkiness. The Latte is often favored for its versatility, as it can be customized with various syrups or flavorings to suit individual preferences.",
+      "instructions": "Make around 35ml espresso using your coffee machine and pour it into the base of your cup. Steam the milk with the steamer attachment so that it has around 2-3cm of foam on top. Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily. As the volume within the cup increases, bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre. Once the milk jug is almost touching the surface of the coffee, tilt to speed up the rate of pour. As you accelerate, the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top.",
+      "favorite": "false",
+      "funfacts": {
+        "funfact1": "The term 'latte' comes from the Italian caffè latte, which means 'milk coffee'.",
+        "funfact2": "In Italy, a latte is typically served in a glass rather than a ceramic cup.",
+        "funfact3": "Latte art, the practice of pouring steamed milk into a latte to create designs on the surface, has become a popular trend among baristas and coffee enthusiasts.",
+        "funfact4": "The popularity of lattes has led to a wide variety of flavored syrups and additives being used to create specialty versions, such as caramel lattes or vanilla lattes."
+      }
     }
   ]
 }
