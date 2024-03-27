@@ -3,8 +3,9 @@ import { useNavigate } from 'react-router-dom';
 import '../index.css';
 
 
-
+// AddNewDrink component allows users to add a new drink to the database.
 function AddNewDrink() {
+  // State hooks for managing form inputs and flow.
   const [name, setName] = useState('');
   const [category, setCategory] = useState('');
   const [ingredients, setIngredients] = useState('');
@@ -14,16 +15,22 @@ function AddNewDrink() {
   const [successMessage, setSuccessMessage] = useState('');
   const [shouldNavigate, setShouldNavigate] = useState(false);
   const [drinkId, setDrinkId] = useState(null);
+
+  // Use navigate goes to another route
   const navigate = useNavigate();
 
+  // Side effect to navigate to the drink's page after successful submission
   useEffect(() => {
     let timeoutId;
     if (shouldNavigate) {
+      // Delay navigation to allow the success message to be read by the user.
       timeoutId = setTimeout(() => {
         navigate(`/drink/${drinkId}`);
       }, 2000);
     }
 
+
+    // Cleanup function to clear the timeout if the component unmounts.
     return () => {
       if (timeoutId) {
         clearTimeout(timeoutId);
@@ -31,6 +38,8 @@ function AddNewDrink() {
     };
   }, [shouldNavigate, navigate, drinkId]);
 
+
+  // Function to handle form submission.
   const handleSubmit = async (event) => {
     event.preventDefault();
     const drinkData = {
@@ -45,6 +54,8 @@ function AddNewDrink() {
     };
 
     try {
+
+      // POST request to post a new submission to database
       const response = await fetch('http://localhost:4000/drinks', {
         method: 'POST',
         headers: {
@@ -67,6 +78,7 @@ function AddNewDrink() {
     }
   };
 
+  // JSX for handling the user input (ui).
   return (
     <>
     <h1 className="liquid-header text-4xl md:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-teal-400 animate-flip-up animate-once animate-duration-1000 animate-ease-out flex justify-center">

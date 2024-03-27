@@ -1,12 +1,15 @@
 # Drinks Galore 
 
 ### A Dynamic Drinks Glossary
-Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favorite beverages and explore new drink options with Drinks Galore.
+Drinks Galore is an innovative web application designed for beverage enthusiasts to explore, upvote, and track their favorite drinks. This project leverages the power of modern web technologies to provide a seamless and interactive experience for users. Below is a comprehensive guide to setting up, understanding, and contributing to the Drinks Galore project.
 
 
 ## Prerequisites 
-* Please be sure you have __tailwindcss__ for vite installed.
-* Here is the install command if not npm install -D tailwindcss postcss autoprefixer
+Before you begin, ensure you have tailwindcss for Vite installed in your development environment. TailwindCSS is a utility-first CSS framework that enables rapid UI development. If you haven't installed TailwindCSS along with its dependencies, run the following command in your project directory:
+>bash
+>npm install -D tailwindcss postcss autoprefixer
+
+This command installs TailwindCSS, PostCSS, and Autoprefixer as development dependencies, setting up your environment for building the Drinks Galore application.
 
 ## Deliverables / User Stories
 > As a user I can:
@@ -31,24 +34,35 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 * Add customizable water goal based on weight.
 
 
+
 ## Project Database:
 >Dainis was able to extract some SQL data and convert it to JSON which we later converted to our database format.
 
 <img src="planning/assets/images/dbsh.PNG" />
 
 ## Wireframe
+> The application's wireframe provides a visual guide to the UI and UX design.
+
 <img src="planning/assets/images/impWire.PNG" />
 
 ## Routes 
+> The application's routing structure is outlined below, ensuring efficent navigation throughout the app.
+
 <img src="planning/routesFinal.JPG" />
 
 ## Component Tree 
+> The component tree illustrates the hierarchical structure of React components used in the project.
+
 <img src="planning/treeFinal1.JPG" />
 
 ## API / JSON
+> The application leverages a custom API, structured in JSON format, to manage and display drink data.
+
 <img src="planning/apiFinal.JPG" />
 
 ## Trello Board
+> Project management and task tracking are facillitated through a dedicated Trello board.
+
 <img src="planning/trellowFinal.JPG" />
 
 ## Sources:
@@ -57,11 +71,13 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 * https://www.godairyfree.org/
 * https://www.flaticon.com/
 
-## Github Link
+## Github Repository
+> The source code for Drinks Galore is hosted on GitHub, accessible via the following link.
 * https://github.com/scmh001/react-hooks-phase-2-project
 
 ## Collaborators
+> This project is a collaborative effort among the following developers:
 
-Jasen Miyamoto ◘ Shukri Hussein ◘ Dainis Michel
-
-jasentm ◘ scmh001 ◘ dainiswmichel
+* Jasen Miyamoto (GitHub: jasentm)
+* Shukri Hussein (GitHub: scmh001)
+* Dainis Michel (GitHub: dainiswmichel)
