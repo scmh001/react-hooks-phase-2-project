@@ -30,6 +30,9 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 * Add customizable water goal.
 * Add customizable water goal based on weight.
 
+## Extra Accreditation
+Dainis was able to extract SQL data and convert it to JSON which we later converted to our database format.
+
 ## Project Database:
 <img src="planning/assets/images/dbsh.PNG" />
 
