@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 
-function EditProject() {
+function EditDrink() {
 	const { id } = useParams();
 	const navigate = useNavigate();
 	const [formData, setFormData] = useState({});
@@ -38,7 +38,7 @@ function EditProject() {
 
 	return (
         <form onSubmit={handleSubmit} className="max-w-lg mx-auto bg-white p-8 rounded-lg shadow" autoComplete="off">
-            <h3 className="text-2xl font-bold mb-6">Edit Project</h3>
+            <h3 className="text-2xl font-bold mb-6">Edit {formData.name}</h3>
 
             <div className="mb-4">
                 <label htmlFor="name" className="block text-sm font-medium text-gray-700">Name</label>
@@ -54,18 +54,24 @@ function EditProject() {
 
             <div className="mb-4">
                 <label htmlFor="category" className="block text-sm font-medium text-gray-700">Category</label>
-                <input
-                    type="text"
+                <select
                     id="category"
                     name="category"
                     value={formData.category}
                     onChange={handleOnChange}
                     className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500"
-                />
+                >
+                    <option value={"Alcoholic"}>Alcoholic</option>
+                    <option value={"Non-Alcoholic"}>Non-Alcoholic</option>
+                    <option value={"Coffee"}>Coffee</option>
+                    <option value={"Smoothie"}>Smoothie</option>
+                </select>
             </div>
 
             <div className="mb-4">
-                <label htmlFor="ingredients" className="block text-sm font-medium text-gray-700">Ingredients</label>
+                <label htmlFor="ingredients" className="block text-sm font-medium text-gray-700">
+                    Ingredients 
+                    <span className="italic text-xs">  (Please separate ingredients with a comma)</span></label>
                 <textarea
                     id="ingredients"
                     name="ingredients"
@@ -111,7 +117,10 @@ function EditProject() {
             </div>
 
             <div className="mb-4">
-                <label htmlFor="instructions" className="block text-sm font-medium text-gray-700">Instructions</label>
+                <label htmlFor="instructions" className="block text-sm font-medium text-gray-700">
+                    Instructions
+                    <span className="italic text-xs">  (Please separate instructions with a comma)</span>
+                    </label>
                 <textarea
                     id="instructions"
                     name="instructions"
@@ -128,4 +137,4 @@ function EditProject() {
     );
 }
 
-export default EditProject;
+export default EditDrink;

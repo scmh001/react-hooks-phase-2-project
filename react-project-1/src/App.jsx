@@ -18,7 +18,7 @@ function App() {
       }
     })
     .then(drinkData => setAllDrinks(drinkData))
-  }, [allDrinks])
+  }, [])
 
 
   const handleAddCheers = (updatedDrink) => {
