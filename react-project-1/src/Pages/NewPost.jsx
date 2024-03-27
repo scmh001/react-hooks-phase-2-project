@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import '../index.css';
 
+
+
 function AddNewDrink() {
   const [name, setName] = useState('');
   const [category, setCategory] = useState('');
