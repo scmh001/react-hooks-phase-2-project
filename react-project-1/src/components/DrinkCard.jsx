@@ -117,9 +117,9 @@ return (
     </div>
     <div className='edit-btn float-right'>
       <button className='edit'>
-        <NavLink to={`/drink/${id}/edit`}>
-          <img className='h-5 w-5' src='https://icons.veryicon.com/png/o/miscellaneous/linear-small-icon/edit-246.png'></img>
-        </NavLink>
+      <NavLink to={`/drink/${id}/edit`}>
+        <img className='h-5 w-5 hover:opacity-25 transition-opacity duration-350' src='https://icons.veryicon.com/png/o/miscellaneous/linear-small-icon/edit-246.png'></img>
+      </NavLink>
       </button>
     </div>
   </div>
