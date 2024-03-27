@@ -40,22 +40,29 @@ export default function IndividualDrinks() {
            ))}
              </ul>
             </div>
+
+          {drink.history ?  
           <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-20">
             <h2 className="text-2xl mb-2">History</h2>
-            <p>{drink.history ? drink.history : "No history available"}</p>
+            <p>{drink.history}</p>
           </div>
+          : 
+          null
+          }
+
+          {drink.instructions ?   
           <div className="font-black shadow-2xl p-4 rounded-lg bg-white">
             <h2 className="text-2xl mb-2">Instructions</h2>
             
-            {drink.instructions ?  
+          
             <ol className="list-inside list-decimal">
           {drink.instructions && drink.instructions.split(', ').map((instruction, index) => (
             <li key={index}>{instruction.charAt(0).toUpperCase() + instruction.slice(1)}</li>
            ))}
              </ol> 
-             : 
-             <p>"No instructions available"</p>}
           </div>
+          :
+          null}
         </div>
       </div>
     </div>
