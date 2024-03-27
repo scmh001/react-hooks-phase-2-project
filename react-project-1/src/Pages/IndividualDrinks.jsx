@@ -31,8 +31,8 @@ export default function IndividualDrinks() {
         </div>
         <div>
           <h1 className='text-4xl font-black mb-4 underline'>{drink.name}</h1>
-          <h2 className="italic font-black shadow-2xl p-4 rounded-lg bg-white mb-20">Category: {drink.category}</h2>
-          <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-20">
+          <h2 className="italic font-black shadow-2xl p-4 rounded-lg bg-white mb-10">Category: {drink.category}</h2>
+          <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-5">
            <h2 className="text-2xl mb-2">Ingredients</h2>
               <ul className="list-disc list-inside">
           {drink.ingredients && drink.ingredients.split('. ').map((ingredient, index) => (
@@ -41,17 +41,8 @@ export default function IndividualDrinks() {
              </ul>
             </div>
 
-          {drink.history ?  
-          <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-20">
-            <h2 className="text-2xl mb-2">History</h2>
-            <p>{drink.history}</p>
-          </div>
-          : 
-          null
-          }
-
-          {drink.instructions ?   
-          <div className="font-black shadow-2xl p-4 rounded-lg bg-white">
+            {drink.instructions ?   
+          <div className="font-black shadow-2xl p-3 rounded-lg mb-12 bg-white">
             <h2 className="text-2xl mb-2">Instructions</h2>
             
           
@@ -63,6 +54,26 @@ export default function IndividualDrinks() {
           </div>
           :
           null}
+          
+          {drink.history ?  
+          <div className="font-black shadow-2xl p-3 rounded-lg bg-white mb-12">
+            <h2 className="text-2xl mb-2">History</h2>
+            <p>{drink.history}</p>
+          </div>
+          : 
+          null
+          }
+
+          {drink.funfacts && Object.keys(drink.funfacts).length > 0 && (
+            <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-10">
+              <h2 className="text-2xl mb-2">Fun Facts</h2>
+              <ul className="list-disc list-inside">
+                {Object.values(drink.funfacts).map((fact, index) => (
+                 <li key={index}>{fact}</li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
       </div>
     </div>
