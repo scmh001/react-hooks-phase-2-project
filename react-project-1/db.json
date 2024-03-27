@@ -331,7 +331,7 @@
       "category": "Coffee",
       "ingredients": "1 cup strong brewed coffee, 1 tablespoon dairy-free chocolate syrup, 1 teaspoon orange zest (can sub ½ teaspoon orange extract), ¼ teaspoon ground cinnamon, ⅔ cup dairy-free chocolate milk beverage beverage (like Almond Breeze), Dairy-free whipped topping optional",
       "image": "https://www.godairyfree.org/wp-content/uploads/2006/05/pics-Spanish-Latte-vert.jpg",
-      "cheers": 11,
+      "cheers": 13,
       "history": "The Spanish Latte, a popular coffee beverage, has a complex history that intertwines with various coffee traditions from around the world. Despite its name, the exact origins of the Spanish Latte are not well-documented, and it shares similarities with several other coffee drinks from different cultures.",
       "instructions": "To prepare a Spanish Latte, brew a cup of strong coffee and add dairy-free chocolate syrup, orange zest, ground cinnamon, and dairy-free chocolate milk beverage to a mug. Stir well to combine. Top with dairy-free whipped topping for an indulgent finish, if desired. Serve hot and enjoy the rich and flavorful experience.",
       "favorite": "false",
@@ -523,24 +523,6 @@
       }
     },
     {
-      "id": "30",
-      "uuid": "6cce0be0-918a-4e1e-9bcd-6e4e1b53b650",
-      "name": "Dairy-Free Berry Mint Smoothies",
-      "category": "Smoothie",
-      "ingredients": "1 cup mixed berries (fresh or frozen). 1 cup unsweetened dairy-free milk alternative (Stephanie uses So Delicious Coconut). Handful fresh parsley. 3 to 4 sprigs fresh mint, plus sprigs for garnish. 1 tablespoon dairy-free protein powder (plain or vanilla). Sweetener, to taste (optional). Ice (optional)",
-      "image": "https://www.godairyfree.org/wp-content/uploads/2014/03/pics-berry-mint-smoothies-vert.jpg",
-      "cheers": 17,
-      "history": "The Dairy-Free Berry Mint Smoothies offer a refreshing blend of mixed berries, fresh herbs, and creamy coconut milk alternative. Smoothies have a long history dating back to ancient cultures, where fruits and herbs were blended together to create nutritious and flavorful beverages. This dairy-free version combines the sweetness of mixed berries with the cooling sensation of fresh mint, providing a delicious and revitalizing treat for any time of day.",
-      "instructions": "To prepare the Dairy-Free Berry Mint Smoothies, simply combine mixed berries, dairy-free milk alternative, parsley, fresh mint, dairy-free protein powder, sweetener (optional), and ice (optional) in a blender. Blend until smooth and creamy. Pour into glasses, garnish with fresh mint sprigs, and serve immediately for a refreshing and nutritious drink.",
-      "favorite": "false",
-      "funfacts": {
-        "funfact1": "Mixed berries, including strawberries, blueberries, raspberries, and blackberries, are rich in antioxidants, vitamins, and fiber, making them a nutritious addition to smoothies.",
-        "funfact2": "Fresh mint not only adds a refreshing flavor to the smoothies but also contains menthol, which may help aid digestion and provide a cooling sensation.",
-        "funfact3": "Dairy-free protein powder is often made from plant-based sources such as pea, rice, or hemp protein, providing a vegan-friendly option for adding protein to smoothies.",
-        "funfact4": "Smoothies are highly customizable, allowing you to adjust the sweetness, thickness, and flavor according to your preferences and dietary needs."
-      }
-    },
-    {
       "id": "31",
       "uuid": "4b8cce98-6c1e-44cc-988c-0b1defd4af9a",
       "name": "Dairy-Free Banana Orange Strawberry Smoothie",
@@ -664,24 +646,6 @@
         "funfact2": "Arrowroot starch is a gluten-free thickening agent commonly used in dairy-free ice cream recipes to achieve a smooth and creamy texture.",
         "funfact3": "Root beer floats, a classic American dessert, are made by combining root beer with a scoop of vanilla ice cream, creating a fizzy and creamy treat.",
         "funfact4": "Root beer extract is a concentrated flavoring made from natural and artificial ingredients, providing the distinctive taste of root beer to recipes."
-      }
-    },
-    {
-      "id": "38",
-      "uuid": "8b8416bb-5aa1-4ae6-88f9-bd1ec43c02f2",
-      "name": "Strawberry Watermelon Smoothie",
-      "category": "Smoothie",
-      "ingredients": "3 cups diced watermelon. Seeds removed. ½ cup plain dairy-free yogurt. 8 to 10 frozen strawberries",
-      "image": "https://www.godairyfree.org/wp-content/uploads/2007/06/pics-Watermelon-Strawberry-smoothie-vert.jpg",
-      "cheers": 19,
-      "history": "The Strawberry Watermelon Smoothie offers a delightful combination of juicy watermelon and sweet strawberries, blended into a creamy and refreshing drink. Watermelon, with its high water content, provides hydration and a subtle sweetness, while strawberries add vibrant color and natural sweetness. Blended with dairy-free yogurt for creaminess, this smoothie is perfect for hot summer days or as a healthy snack any time of year.",
-      "instructions": "To make the Strawberry Watermelon Smoothie, simply combine all ingredients in a blender. Blend until smooth and creamy, adjusting the consistency with more dairy-free yogurt or watermelon as needed. Pour into glasses and serve immediately for a refreshing and satisfying treat.",
-      "favorite": "false",
-      "funfacts": {
-        "funfact1": "Watermelon is composed of about 92% water, making it one of the most hydrating fruits available.",
-        "funfact2": "Strawberries are rich in antioxidants, vitamins, and fiber, offering numerous health benefits, including heart health and improved digestion.",
-        "funfact3": "Dairy-free yogurt is a versatile ingredient that can be used in smoothies, dips, dressings, and more, providing a creamy texture and probiotic benefits.",
-        "funfact4": "Smoothies are an easy and delicious way to incorporate more fruits and vegetables into your diet, offering a convenient source of vitamins, minerals, and fiber."
       }
     },
     {
@@ -865,24 +829,6 @@
       }
     },
     {
-      "id": "49",
-      "uuid": "28e734a9-3887-44ae-bed4-ab458dd4e4d4",
-      "name": "Dairy-Free Banana Orange Strawberry Smoothie",
-      "category": "Smoothie",
-      "ingredients": "1 medium banana. ½ medium orange, peeled and sectioned. 6 large strawberries, hulled. ¼ cup blueberries (optional). ¼ cup dairy-free milk beverage. Ice (optional)",
-      "image": "https://www.godairyfree.org/wp-content/uploads/2007/04/pics-the-boss-smoothie-vert.jpg",
-      "cheers": 5,
-      "history": "The Dairy-Free Banana Orange Strawberry Smoothie is a delicious and vibrant blend of fruits that's perfect for breakfast, a snack, or even a light dessert. With the sweetness of ripe banana, tanginess of fresh orange, and juiciness of strawberries, this smoothie is bursting with flavor and packed with essential vitamins and minerals. The addition of dairy-free milk beverage provides creaminess and extra nutrients, while the optional blueberries add even more antioxidants and a pop of color. Whether enjoyed on its own or paired with your favorite breakfast foods, this smoothie is sure to brighten your day!",
-      "instructions": "To make the Dairy-Free Banana Orange Strawberry Smoothie, simply combine banana, orange sections, strawberries, optional blueberries, and dairy-free milk beverage in a blender. Blend until smooth and creamy. If desired, add ice for a colder and more refreshing texture. Pour into glasses and serve immediately. Enjoy!",
-      "favorite": "false",
-      "funfacts": {
-        "funfact1": "Bananas are rich in potassium, which is essential for maintaining healthy blood pressure levels and supporting proper muscle and nerve function.",
-        "funfact2": "Oranges are a great source of vitamin C, which is important for immune function, skin health, and collagen production.",
-        "funfact3": "Strawberries are low in calories but high in fiber, vitamins, and antioxidants, making them a nutritious addition to any diet.",
-        "funfact4": "This smoothie can be easily customized by adding different fruits, such as pineapple, mango, or peaches, to suit your taste preferences and seasonal availability."
-      }
-    },
-    {
       "id": "50",
       "uuid": "dfa06aae-945e-42ed-8e84-87aacf0d7fcb",
       "name": "Dairy-Free Tigernut Milk",
@@ -916,24 +862,6 @@
         "funfact2": "Almond milk is a good source of vitamin E, which is an antioxidant that helps protect cells from damage caused by free radicals.",
         "funfact3": "Homemade almond milk tends to separate over time, so be sure to shake it well before using.",
         "funfact4": "You can customize the flavor of almond milk by adding ingredients like vanilla extract, cinnamon, or cocoa powder."
-      }
-    },
-    {
-      "id": "52",
-      "uuid": "ff066ff6-8d83-49a9-a93b-5f80f360a829",
-      "name": "Dairy-Free Blueberry Banana Pear Smoothie",
-      "category": "Smoothie",
-      "ingredients": "1½ cups blueberries, 2 pears, cored and cut into quarters, 2 bananas, fresh or frozen, 1 cup plain or vanilla dairy-free milk beverage, ¼ teaspoon ground cinnamon",
-      "image": "https://www.godairyfree.org/wp-content/uploads/2007/05/pics-Blueberry-Pear-Smoothie-vert.jpg",
-      "cheers": 6,
-      "history": "Blueberry Banana Pear Smoothie is a refreshing and nutritious dairy-free smoothie that's perfect for breakfast or as a snack. Blueberries, pears, and bananas add natural sweetness and fiber, while dairy-free milk beverage provides creaminess. A hint of ground cinnamon adds warmth and depth of flavor to this delicious smoothie.",
-      "instructions": "To make the Blueberry Banana Pear Smoothie, simply combine all the ingredients in a blender and blend until smooth. Adjust the consistency by adding more dairy-free milk beverage if necessary. Pour the smoothie into glasses and serve immediately. Garnish with fresh blueberries or pear slices if desired.",
-      "favorite": "false",
-      "funfacts": {
-        "funfact1": "Blueberries are often called \"brain berries\" due to their potential cognitive benefits. They're not only delicious but also packed with antioxidants that may support brain health.",
-        "funfact2": "Pears are one of the few fruits that don't ripen well on the tree. Instead, they're harvested when mature but still hard and then left to ripen at room temperature.",
-        "funfact3": "Bananas are berries botanically classified as \"false berries\" because they don't develop from a single ovary like true berries. Despite this, they're a great source of potassium and other essential nutrients.",
-        "funfact4": "Cinnamon has been used for centuries not only for its flavor but also for its potential health benefits. It may help lower blood sugar levels and reduce inflammation, making it a tasty and beneficial addition to your smoothie."
       }
     },
     {
@@ -1013,7 +941,7 @@
       "uuid": "b2a63b5c-3c94-44c8-bbe4-6323cc32e597",
       "name": "Iced Latte",
       "category": "Coffee",
-      "ingredients": "2 espresso shots (60ml). 2 tsp sugar. honey or maple syrup (to taste). ice. 100ml whole milk",
+      "ingredients": "2 espresso shots (60ml). 2 tsp sugar. Honey or maple syrup (to taste). Ice. 100ml whole milk",
       "image": "https://images.pexels.com/photos/7937429/pexels-photo-7937429.jpeg",
       "cheers": 21,
       "history": "The Iced Latte is a refreshing and invigorating coffee beverage, perfect for hot summer days or as a pick-me-up any time of the year. It combines the bold flavor of espresso with the creamy richness of milk, served over ice for a chilled and satisfying drink. The addition of sweetener adds a touch of sweetness to balance out the bitterness of the espresso.",
@@ -1140,7 +1068,7 @@
       "name": "Iced Coffee",
       "category": "Coffee",
       "ingredients": "200ml strong black coffee. 50ml milk. Ice. Maple syrup (optional)",
-      "image": null,
+      "image": "https://images.pexels.com/photos/12691444/pexels-photo-12691444.jpeg",
       "cheers": 25,
       "history": "Iced Coffee is a chilled coffee beverage that is perfect for hot summer days or as a refreshing pick-me-up. It is made by brewing a strong cup of black coffee and then chilling it. The chilled coffee is blended with milk, ice, and optionally sweetened with maple syrup for a touch of sweetness.",
       "instructions": "Make a 200ml cup of black coffee following pack instructions, then allow the coffee to go completely cold. Pour into a blender with the milk, along with 2 or 3 handfuls of ice and maple syrup if using, then blend until smooth and foamy. Pour into a chilled tall glass and serve.",
