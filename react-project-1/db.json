@@ -17,7 +17,7 @@
       "category": "Non-Alcoholic",
       "ingredients": "1 ounce grenadine, small ice cubes, 4 ounces lemon-lime soda (such as 7UP or Sprite), chilled, 4 ounces ginger ale, chilled, maraschino cherries for garnish",
       "image": "https://bellyfull.net/wp-content/uploads/2020/12/Shirley-Temple-Drink-blog-3.jpg",
-      "cheers": 5,
+      "cheers": 11,
       "history": "The cocktail may have been invented in the 1930s by a bartender at Chasen's, a restaurant in Beverly Hills, California, to serve then child actress Shirley Temple (1928–2014). However, other claims to its origin have been made.",
       "instructions": null,
       "favorite": "false"
@@ -28,7 +28,7 @@
       "category": "Non-Alcoholic",
       "ingredients": "3 ounces blue fruit punch, 2 ounces 7UP, 2 teaspoons sweetened lime juice, 1 tablespoon pineapple juice, red gummy fish for garnish, lime wedges",
       "image": "https://southernbite.com/wp-content/uploads/2017/05/Ocean-Water.jpg",
-      "cheers": 37,
+      "cheers": 30,
       "history": "Ocean Water quickly became the drive-in chain's signature summertime drink with its vibrant blue color and tropical flavor. Over the years, cocktail enthusiasts incorporated ingredients like blue curacao and coconut rum to create a refreshing drink for adults.",
       "instructions": null,
       "favorite": "true"
@@ -41,7 +41,7 @@
       "image": "https://www.mightymrs.com/wp-content/uploads/tropical-pineapple-orange-tequilla-sunrise1.jpg",
       "cheers": 20,
       "history": " The original tequila sunrise contained tequila, crème de cassis, lime juice, and soda water, and was served at the Arizona Biltmore Hotel where it was created by Gene Sulit in the 1930s or 1940s.",
-      "instructions": "Cut pineappples, juice pineapples, pour all ingredients into a glass, stir, enjoy!",
+      "instructions": null,
       "favorite": "false"
     },
     {
@@ -60,7 +60,7 @@
       "name": "Sweet Tea",
       "category": "Non-Alcoholic",
       "ingredients": "12 individual tea bags, 1 cup granulated sugar, Ice, Fresh mint leaves or lemon slices (optional)",
-      "image": "https://perchancetocook.com/wp-content/uploads/2022/08/maple-iced-tea.jpg",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_1022/k%2Farchive%2Fa578ef028e789e8e15c61a51916dc7010c0a72ad",
       "cheers": 5,
       "history": "The first recipe that closely resembled the sweet “iced tea” we know and love today wasn't printed until 1879. A cookbook titled, “Housekeeping in Old Virginia” shared the original recipe by Marion Cabell Tyree. Although it used green tea, this was the first recorded recipe to flavor the drink with sugar and lemon",
       "instructions": null,
@@ -71,8 +71,8 @@
       "name": "Margarita",
       "category": "Alcoholic",
       "ingredients": "1 ½ oz tequila, 1 oz Triple Sec or Cointreau, ¾ oz lime juice",
-      "image": "https://www.sainsburysmagazine.co.uk/media/9438/download/Margarita.jpg?v=1",
-      "cheers": 37,
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Patron-Margarita-002.jpg",
+      "cheers": 36,
       "history": "One of the earliest stories is of the margarita being invented in 1938 by Carlos Danny Herrera at his restaurant Rancho La Gloria, halfway between Tijuana and Rosarito, Baja California, created for customer and former Ziegfeld dancer Marjorie King, who was allergic to many spirits, but not to tequila.",
       "instructions": null,
       "favorite": "false"
@@ -82,8 +82,8 @@
       "name": "Moscow Mule",
       "category": "Alcoholic",
       "ingredients": "2 oz vodka, 4 oz ginger beer, ½ oz lime juice",
-      "image": "https://preppykitchen.com/wp-content/uploads/2020/12/Moscow-Mule-Featrue.jpg",
-      "cheers": 31,
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2019/06/Moscow-Mule-062.jpg",
+      "cheers": 28,
       "history": "The Moscow Mule was born on that day in 1941. The perfect combination of vodka and ginger beer, housed in a solid copper mug that kept the drink cold and enhanced its flavor and aroma, resulting in a cocktail that America would fawn over for the next century and beyond.",
       "instructions": null,
       "favorite": "false"
@@ -93,7 +93,7 @@
       "name": "Oreo Milkshake",
       "category": "Non-Alcoholic",
       "ingredients": "6 chocolate sandwich cookies (such as Oreo®), 3 scoops vanilla ice cream, ¾ cup milk",
-      "image": "https://houseofnasheats.com/wp-content/uploads/2023/01/Oreo-Milkshake-10-scaled.jpg",
+      "image": "https://www.allrecipes.com/thmb/LoXJbnPLMX-Agcb5OC1unM28J_s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2028980-7f016ddf84fa453fbd3161e4e277028c.jpg",
       "cheers": 6,
       "history": null,
       "instructions": null,
@@ -126,7 +126,7 @@
       "name": "Cosmopolitan Cocktail",
       "category": "Alcoholic",
       "ingredients": "1 ounce vodka or citron vodka, 1 ounce 100% cranberry juice (unsweetened), ½ ounce Cointreau, ½ ounce fresh lime juice, 1 teaspoon simple syrup, garnish: lime wheel",
-      "image": "https://foodandsun.com/wp-content/uploads/2020/07/Cosmopolitan.jpeg",
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2019/12/Cosmopolitan-Cocktail-006.jpg",
       "cheers": 10,
       "history": "The origin of the cosmopolitan is disputed. with some histories tracing it from the gay community in 1970s Provincetown, moving west to Cleveland and Minneapolis, and landing in San Francisco. From there, it moved back east, with the contemporary recipe being mixed in 1989 in New York City.",
       "instructions": null,
@@ -138,9 +138,9 @@
       "category": "Alcoholic",
       "ingredients": "2 ounces gin, ½ ounce lime juice, ½ ounce simple syrup or pure maple syrup, Splash of soda water (optional)",
       "image": "https://www.liqculture.com/wp-content/uploads/2018/12/IMG_3979.jpg",
-      "cheers": 40,
+      "cheers": 29,
       "history": "It may be named after the tool for drilling small holes (alluding to its (piercing) effect on the drinker) or after the surgeon Rear-Admiral Sir Thomas Gimlette (1857–1943), who is said to have first added lime cordial to gin to help combat the ravages of scurvy on long voyages.",
-      "instructions": "Add the gin, lime juice and simple syrup to a shaker with ice and shake until well-chilled., Strain into a chilled cocktail glass or an rocks glass filled with fresh ice., Garnish with a lime wheel.",
+      "instructions": null,
       "favorite": "false"
     },
     {
@@ -149,7 +149,7 @@
       "category": "Non-Alcoholic",
       "ingredients": "2 cups frozen mixed berries, 1 cup strawberry flavored yogurt, 1 banana, sliced, 1 cup milk, ½ teaspoon white sugar (Optional)",
       "image": "https://www.allrecipes.com/thmb/CJSeVzY-if0UVYd3wU5VnWg391g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2275869-f5c32aaf246a44e18ecf5dd602005713.jpg",
-      "cheers": 5,
+      "cheers": 4,
       "history": null,
       "instructions": null,
       "favorite": "false"
@@ -237,7 +237,7 @@
       "category": "Coffee",
       "ingredients": "1 cup water, 1 cup sugar, 1 teaspoon vanilla extract",
       "image": "https://www.godairyfree.org/wp-content/uploads/2018/10/Pumpkin-Spice-Latte-online-writing1.jpg",
-      "cheers": 38,
+      "cheers": 8,
       "history": null,
       "instructions": null,
       "favorite": "false"
@@ -375,6 +375,17 @@
       "favorite": "false"
     },
     {
+      "id": "35",
+      "name": "Dairy-Free Tropical Milkshakes",
+      "category": "Non-Alcoholic",
+      "ingredients": "2 tablespoons chopped raw cashews, 2 tablespoons unsweetened coconut flakes, 1 ripe frozen banana, broken into chunks, 1 kiwi, peeled and coarsely chopped, 1 cup chopped mango, 1 cup chopped pineapple, 1 cup unsweetened coconut milk beverage, 1 cup dairy-free vanilla bean coconut milk ice cream, ½ cup light coconut whipped topping (optional, for garnish), 4 cherries (optional, for garnish), 1 teaspoon rainbow sprinkles (optional, for garnish)",
+      "image": "https://www.godairyfree.org/wp-content/uploads/2022/09/Tropical-Banana-Split-Milkshake-online-vert.jpg",
+      "cheers": 8,
+      "history": null,
+      "instructions": null,
+      "favorite": "false"
+    },
+    {
       "id": "36",
       "name": "Dairy-Free Pineapple Coconut Smoothie",
       "category": "Drinks",
@@ -391,7 +402,7 @@
       "category": "Dessert",
       "ingredients": "1 cup vanilla dairy-free milk beverage, 1½ tablespoons arrowroot starch (can sub cornstarch), 1 cup root beer (NOT diet), ½ cup sugar, ¼ teaspoon salt, 1 tablespoon root beer extract",
       "image": "https://www.godairyfree.org/wp-content/uploads/2009/07/pics-root-beer-ice-cream-vert.jpg",
-      "cheers": 21,
+      "cheers": 20,
       "history": null,
       "instructions": null,
       "favorite": "false"
@@ -402,7 +413,7 @@
       "category": "Smoothie",
       "ingredients": "3 cups diced watermelon, seeds removed, ½ cup plain dairy-free yogurt, 8 to 10 frozen strawberries",
       "image": "https://www.godairyfree.org/wp-content/uploads/2007/06/pics-Watermelon-Strawberry-smoothie-vert.jpg",
-      "cheers": 23,
+      "cheers": 19,
       "history": null,
       "instructions": null,
       "favorite": "false"
@@ -424,7 +435,7 @@
       "category": "Smoothie",
       "ingredients": "1 cup diced pineapple, 1 kiwi fruit peeled and sliced, 1 pear peeled and diced, 2 cups baby kale, 1 cup crushed ice, 1 cup unsweetened dairy-free milk beverage, or as needed",
       "image": "https://www.godairyfree.org/wp-content/uploads/2013/04/pics-kale-smoothie-vert.jpg",
-      "cheers": 38,
+      "cheers": 18,
       "history": null,
       "instructions": null,
       "favorite": "true"
@@ -468,7 +479,7 @@
       "category": "Alcoholic",
       "ingredients": "1½ ounces coconut rum, 1 ounce triple sec, 4 ounces orange juice, 4 ounces pineapple juice, ½ ounce grenadine, Ice",
       "image": "https://www.godairyfree.org/wp-content/uploads/2022/07/pics-bahama-mama.jpg",
-      "cheers": 44,
+      "cheers": 4,
       "history": null,
       "instructions": null,
       "favorite": "false"
