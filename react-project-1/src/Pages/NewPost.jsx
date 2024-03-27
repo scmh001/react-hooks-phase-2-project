@@ -83,7 +83,7 @@ function AddNewDrink() {
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700">Ingredients:</label>
-          <input type="text" value={ingredients} onChange={e => setIngredients(e.target.value)} placeholder='Please separate ingredients with a comma...' className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500" />
+          <input type="text" value={ingredients} onChange={e => setIngredients(e.target.value)} placeholder='Please separate ingredients with a period...' className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500" />
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700">Image URL:</label>
@@ -95,7 +95,7 @@ function AddNewDrink() {
         </div>
         <div>
           <label className="block text-sm font-medium text-gray-700">Instructions:<span className="italic"> (optional)</span></label>
-          <textarea value={instructions} onChange={e => setInstructions(e.target.value)} placeholder='Please separate instructions with a comma...' className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500"></textarea>
+          <textarea value={instructions} onChange={e => setInstructions(e.target.value)} placeholder='Please separate instructions with a period...' className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring-indigo-500"></textarea>
         </div>
         <input type="submit" value="Submit" className="submit-button" />
       </form>

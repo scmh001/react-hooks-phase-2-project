@@ -72,7 +72,7 @@ function EditDrink() {
             <div className="mb-4">
                 <label htmlFor="ingredients" className="block text-sm font-medium text-gray-700">
                     Ingredients 
-                    <span className="italic text-xs">  (Please separate ingredients with a comma)</span></label>
+                    <span className="italic text-xs">  (Please separate ingredients with a period)</span></label>
                 <textarea
                     id="ingredients"
                     name="ingredients"
@@ -120,7 +120,7 @@ function EditDrink() {
             <div className="mb-4">
                 <label htmlFor="instructions" className="block text-sm font-medium text-gray-700">
                     Instructions
-                    <span className="italic text-xs">  (Please separate instructions with a comma)</span>
+                    <span className="italic text-xs">  (Please separate instructions with a period)</span>
                     </label>
                 <textarea
                     id="instructions"
