@@ -36,10 +36,12 @@ export default function IndividualDrinks() {
         <div>
           {/* Displaying drink name */}
           <h1 className='text-4xl font-black mb-4 underline'>{drink.name}</h1>
+          
           {/* Displaying drink category */}
           <h2 className="italic font-black shadow-2xl p-4 rounded-lg bg-white mb-20">Category: {drink.category}</h2>
+          
           {/* Displaying drink ingredients if available */}
-          <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-20">
+          <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-5">
             <h2 className="text-2xl mb-2">Ingredients</h2>
             <ul className="list-disc list-inside">
               {drink.ingredients && drink.ingredients.split('. ').map((ingredient, index) => (
@@ -47,18 +49,10 @@ export default function IndividualDrinks() {
               ))}
             </ul>
           </div>
-          {/* Conditionally rendering the history section if available */}
-          {drink.history ?
-            <div className="font-black font-sans shadow-2xl p-4 rounded-lg bg-white mb-20">
-              <h2 className="text-2xl mb-2 ">History</h2>
-              <p>{drink.history}</p>
-            </div>
-            :
-            null
-          }
+          
           {/* Conditionally rendering the instructions section if available */}
           {drink.instructions ?
-            <div className="font-black shadow-2xl p-4 rounded-lg bg-white font-sans">
+            <div className="font-black shadow-2xl p-4 rounded-lg bg-white font-sans mb-10">
               <h2 className="text-2xl mb-2 font-sans">Instructions</h2>
               <ol className="list-inside list-decimal">
                 {drink.instructions && drink.instructions.split('. ').map((instruction, index) => (
@@ -68,6 +62,29 @@ export default function IndividualDrinks() {
             </div>
             :
             null}
+
+          {/* Conditionally rendering the history section if available */}
+          {drink.history ?
+            <div className="font-black font-sans shadow-2xl p-4 rounded-lg bg-white mb-10">
+              <h2 className="text-2xl mb-2 ">History</h2>
+              <p>{drink.history}</p>
+            </div>
+            :
+            null
+          }
+
+          {/* Conditionally rendering the fun facts section if available */}
+          {drink.funfacts && Object.keys(drink.funfacts).length > 0 && (
+            <div className="font-black shadow-2xl p-4 rounded-lg bg-white mb-20">
+              <h2 className="text-2xl mb-2">Fun Facts</h2>
+              <ul className="list-disc list-inside">
+                {Object.values(drink.funfacts).map((fact, index) => (
+                 <li key={index}>{fact}</li>
+                ))}
+              </ul>
+            </div>
+          )}
+
         </div>
       </div>
     </div>
