@@ -4,7 +4,7 @@
 Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favorite beverages and explore new drink options with Drinks Galore.
 
 
-## Instructions
+## Prerequisites 
 * Please be sure you have __tailwindcss__ for vite installed.
 * Here is the install command if not npm install -D tailwindcss postcss autoprefixer
 
@@ -30,8 +30,6 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 * Add customizable water goal.
 * Add customizable water goal based on weight.
 
-## Extra Accreditation
-
 
 ## Project Database:
 >Dainis was able to extract some SQL data and convert it to JSON which we later converted to our database format.
@@ -39,7 +37,7 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 <img src="planning/assets/images/dbsh.PNG" />
 
 ## Wireframe
-<img src="planning/impWire.PNG" />
+<img src="planning/assets/images/impWire.PNG" />
 
 ## Routes 
 <img src="planning/routesFinal.JPG" />

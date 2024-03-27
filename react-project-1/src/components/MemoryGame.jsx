@@ -87,7 +87,7 @@ function MemoryGame() {
       </button>
 
       <div className="grid grid-cols-4 gap-6">
-  {cards.map((card) => (
+        {cards.map((card) => (
           <div
             key={card.id}
             className={`memory-card transform transition duration-500 ease-in-out ${
@@ -95,7 +95,7 @@ function MemoryGame() {
             } rounded-lg cursor-pointer animate-rotate-y`}
             onClick={() => handleCardClick(card)}
           >
-            <div className="relative w-40 h-56">
+            <div className="relative w-50 h-56">
               <img
                 className={`absolute top-0 left-0 w-full h-full rounded-lg ${
                   card.isFlipped ? 'opacity-0' : 'opacity-100'
