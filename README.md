@@ -21,6 +21,7 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 
 ## Stretch Deliverables
 > As a user I can:
+* Implement "edit" button and form.
 * Filter by least amount of upvotes to greatest vice versa
 * Expand search specifics
 * Add instructions
@@ -29,6 +30,9 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 * Add customizable water goal.
 * Add customizable water goal based on weight.
 
+## Extra Accreditation
+Dainis was able to extract SQL data and convert it to JSON which we later converted to our database format.
+
 ## Project Database:
 <img src="planning/assets/images/dbsh.PNG" />
 
@@ -36,16 +40,16 @@ Drinks galore is a dynamic drinks glossary for beverage lovers. Find your favori
 <img src="planning/impWire.PNG" />
 
 ## Routes 
-<img src="planning/routesImp.PNG" />
+<img src="planning/routesFinal.JPG" />
 
 ## Component Tree 
-<img src="planning/imptree.PNG" />
+<img src="planning/treeFinal1.JPG" />
 
 ## API / JSON
-<img src="planning/assets/images/crudapi.PNG" />
+<img src="planning/apiFinal.JPG" />
 
 ## Trello Board
-<img src="planning/assets/images/trelloboard.PNG" />
+<img src="planning/trellowFinal.JPG" />
 
 ## Sources:
 * https://en.wikipedia.org/wiki/Main_Page

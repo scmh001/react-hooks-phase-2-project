@@ -9,6 +9,9 @@ const DrinkVolumeInputTracker = () => {
     return savedVolumes ? JSON.parse(savedVolumes) : [{ ounces: '' }];
   });
 
+  // State for dynamically setting the goal value
+  const [goalValue, setGoalValue] = useState(124);
+
   // Effect hook to update local storage whenever 'volumes' state changes.
   useEffect(() => {
     localStorage.setItem('volumes', JSON.stringify(volumes));
@@ -43,14 +46,25 @@ const DrinkVolumeInputTracker = () => {
     return volumes.reduce((total, current) => total + Number(current.ounces || 0), 0);
   };
 
-  const goalValue = 125; // Goal value in ounces
   const totalVolume = calculateTotalVolume();
   const goalMet = totalVolume >= goalValue;
 
   // Render the UI
   return (
+    <>
     <div className="container mx-auto p-4">
       <h2 className="text-2xl font-semibold text-gray-800 mb-4">Water Volume Tracker</h2>
+      <div className="mb-4">
+        <label htmlFor="goalInput" className="block mb-2">Goal Volume (ounces):</label>
+        <input
+          id="goalInput"
+          type="number"
+          className="border-2 border-blue-300 focus:border-blue-500 rounded-lg p-2 transition duration-200 ease-in-out"
+          value={goalValue}
+          onChange={(event) => setGoalValue(Number(event.target.value))}
+          placeholder="Set your goal"
+        />
+      </div>
       {volumes.map((volume, index) => (
         <div key={index} className="flex items-center mb-2">
           <input
@@ -65,15 +79,17 @@ const DrinkVolumeInputTracker = () => {
       ))}
       <button onClick={addVolumeInput} className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-lg my-4 transition duration-150 ease-in-out">Add Drink</button>
       <button onClick={resetVolumeInputs} className="bg-gray-500 hover:bg-gray-600 text-white p-2 rounded-lg mx-2 my-4 transition duration-150 ease-in-out">Reset Fields</button>
-      <DrinkVolumeBarGraph volumes={volumes} />
+      <DrinkVolumeBarGraph volumes={volumes} goalValue={goalValue} />
       <div className="mt-4">
         {goalMet ? (
-          <p className="text-green-500 font-bold">Goal of 125 ounces met!</p>
+          <p className="text-green-500 font-bold">Goal of {goalValue} ounces met!</p>
         ) : (
           <p className="text-red-500 font-bold">Goal not met. Keep going!</p>
         )}
       </div>
+      <span className= "italic">For healthy individuals, the average daily water intake for men is about 15.5 cups (~124 ounces) and for women about 11.5 cups(~92 ounces). -- (health.harvard.edu 2023) </span>
     </div>
+    </>
   );
 };
 
