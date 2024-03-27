@@ -2,101 +2,65 @@
   "drinks": [
     {
       "id": "1",
-      "uuid": "1f34af48-9148-4604-a0ae-1ff13dc3f1dc",
       "name": "Manhattan",
       "category": "Alcoholic",
-      "ingredients": "2 ounces rye whiskey. 1 ounce sweet vermouth. 2 dashes Angostura bitters. Garnish: brandied cherry (or lemon twist if preferred)",
-      "image": "https://www.liquor.com/thmb/GYAzfmYiAo4EZ38Ij_UrpgTPeNw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/manhattan-4000x4000-primary-ig-9c3d894510284e9d8fbd9c518d00790b.jpg",
+      "ingredients": "2 ounces rye whiskey, 1 ounce sweet vermouth, 2 dashes Angostura bitters, Garnish: brandied cherry (or lemon twist if preferred)",
+      "image": "https://assets-prd.punchdrink.com/wp-content/uploads/2013/09/Manhattan.jpg",
       "cheers": 16,
-      "history": "Originated at the Manhattan Club in New York City in the mid-1870s, the Manhattan quickly became a staple in the bar scene. Its popularity spread to other cities, leading to variations in recipes and garnishes. The drink's name is believed to have originated from the Manhattan Club's location, although some speculate it may have been named after the city itself.",
-      "instructions": "Chill a cocktail glass. Half fill a cocktail shaker with ice. Add the whiskey, vermouth, and bitters. Stir well. Strain into the glass. Add the cherry and serve.",
-      "favorite": "false",
-      "funfacts": {
-        "funfact1": "Rye whiskey is preferred for its sharp, spicy flavor profile, which complements the sweet vermouth and bitters well.",
-        "funfact2": "Sweet vermouth adds a rich, sweet flavor that balances the whiskey's spiciness. Carpano Antica Formula is a recommended choice for its herbaceous and spicy qualities.",
-        "funfact3": "Angostura bitters are a classic choice, but other brands like Regan’s Orange Number Five Bitters or Fee Brothers’ Whiskey Barrel Aged Bitters can add more character.",
-        "funfact4": "A maraschino cherry is traditional, but Luxardo Marasca Cherries, imported from Italy in a thick cherry syrup, offer a more authentic and flavorful option. Alternatively, a lemon twist can elevate the drink."
-      }
+      "history": "originated at the Manhattan Club in New York City in the mid-1870s",
+      "instructions": null,
+      "favorite": "true"
     },
     {
       "id": "2",
-      "uuid": "a6b82cc3-b804-40ff-80eb-6ee3220362f6",
       "name": "Shirley Temple",
       "category": "Non-Alcoholic",
-      "ingredients": "1 ounce grenadine. Small ice cubes. 4 ounces lemon-lime soda (such as 7UP or Sprite), chilled. 4 ounces ginger ale, chilled. Maraschino cherries for garnish",
-      "image": "https://www.blessthismessplease.com/wp-content/uploads/2022/05/shirley-temple-recipe-2.jpg",
+      "ingredients": "1 ounce grenadine, small ice cubes, 4 ounces lemon-lime soda (such as 7UP or Sprite), chilled, 4 ounces ginger ale, chilled, maraschino cherries for garnish",
+      "image": "https://bellyfull.net/wp-content/uploads/2020/12/Shirley-Temple-Drink-blog-3.jpg",
       "cheers": 5,
       "history": "The cocktail may have been invented in the 1930s by a bartender at Chasen's, a restaurant in Beverly Hills, California, to serve then child actress Shirley Temple (1928–2014). However, other claims to its origin have been made.",
-      "instructions": "Fill a glass with ice cubes. Add grenadine, lemon-lime soda, and ginger ale. Stir gently. Garnish with maraschino cherries.",
-      "favorite": "false",
-      "funfacts": {
-        "funfact1": "The Shirley Temple is named after the famous child actress who was known for her role in films such as 'Bright Eyes' and 'Curly Top'.",
-        "funfact2": "It is often served to children as a special and fun non-alcoholic beverage, allowing them to feel included in social events.",
-        "funfact3": "The sweet and fruity flavors of grenadine and soda make it a favorite for kids and a nostalgic choice for adults.",
-        "funfact4": "The mocktail gained popularity as a way to celebrate Shirley Temple's career and provide a sophisticated alternative for young guests at social gatherings."
-      }
+      "instructions": null,
+      "favorite": "false"
     },
     {
       "id": "3",
-      "uuid": "db4b1ce0-e93b-4878-89f3-13353dcf8716",
       "name": "Ocean Water",
       "category": "Non-Alcoholic",
-      "ingredients": "3 ounces blue fruit punch. 2 ounces 7UP. 2 teaspoons sweetened lime juice. 1 tablespoon pineapple juice. Red gummy fish for garnish. Lime wedges",
+      "ingredients": "3 ounces blue fruit punch, 2 ounces 7UP, 2 teaspoons sweetened lime juice, 1 tablespoon pineapple juice, red gummy fish for garnish, lime wedges",
       "image": "https://southernbite.com/wp-content/uploads/2017/05/Ocean-Water.jpg",
-      "cheers": 30,
+      "cheers": 37,
       "history": "Ocean Water quickly became the drive-in chain's signature summertime drink with its vibrant blue color and tropical flavor. Over the years, cocktail enthusiasts incorporated ingredients like blue curacao and coconut rum to create a refreshing drink for adults.",
-      "instructions": "Fill a glass with ice. Pour blue fruit punch, 7UP, sweetened lime juice, and pineapple juice into the glass. Stir gently. Garnish with a red gummy fish and lime wedges.",
-      "favorite": "false",
-      "funfacts": {
-        "funfact1": "The vibrant blue color of Ocean Water is achieved by mixing blue fruit punch with carbonated soda, giving it a visually appealing and refreshing look.",
-        "funfact2": "The drink's tropical flavor and playful presentation make it a hit with both kids and adults, offering a fun and flavorful beverage for all ages.",
-        "funfact3": "Ocean Water is often associated with summer and beach-themed events, evoking the feeling of relaxation and enjoyment by the sea.",
-        "funfact4": "While the original Ocean Water is non-alcoholic, variations with blue curacao and coconut rum have been created to cater to adult tastes, adding a tropical twist to the drink."
-      }
+      "instructions": null,
+      "favorite": "true"
     },
     {
       "id": "4",
-      "uuid": "a6a672a3-103f-45b4-9d60-9f91afb956fa",
       "name": "Pineapple Sunrise",
       "category": "Non-Alcoholic",
-      "ingredients": "4 ounces pineapple juice. 2 ounces 7UP. 1 tablespoon grenadine. Maraschino cherries for garnish",
-      "image": "https://media02.stockfood.com/largepreviews/MzkyOTg0MzY1/12676915-Tequila-sunrise-cocktail-with-pineapple-and-orange.jpg",
+      "ingredients": "4 ounces pineapple juice, 2 ounces 7UP, 1 tablespoon grenadine, maraschino cherries for garnish",
+      "image": "https://www.mightymrs.com/wp-content/uploads/tropical-pineapple-orange-tequilla-sunrise1.jpg",
       "cheers": 20,
-      "history": "The original tequila sunrise contained tequila, crème de cassis, lime juice, and soda water, and was served at the Arizona Biltmore Hotel where it was created by Gene Sulit in the 1930s or 1940s. The Pineapple Sunrise is a variation on this classic drink, using pineapple juice instead of orange juice to add a tropical twist.",
-      "instructions": "Add the pineapple juice and 7UP to a highball glass filled with ice. Stir to combine. Pour the grenadine down the back of a spoon into the glass, allowing it to settle at the bottom to create a layered look. Garnish with maraschino cherries.",
-      "favorite": "false",
-      "funfacts": {
-        "funfact1": "The Pineapple Sunrise is a delicious twist on the classic tequila sunrise recipe, using pineapple juice instead of orange juice, but still maintaining the classic sunrise layers.",
-        "funfact2": "This drink is known for its stunning layered appearance, achieved by carefully pouring the grenadine syrup over the top of the drink, allowing it to settle at the bottom and create a visually appealing sunrise effect.",
-        "funfact3": "No cocktail shaker is needed to make this drink, making it accessible and easy to prepare at home.",
-        "funfact4": "The Pineapple Sunrise is a great choice for summer cocktails, offering a refreshing and tropical beverage that's perfect for enjoying on the porch or at a luau."
-      }
+      "history": " The original tequila sunrise contained tequila, crème de cassis, lime juice, and soda water, and was served at the Arizona Biltmore Hotel where it was created by Gene Sulit in the 1930s or 1940s.",
+      "instructions": "Cut pineappples, juice pineapples, pour all ingredients into a glass, stir, enjoy!",
+      "favorite": "false"
     },
     {
       "id": "5",
-      "uuid": "769016f7-b895-491d-83fd-9b71022c5d89",
       "name": "Watermelon Limeade",
       "category": "Non-Alcoholic",
-      "ingredients": "4 cups cubed and peeled seedless watermelon. 1/2 cup fresh lime juice. 1 teaspoon sweet syrup. Lime wheels for garnish",
-      "image": "https://www.foodandwine.com/thmb/Y952mUEgugj7Xmw1uhqI1K9H6jo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Watermelon-Limeade-FT-RECIPE0623-e64f7037068749feba6442f1bddb4b8f.jpg",
+      "ingredients": "4 cups cubed and peeled seedless watermelon, 1/2 cup fresh lime juice, 1 teaspoon simple syrup, lime wheels for garnish",
+      "image": "https://www.goodlifeeats.com/wp-content/uploads/2012/05/cropped-sparklingwatermelonelimeade.jpg",
       "cheers": 5,
       "history": "This flavor-packed limeade is a real thirst quencher during the dog days of summer, when watermelon is at its best. Should a festive occasion arise, it also makes a wonderful margarita mixer when paired with premium white tequila.",
-      "instructions": "In a blender, add cubed watermelon and blend until pureed. You may need to smash the watermelon down with a spoon periodically until it all gets blended and smooth. Add in limeade and ice, blend until all slushie. Pour into glasses and enjoy!",
-      "favorite": "false",
-      "funfacts": {
-        "funfact1": "Watermelon Limeade is a perfect summer drink that combines the sweetness of watermelon with the tanginess of lime juice, creating a refreshing and hydrating beverage.",
-        "funfact2": "This drink is not only a great way to enjoy watermelon and lime in a drink form but also offers a delightful way to quench thirst during the hot summer months.",
-        "funfact3": "The addition of a sweet syrup or choice enhances the flavors and sweetness of the beverage, taking it to the next level for the perfect summer drink.",
-        "funfact4": "Watermelon Limeade can be made into a slushie for an extra refreshing experience, making it a perfect choice for summer sipping."
-      }
+      "instructions": null,
+      "favorite": "false"
     },
     {
       "id": "6",
-      "uuid": "18bee752-5fbb-4c4c-af64-2875bb451f49",
       "name": "Sweet Tea",
       "category": "Non-Alcoholic",
       "ingredients": "12 individual tea bags, 1 cup granulated sugar, Ice, Fresh mint leaves or lemon slices (optional)",
-      "image": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_1022/k%2Farchive%2Fa578ef028e789e8e15c61a51916dc7010c0a72ad",
+      "image": "https://perchancetocook.com/wp-content/uploads/2022/08/maple-iced-tea.jpg",
       "cheers": 5,
       "history": "The first recipe that closely resembled the sweet “iced tea” we know and love today wasn't printed until 1879. A cookbook titled, “Housekeeping in Old Virginia” shared the original recipe by Marion Cabell Tyree. Although it used green tea, this was the first recorded recipe to flavor the drink with sugar and lemon",
       "instructions": null,
@@ -104,35 +68,32 @@
     },
     {
       "id": "7",
-      "uuid": "793f67ff-3515-4e33-a0d5-9411aa519dd3",
       "name": "Margarita",
       "category": "Alcoholic",
       "ingredients": "1 ½ oz tequila, 1 oz Triple Sec or Cointreau, ¾ oz lime juice",
-      "image": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Patron-Margarita-002.jpg",
-      "cheers": 36,
+      "image": "https://www.sainsburysmagazine.co.uk/media/9438/download/Margarita.jpg?v=1",
+      "cheers": 37,
       "history": "One of the earliest stories is of the margarita being invented in 1938 by Carlos Danny Herrera at his restaurant Rancho La Gloria, halfway between Tijuana and Rosarito, Baja California, created for customer and former Ziegfeld dancer Marjorie King, who was allergic to many spirits, but not to tequila.",
       "instructions": null,
       "favorite": "false"
     },
     {
       "id": "8",
-      "uuid": "0a26b057-5fce-47fd-b26e-2edb1cdc449d",
       "name": "Moscow Mule",
       "category": "Alcoholic",
       "ingredients": "2 oz vodka, 4 oz ginger beer, ½ oz lime juice",
-      "image": "https://www.acouplecooks.com/wp-content/uploads/2019/06/Moscow-Mule-062.jpg",
-      "cheers": 28,
+      "image": "https://preppykitchen.com/wp-content/uploads/2020/12/Moscow-Mule-Featrue.jpg",
+      "cheers": 31,
       "history": "The Moscow Mule was born on that day in 1941. The perfect combination of vodka and ginger beer, housed in a solid copper mug that kept the drink cold and enhanced its flavor and aroma, resulting in a cocktail that America would fawn over for the next century and beyond.",
       "instructions": null,
       "favorite": "false"
     },
     {
       "id": "9",
-      "uuid": "08cf6620-a790-4a64-b2be-70ff209a2ec8",
       "name": "Oreo Milkshake",
       "category": "Non-Alcoholic",
       "ingredients": "6 chocolate sandwich cookies (such as Oreo®), 3 scoops vanilla ice cream, ¾ cup milk",
-      "image": "https://www.allrecipes.com/thmb/LoXJbnPLMX-Agcb5OC1unM28J_s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2028980-7f016ddf84fa453fbd3161e4e277028c.jpg",
+      "image": "https://houseofnasheats.com/wp-content/uploads/2023/01/Oreo-Milkshake-10-scaled.jpg",
       "cheers": 6,
       "history": null,
       "instructions": null,
@@ -140,7 +101,6 @@
     },
     {
       "id": "10",
-      "uuid": "6cc56396-6039-4582-9a3a-9a57422b4fa7",
       "name": "Mocha Latte",
       "category": "Non-Alcoholic",
       "ingredients": "3 ounces espresso, or ½ cup strong coffee, 6 ounces whole milk, or milk of choice, 2 Tablespoons chocolate syrup",
@@ -152,7 +112,6 @@
     },
     {
       "id": "11",
-      "uuid": "89a56841-d2f3-412d-9f19-9607ba2ae8c9",
       "name": "Masala Chai",
       "category": "Non-Alcoholic",
       "ingredients": "1 whole cinnamon stick, 6-8 green cardamom pods, 1 tsp whole black peppercorns, 3-4 whole cloves, 2 ½ cups water, 2 Tbsp grated ginger, 3 Tbsp loose leaf black tea",
@@ -164,11 +123,10 @@
     },
     {
       "id": "12",
-      "uuid": "91586fa5-4d51-4cc3-94a7-ee9667d93d0a",
       "name": "Cosmopolitan Cocktail",
       "category": "Alcoholic",
       "ingredients": "1 ounce vodka or citron vodka, 1 ounce 100% cranberry juice (unsweetened), ½ ounce Cointreau, ½ ounce fresh lime juice, 1 teaspoon simple syrup, garnish: lime wheel",
-      "image": "https://www.acouplecooks.com/wp-content/uploads/2019/12/Cosmopolitan-Cocktail-006.jpg",
+      "image": "https://foodandsun.com/wp-content/uploads/2020/07/Cosmopolitan.jpeg",
       "cheers": 10,
       "history": "The origin of the cosmopolitan is disputed. with some histories tracing it from the gay community in 1970s Provincetown, moving west to Cleveland and Minneapolis, and landing in San Francisco. From there, it moved back east, with the contemporary recipe being mixed in 1989 in New York City.",
       "instructions": null,
@@ -176,35 +134,32 @@
     },
     {
       "id": "13",
-      "uuid": "a79bc48b-4f4a-4463-ab9b-b38d3685e0d4",
       "name": "Gimlet",
       "category": "Alcoholic",
       "ingredients": "2 ounces gin, ½ ounce lime juice, ½ ounce simple syrup or pure maple syrup, Splash of soda water (optional)",
-      "image": "https://www.acouplecooks.com/wp-content/uploads/2019/05/Gimlet-002.jpg",
-      "cheers": 29,
+      "image": "https://www.liqculture.com/wp-content/uploads/2018/12/IMG_3979.jpg",
+      "cheers": 40,
       "history": "It may be named after the tool for drilling small holes (alluding to its (piercing) effect on the drinker) or after the surgeon Rear-Admiral Sir Thomas Gimlette (1857–1943), who is said to have first added lime cordial to gin to help combat the ravages of scurvy on long voyages.",
-      "instructions": null,
-      "favorite": "true"
+      "instructions": "Add the gin, lime juice and simple syrup to a shaker with ice and shake until well-chilled., Strain into a chilled cocktail glass or an rocks glass filled with fresh ice., Garnish with a lime wheel.",
+      "favorite": "false"
     },
     {
       "id": "14",
-      "uuid": "8c825087-6b48-4505-ab1e-9f26af6f2122",
       "name": "Berry Delicious Smoothie",
       "category": "Non-Alcoholic",
       "ingredients": "2 cups frozen mixed berries, 1 cup strawberry flavored yogurt, 1 banana, sliced, 1 cup milk, ½ teaspoon white sugar (Optional)",
       "image": "https://www.allrecipes.com/thmb/CJSeVzY-if0UVYd3wU5VnWg391g=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2275869-f5c32aaf246a44e18ecf5dd602005713.jpg",
-      "cheers": 4,
+      "cheers": 5,
       "history": null,
       "instructions": null,
       "favorite": "false"
     },
     {
       "id": "15",
-      "uuid": "42b5165b-0931-45e8-a2d4-d35162bbe379",
       "name": "Butterbeer",
       "category": "Non-Alcoholic",
       "ingredients": "1/2 cup heavy cream (for the top), 1/4 teaspoon ground cinnamon or pumpkin pie spice, 1 pinch salt, 2 tablespoons butterscotch topping, 1 to 2 teaspoons lemon juice, 6 (12 ounce) bottles cream soda",
-      "image": "https://www.allrecipes.com/thmb/PEaOc-W6sgYDhpmaIIULWKlLywY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/219139-butterbeer-R0300-4x3-3bdeffd9643c4518b3e2331688754725.jpg",
+      "image": "https://therecipecritic.com/wp-content/uploads/2022/09/Butterbeer.jpg",
       "cheers": 11,
       "history": "Butterbeer may be based on Buttered Beer, which was a real drink. The earliest reference to Buttered Beer is from, 'The Good Huswifes Handmaide for the Kitchin' published in London in 1588 A.D., made from beer, sugar, eggs, nutmeg, cloves and butter back in Tudor times.",
       "instructions": null,
@@ -212,7 +167,6 @@
     },
     {
       "id": "16",
-      "uuid": "df197afe-c4ca-451f-9615-88d356fb91bb",
       "name": "Breakfast Banana Blueberry Smoothie",
       "category": "Smoothie",
       "ingredients": "1 very ripe banana broken into chunks, 1 cup frozen blueberries, ½ to 1 cup unsweetened plain or vanilla dairy-free milk beverage, ½ cup fresh or frozen baby spinach leaves (optional but do try!), 1 tablespoon ground flaxseed, ¼ to ½ teaspoon ground cinnamon to taste (optional), ½ cup ice (optional), Honey or agave nectar or stevia to taste (optional)",
@@ -224,7 +178,6 @@
     },
     {
       "id": "17",
-      "uuid": "f9ec0a4f-94ed-43da-984f-20c7153206a9",
       "name": "Basic Dairy-Free Hot Cocoa with Gingerbread, Aztec, and Nutty Variations",
       "category": "Non-Alcoholic",
       "ingredients": "1 to 2 tablespoons cocoa powder to taste, 2 tablespoons sugar (can sub your sweetener of choice) or to taste, Pinch salt, Boiling water to fill your mug (about 1 to 1½ cups)",
@@ -236,7 +189,6 @@
     },
     {
       "id": "18",
-      "uuid": "c828261b-c40f-4442-82f3-087e8c2ca005",
       "name": "Dairy-Free Coquito",
       "category": "Non-Alcoholic",
       "ingredients": "14 ounces dairy-free sweetened condensed milk, 1 (15-ounce) can cream of coconut (I used Coco Lopez), 1 (13.5-ounce) can coconut milk (regular full fat), ¾ teaspoon ground cinnamon to taste plus additional for garnish (optional - I forgot in my photos), ½ teaspoon vanilla extract, ¼ teaspoon ground nutmeg, 1½ cups dark rum or to taste, ½ to 1 cup unsweetened dairy-free milk beverage",
@@ -248,7 +200,6 @@
     },
     {
       "id": "19",
-      "uuid": "33d729e9-0fc3-4885-b7f3-515fbebd3840",
       "name": "Spanish Latte",
       "category": "Coffee",
       "ingredients": "1 cup strong brewed coffee, 1 tablespoon dairy-free chocolate syrup, 1 teaspoon orange zest (can sub ½ teaspoon orange extract), ¼ teaspoon ground cinnamon, ⅔ cup dairy-free chocolate milk beverage beverage (like Almond Breeze), Dairy-free whipped topping optional",
@@ -260,7 +211,6 @@
     },
     {
       "id": "20",
-      "uuid": "a7502197-cae9-4e78-bd93-1793222b737b",
       "name": "Super C Strawberry Smoothie",
       "category": "Smoothie",
       "ingredients": "1 medium very ripe banana broken into chunks - fresh or frozen, 1 cup sliced ripe strawberries - fresh or frozen, ½ cup orange juice (fresh-squeezed if possible), 1 serving dairy-free probiotic powder (optional), ½ cup ice (optional)",
@@ -272,7 +222,6 @@
     },
     {
       "id": "21",
-      "uuid": "7799c63e-bce5-4c4a-ad14-5702b4279c76",
       "name": "Dairy-Free Mexican Horchata",
       "category": "Non-Alcoholic",
       "ingredients": "½ cup long grain white rice, 1 cup blanched or peeled almonds (see Almond Note below), 1 cinnamon stick or ½ teaspoon ground cinnamon, 4 cups water (divided), ¼ to ⅓ cup sugar or honey or agave nectar to taste, ½ teaspoon vanilla extract, 4 lime wedges",
@@ -284,19 +233,17 @@
     },
     {
       "id": "22",
-      "uuid": "a07f264c-694c-47cb-ad25-5d30855e4215",
       "name": "Dairy-Free Pumpkin Spice Latte (Starbucks Copycat!)",
       "category": "Coffee",
       "ingredients": "1 cup water, 1 cup sugar, 1 teaspoon vanilla extract",
       "image": "https://www.godairyfree.org/wp-content/uploads/2018/10/Pumpkin-Spice-Latte-online-writing1.jpg",
-      "cheers": 8,
+      "cheers": 38,
       "history": null,
       "instructions": null,
       "favorite": "false"
     },
     {
       "id": "23",
-      "uuid": "9ac1f817-0c79-403b-b6c3-5d4bd1419818",
       "name": "Everyday Turmeric Smoothie",
       "category": "Smoothie",
       "ingredients": "1 frozen ripe banana broken into chunks (can sub ¾ cup frozen mango chunks), ½ to 1 cup dairy-free unsweetened coconut milk beverage, 2 tablespoons full-fat coconut milk, ¼ to ½ teaspoon vanilla extract, ½ teaspoon ground turmeric, ⅛ teaspoon ground ginger, ⅛ teaspoon ground cinnamon, Pinch salt, Pinch black pepper, 3 to 5 drops pure stevia or your favorite sweetener to taste",
@@ -308,7 +255,6 @@
     },
     {
       "id": "24",
-      "uuid": "25797972-9a25-41f9-978f-c597e2a13bb2",
       "name": "Warm Carob Milk (with Spiced Option)",
       "category": "Non-Alcoholic",
       "ingredients": "2 cups unsweetened almond milk beverage, 2 tablespoons carob powder, 2 tablespoons maple syrup (or your liquid sweetener of choice), ½ tablespoon vanilla extract, ¼ teaspoon ground cinnamon (optional), Dash ground ginger or cloves (optional), Pinch salt",
@@ -320,7 +266,6 @@
     },
     {
       "id": "25",
-      "uuid": "69eef02f-1b8c-49d9-8a5f-6bd0d7d71c21",
       "name": "Dairy-Free Mighty Molasses Milk (Hot or Cold)",
       "category": "Non-Alcoholic",
       "ingredients": "1 cup Silk Unsweetened Almond Milk Beverage (or coconut milk beverage for nut-free), 1 tablespoon blackstrap molasses, ¼ to ½ teaspoon pure vanilla extract or flavoring, 3 to 5 drops pure stevia extract, Pinch salt",
@@ -332,7 +277,6 @@
     },
     {
       "id": "26",
-      "uuid": "02a44cac-14b7-41fe-ab91-6ec395c51dba",
       "name": "Dairy-Free Strawberry Oatmeal Smoothie",
       "category": "Smoothie",
       "ingredients": "½ cup oats (rolled or quick; certified gluten-free if needed), 14 strawberries (if using frozen use fresh banana), 1 frozen banana, 1 cup unsweetened dairy-free milk alternative, 1½ teaspoons sugar or honey or agave nectar, ½ teaspoon vanilla extract",
@@ -344,7 +288,6 @@
     },
     {
       "id": "27",
-      "uuid": "6978a53e-435d-42cb-b2f7-9f08c7c82233",
       "name": "Dairy-Free Strawberry Watermelon Slushie",
       "category": "Non-Alcoholic",
       "ingredients": "2 cups (or about 12 ounces) seedless watermelon balls, ¾ to 1 cup strawberries (fresh or frozen), 1 to 2 teaspoons fresh lime juice, to taste, 1 tablespoon agave nectar, honey, or sugar (or to taste), Ice, as needed",
@@ -356,7 +299,6 @@
     },
     {
       "id": "28",
-      "uuid": "7f78eadb-6d4a-4165-a4ec-ed863170f63e",
       "name": "Dairy-Free Strawberry Julius",
       "category": "Smoothie",
       "ingredients": "2 cups strawberries, hulled and halved, 2 cups ice, ½ cup water (can sub unsweetened milk alternative), 3 tablespoons honey or agave nectar (can sub sugar), ½ teaspoon vanilla extract, Pinch salt (optional), 1½ tablespoons plain egg protein powder",
@@ -368,7 +310,6 @@
     },
     {
       "id": "29",
-      "uuid": "bd76a9b1-bb1d-4aed-9f49-9dca5f75eafb",
       "name": "Dairy-Free Chocolate Float",
       "category": "Non-Alcoholic",
       "ingredients": "3 tablespoons dairy-free chocolate syrup (like Hershey's), ½ cup unsweetened dairy-free milk alternative, Seltzer water or soda water, as needed, 1 scoop dairy-free vanilla ice cream, Dairy-free whipped topping (optional; homemade or dairy-free)",
@@ -380,7 +321,6 @@
     },
     {
       "id": "30",
-      "uuid": "6cce0be0-918a-4e1e-9bcd-6e4e1b53b650",
       "name": "Dairy-Free Berry Mint Smoothies",
       "category": "Smoothie",
       "ingredients": "1 cup mixed berries (fresh or frozen), 1 cup unsweetened dairy-free milk alternative (Stephanie uses So Delicious Coconut), Handful fresh parsley, 3 to 4 sprigs fresh mint, plus sprigs for garnish, 1 tablespoon dairy-free protein powder (plain or vanilla), Sweetener, to taste (optional), Ice (optional)",
@@ -392,7 +332,6 @@
     },
     {
       "id": "31",
-      "uuid": "4b8cce98-6c1e-44cc-988c-0b1defd4af9a",
       "name": "Dairy-Free Banana Orange Strawberry Smoothie",
       "category": "Smoothie",
       "ingredients": "1 medium banana, ½ medium orange, peeled and sectioned, 6 large strawberries, hulled, ¼ cup blueberries (optional), ¼ cup dairy-free milk beverage, Ice (optional)",
@@ -404,7 +343,6 @@
     },
     {
       "id": "32",
-      "uuid": "e272c78c-5fea-4d1a-82d3-9bf73bb42b31",
       "name": "Dairy-Free Tigernut Milk",
       "category": "Non-Alcoholic",
       "ingredients": "1 cup whole peeled tiger nuts, 4 cups water, plus additional for soaking",
@@ -416,7 +354,6 @@
     },
     {
       "id": "33",
-      "uuid": "2f1afcae-21db-4808-9b44-8b3f6969469f",
       "name": "Simply Almond Milk (Homemade Copycat)",
       "category": "Non-Alcoholic",
       "ingredients": "4 cups water, 2½ to 3 tablespoons creamy almond butter (see Almond Butter Note below), ⅛ teaspoon salt (omit if using salted almond butter)",
@@ -428,7 +365,6 @@
     },
     {
       "id": "34",
-      "uuid": "571340b4-666f-41a8-bd72-145634e1c5c7",
       "name": "Dairy-Free Blueberry Banana Pear Smoothie",
       "category": "Smoothie",
       "ingredients": "1½ cups blueberries, 2 pears, cored and cut into quarters, 2 bananas, fresh or frozen, 1 cup plain or vanilla dairy-free milk beverage, ¼ teaspoon ground cinnamon",
@@ -439,20 +375,7 @@
       "favorite": "false"
     },
     {
-      "id": "35",
-      "uuid": "5c8003fa-8cc6-4ce9-b78d-4afe78685b54",
-      "name": "Dairy-Free Tropical Milkshakes",
-      "category": "Non-Alcoholic",
-      "ingredients": "2 tablespoons chopped raw cashews, 2 tablespoons unsweetened coconut flakes, 1 ripe frozen banana, broken into chunks, 1 kiwi, peeled and coarsely chopped, 1 cup chopped mango, 1 cup chopped pineapple, 1 cup unsweetened coconut milk beverage, 1 cup dairy-free vanilla bean coconut milk ice cream, ½ cup light coconut whipped topping (optional, for garnish), 4 cherries (optional, for garnish), 1 teaspoon rainbow sprinkles (optional, for garnish)",
-      "image": "https://www.godairyfree.org/wp-content/uploads/2022/09/Tropical-Banana-Split-Milkshake-online-vert.jpg",
-      "cheers": 8,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
-    },
-    {
       "id": "36",
-      "uuid": "ea8152fa-07ec-4889-84a0-b7289d2f3345",
       "name": "Dairy-Free Pineapple Coconut Smoothie",
       "category": "Drinks",
       "ingredients": "1 cup frozen pineapple, ½ cup plain unsweetened coconut milk beverage or light canned coconut milk, ½ cup pineapple juice or orange juice, ½ cup ice, 2 tablespoons agave nectar or sugar, or to taste",
@@ -464,31 +387,28 @@
     },
     {
       "id": "37",
-      "uuid": "0fbe7604-523c-403b-bf7a-64cca6c2d9fa",
       "name": "Dairy-Free Root Beer Ice Cream",
       "category": "Dessert",
       "ingredients": "1 cup vanilla dairy-free milk beverage, 1½ tablespoons arrowroot starch (can sub cornstarch), 1 cup root beer (NOT diet), ½ cup sugar, ¼ teaspoon salt, 1 tablespoon root beer extract",
       "image": "https://www.godairyfree.org/wp-content/uploads/2009/07/pics-root-beer-ice-cream-vert.jpg",
-      "cheers": 20,
+      "cheers": 21,
       "history": null,
       "instructions": null,
       "favorite": "false"
     },
     {
       "id": "38",
-      "uuid": "8b8416bb-5aa1-4ae6-88f9-bd1ec43c02f2",
       "name": "Strawberry Watermelon Smoothie",
       "category": "Smoothie",
       "ingredients": "3 cups diced watermelon, seeds removed, ½ cup plain dairy-free yogurt, 8 to 10 frozen strawberries",
       "image": "https://www.godairyfree.org/wp-content/uploads/2007/06/pics-Watermelon-Strawberry-smoothie-vert.jpg",
-      "cheers": 19,
+      "cheers": 23,
       "history": null,
       "instructions": null,
       "favorite": "false"
     },
     {
       "id": "39",
-      "uuid": "d8695ca9-9404-4b89-b4c5-248107884f90",
       "name": "Dairy-Free Carrot Cake Milkshakes",
       "category": "Dessert",
       "ingredients": "1 large ripe banana, peeled, sliced, and frozen, 1 pint vanilla dairy-free ice cream, 1 cup carrot juice, ¾ cup vanilla dairy-free milk beverage, ½ cup plain or vanilla dairy-free creamer, 2 graham crackers, crumbled (gluten-free, if needed), ¼ cup crushed pineapple, 3 tablespoons dairy-free cream cheese alternative, 2 tablespoons frozen raisins (optional), ¼ teaspoon ground cinnamon, or to taste, Pinch ground nutmeg, Pinch ground ginger, 4 to 5 ice cubes, Dairy-free whipped cream",
@@ -500,19 +420,17 @@
     },
     {
       "id": "40",
-      "uuid": "23f05177-4656-4b43-83ea-c71f5368aca5",
       "name": "Dairy-Free Kale Fruit Smoothie",
       "category": "Smoothie",
       "ingredients": "1 cup diced pineapple, 1 kiwi fruit peeled and sliced, 1 pear peeled and diced, 2 cups baby kale, 1 cup crushed ice, 1 cup unsweetened dairy-free milk beverage, or as needed",
       "image": "https://www.godairyfree.org/wp-content/uploads/2013/04/pics-kale-smoothie-vert.jpg",
-      "cheers": 18,
+      "cheers": 38,
       "history": null,
       "instructions": null,
-      "favorite": "false"
+      "favorite": "true"
     },
     {
       "id": "41",
-      "uuid": "a7ba8be9-cb98-4b83-814c-e6c29ce9be11",
       "name": "Dairy-Free Chocolate Peanut Butter Smoothie",
       "category": "Smoothie",
       "ingredients": "1 medium very ripe banana, sliced and frozen, ¾ cup dairy-free chocolate milk beverage, 1 to 2 tablespoons creamy peanut butter, to taste, 2 to 3 teaspoons cocoa powder, to taste, ½ cup ice",
@@ -524,7 +442,6 @@
     },
     {
       "id": "42",
-      "uuid": "66188a5f-4da8-43d5-bbd6-e80163ee51b1",
       "name": "Dairy-Free Basic Green Smoothie",
       "category": "Smoothie",
       "ingredients": "2 cups spinach leaves, 1 cup dairy-free vanilla milk beverage, 2 tablespoons dairy-free vanilla yogurt, 1 frozen banana, 1 teaspoon flaxseed meal (optional)",
@@ -536,7 +453,6 @@
     },
     {
       "id": "43",
-      "uuid": "27034970-6940-4506-a91f-1c1b24d87b32",
       "name": "Apricot Slushie Recipe",
       "category": "Non-Alcoholic",
       "ingredients": "4 to 5 pitted ripe fresh apricots, ⅓ cup water, 3 small pieces crystalized ginger, Sweetener, 1 cup ice",
@@ -548,19 +464,17 @@
     },
     {
       "id": "44",
-      "uuid": "0ccd0a3b-25da-4b5f-8277-fac054325a96",
       "name": "Bahama Mama Cocktail",
       "category": "Alcoholic",
       "ingredients": "1½ ounces coconut rum, 1 ounce triple sec, 4 ounces orange juice, 4 ounces pineapple juice, ½ ounce grenadine, Ice",
       "image": "https://www.godairyfree.org/wp-content/uploads/2022/07/pics-bahama-mama.jpg",
-      "cheers": 4,
+      "cheers": 44,
       "history": null,
       "instructions": null,
       "favorite": "false"
     },
     {
       "id": "45",
-      "uuid": "888fcc3a-cbf4-41a0-aa8e-943af16034c2",
       "name": "Basic Dairy-Free Mochi (Chi Chi Dango)",
       "category": "Non-Alcoholic",
       "ingredients": "1 pound mochiko (sweet rice flour), 2¼ cups sugar, 1½ teaspoons baking powder, 1 (13.5-ounce) can coconut milk, 1½ cups water, 1 teaspoon vanilla extract, Few drops natural food color (optional), Potato starch or cornstarch, for rolling",
@@ -572,7 +486,6 @@
     },
     {
       "id": "46",
-      "uuid": "6fcacdbe-ebb9-4c08-a343-a1aad3ef3d7e",
       "name": "Dairy-Free Strawberry Julius",
       "category": "Non-Alcoholic",
       "ingredients": "2 cups strawberries, hulled and halved, 2 cups ice, ½ cup water, 3 tablespoons honey or agave nectar, ½ teaspoon vanilla extract, Pinch salt (optional), 1½ tablespoons plain egg protein powder",
@@ -584,7 +497,6 @@
     },
     {
       "id": "47",
-      "uuid": "53d7cf87-0861-4fd8-bd06-d54736b15154",
       "name": "Dairy-Free Chocolate Float",
       "category": "Non-Alcoholic",
       "ingredients": "3 tablespoons dairy-free chocolate syrup, ½ cup unsweetened dairy-free milk alternative, Seltzer water or soda water, 1 scoop dairy-free vanilla ice cream, Dairy-free whipped topping (optional)",
@@ -596,7 +508,6 @@
     },
     {
       "id": "48",
-      "uuid": "b0daad72-2fc6-44bc-bf8d-2e1879d1355b",
       "name": "Dairy-Free Berry Mint Smoothies",
       "category": "Smoothie",
       "ingredients": "1 cup mixed berries, 1 cup unsweetened dairy-free milk alternative, Handful fresh parsley, 3 to 4 sprigs fresh mint, 1 tablespoon dairy-free protein powder, Sweetener, Ice (optional)",
@@ -608,7 +519,6 @@
     },
     {
       "id": "49",
-      "uuid": "28e734a9-3887-44ae-bed4-ab458dd4e4d4",
       "name": "Dairy-Free Banana Orange Strawberry Smoothie",
       "category": "Smoothie",
       "ingredients": "1 medium banana, ½ medium orange, peeled and sectioned, 6 large strawberries, hulled, ¼ cup blueberries (optional), ¼ cup dairy-free milk beverage, Ice (optional)",
@@ -620,7 +530,6 @@
     },
     {
       "id": "50",
-      "uuid": "dfa06aae-945e-42ed-8e84-87aacf0d7fcb",
       "name": "Dairy-Free Tigernut Milk",
       "category": "Non-Alcoholic",
       "ingredients": "1 cup whole peeled tiger nuts, 4 cups water, plus additional for soaking",
@@ -632,7 +541,6 @@
     },
     {
       "id": "51",
-      "uuid": "3e07ea1f-298c-467c-902c-baac466e6114",
       "name": "Simply Almond Milk (Homemade Copycat)",
       "category": "Non-Alcoholic",
       "ingredients": "4 cups water, 2½ to 3 tablespoons creamy almond butter, ⅛ teaspoon salt (omit if using salted almond butter)",
@@ -644,7 +552,6 @@
     },
     {
       "id": "52",
-      "uuid": "ff066ff6-8d83-49a9-a93b-5f80f360a829",
       "name": "Dairy-Free Blueberry Banana Pear Smoothie",
       "category": "Smoothie",
       "ingredients": "1½ cups blueberries, 2 pears, cored and cut into quarters, 2 bananas, fresh or frozen, 1 cup plain or vanilla dairy-free milk beverage, ¼ teaspoon ground cinnamon",
@@ -656,7 +563,6 @@
     },
     {
       "id": "53",
-      "uuid": "77405bf7-e7c9-4eef-aeac-3cbc62fba350",
       "name": "Dairy-Free Tropical Milkshakes",
       "category": "Non-Alcoholic",
       "ingredients": "2 tablespoons chopped raw cashews, 2 tablespoons unsweetened coconut flakes, 1 ripe frozen banana, 1 kiwi, peeled and coarsely chopped, 1 cup chopped mango, 1 cup chopped pineapple, 1 cup unsweetened coconut milk beverage, 1 cup dairy-free vanilla bean coconut milk ice cream, ½ cup light coconut whipped topping (optional), 4 cherries (optional), 1 teaspoon rainbow sprinkles (optional)",
@@ -668,31 +574,28 @@
     },
     {
       "id": "54",
-      "uuid": "056a3a4c-1b7a-4a3d-8d1e-e182b1b63d1b",
       "name": "Dairy-Free Pineapple Coconut Smoothie",
       "category": "Smoothie",
       "ingredients": "1 cup frozen pineapple, ½ cup plain unsweetened coconut milk beverage or light canned coconut milk, ½ cup pineapple juice or orange juice, ½ cup ice, 2 tablespoons agave nectar or sugar",
       "image": "https://www.godairyfree.org/wp-content/uploads/2013/04/pics-pineapple-coconut-smoothie-vert.jpg",
-      "cheers": 11,
+      "cheers": 9,
       "history": null,
       "instructions": null,
       "favorite": "false"
     },
     {
       "id": "55",
-      "uuid": "31cfd2db-2f19-4d05-8685-8cedbfcf4b55",
       "name": "Dairy-Free Root Beer Ice Cream",
       "category": "Non-Alcoholic",
       "ingredients": "1 cup vanilla dairy-free milk beverage, 1½ tablespoons arrowroot starch, 1 cup root beer, ½ cup sugar, ¼ teaspoon salt, 1 tablespoon root beer extract",
       "image": "https://www.godairyfree.org/wp-content/uploads/2009/07/pics-root-beer-ice-cream-vert.jpg",
-      "cheers": 10,
+      "cheers": 8,
       "history": null,
       "instructions": null,
       "favorite": "false"
     },
     {
       "id": "56",
-      "uuid": "f08b0efd-4d3f-48b9-a787-f8133e043644",
       "name": "Strawberry Watermelon Smoothie",
       "category": "Smoothie",
       "ingredients": "3 cups diced watermelon, seeds removed, ½ cup plain dairy-free yogurt, 8 to 10 frozen strawberries",
@@ -700,222 +603,6 @@
       "cheers": 12,
       "history": null,
       "instructions": null,
-      "favorite": "false"
-    },
-    {
-      "id": "57",
-      "uuid": "6a01ffe2-f169-4c8e-b1dd-7cd02a41952a",
-      "name": "Dalgona coffee",
-      "category": "Coffee",
-      "ingredients": "3 tbsp instant coffee, 2 tbsp sugar, 400-500ml milk (we used whole milk)",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dalgona-coffee-ddfc357.jpg?quality=90&resize=440,400",
-      "cheers": 48,
-      "history": "",
-      "instructions": "Whisk the coffee sugar and 3 tbsp boiling water in a bowl for approximately 5 mins until the mixture is thick and fluffy with stiff peaks, This is easiest done using an electric whisk but can be done by hand, For hot coffee heat the milk and pour into two heatproof glasses, For cold coffee pour the cold milk into two glasses, Divide the coffee mixture in half and spoon evenly on top of the glasses, Serve and stir thoroughly before drinking",
-      "favorite": "false"
-    },
-    {
-      "id": "58",
-      "uuid": "b2a63b5c-3c94-44c8-bbe4-6323cc32e597",
-      "name": "Iced latte",
-      "category": "Coffee",
-      "ingredients": "2 espresso shots (60ml), 2 tsp sugar, honey or maple syrup (to taste), ice, 100ml whole milk",
-      "image": null,
-      "cheers": 21,
-      "history": "",
-      "instructions": "Mix the hot espresso with the sugar until it dissolves, Fill a glass with ice and stir in the sweetened coffee, Pour over the milk and stir until combined",
-      "favorite": "false"
-    },
-    {
-      "id": "59",
-      "uuid": "1f2453ea-6152-4c56-a15d-d6e4588ad332",
-      "name": "Cortado",
-      "category": "Coffee",
-      "ingredients": "40ml espresso, 40ml steamed milk (heat to 55-65C)",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Cortada-2e01077.png?quality=90&resize=556,505",
-      "cheers": 2,
-      "history": "",
-      "instructions": "Pour the espresso into a 4-6oz heatproof glass or cup, Pour over the steamed milk, Finish with a little bit of foam on top (around the thickness of a finger)",
-      "favorite": "false"
-    },
-    {
-      "id": "60",
-      "uuid": "372a0166-932d-46b2-b9a5-ac6bdba8316e",
-      "name": "Iced caramel macchiato",
-      "category": "Coffee",
-      "ingredients": "two handfuls of  ice, 250ml  milk, 2 tbsp  vanilla syrup, 2 shots  espresso or 50ml strong coffee, 2 tbsp  caramel sauce",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/04/Iced-Caramel-Macchiato-f4a10f9.jpg?quality=90&resize=556,505",
-      "cheers": 2,
-      "history": "",
-      "instructions": "Fill two tall glasses with ice and divide the milk and vanilla syrup between them before mixing well, Pour an espresso shot into each glass then drizzle with the caramel sauce before serving",
-      "favorite": "false"
-    },
-    {
-      "id": "61",
-      "uuid": "3ea3de98-1545-46f4-9301-c216a312c158",
-      "name": "Pumpkin spice latte",
-      "category": "Coffee",
-      "ingredients": "2 tsp pumpkin purée, pinch of ground cinnamon, plus extra to serve (or use pumpkin spice), pinch of ground ginger, pinch of ground nutmeg, 30ml  espresso  or strong coffee, 250ml  milk (any will work)",
-      "image": null,
-      "cheers": 11,
-      "history": "",
-      "instructions": "Put the pumpkin purée in a large heatproof glass or mug, Stir in the spices and espresso or strong coffee, Heat the milk in a saucepan over a low heat until steaming and frothy, Pour into the glass or mug and spoon over any froth, Stir to combine then dust with more cinnamon or some pumpkin spice before serving",
-      "favorite": "false"
-    },
-    {
-      "id": "62",
-      "uuid": "5f21e06b-5106-409c-b870-dee3caa9c82f",
-      "name": "Cafe au lait",
-      "category": "Coffee",
-      "ingredients": "115ml strong coffee (such as espresso), 115ml steamed milk",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Cafe-au-lait-259a97b.png?quality=90&resize=556,505",
-      "cheers": 3,
-      "history": "",
-      "instructions": "Pour the hot coffee into a large mug (the mug will need to hold 130ml plus a little foam) Pour over the steamed milk and top with a little of the foam if you like",
-      "favorite": "false"
-    },
-    {
-      "id": "63",
-      "uuid": "c23d3890-c9a5-4ab6-9f89-d0e68817d8cf",
-      "name": "Iced mocha",
-      "category": "Coffee",
-      "ingredients": "150ml milk, 25g milk or dark chocolate buttons, ice, 35ml  freshly made espresso, 30ml double cream, whipped (optional), pinch  cocoa powder or cinnamon, or both (optional)",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/05/Iced-Mocha-db3c51a.jpg?quality=90&resize=556,505",
-      "cheers": 1,
-      "history": "",
-      "instructions": "Pour 50ml of the milk into a small pan and add the chocolate buttons, Mix well until melted then leave to cool, Half-fill a large tall glass with ice then pour in the cooled chocolate milk and the remaining 100ml milk and stir to combine, Top up with more ice then slowly pour in the espresso, Finish with a dollop of whipped cream and a dusting of cocoa powder or cinnamon – or both if you like",
-      "favorite": "false"
-    },
-    {
-      "id": "64",
-      "uuid": "c8a60513-d518-48a4-a2fd-2d90e20d9e90",
-      "name": "Espresso martini",
-      "category": "Coffee",
-      "ingredients": "100g golden caster sugar, ice, 100ml vodka, 50ml freshly brewed espresso coffee, 50ml coffee liqueur, 4 coffee beans (optional)",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/espresso-martini-f099531.jpg?quality=90&resize=440,400",
-      "cheers": 48,
-      "history": "",
-      "instructions": "Start by making the sugar syrup, Put the caster sugar in a small pan over a medium heat and pour in 50ml water, Stir and bring to the boil, Turn off the heat and allow the mixture to cool, Put 2 martini glasses in the fridge to chill, Once the sugar syrup is cold pour 1 tbsp into a cocktail shaker along with a handful of ice the vodka espresso and coffee liqueur, Shake until the outside of the cocktail shaker feels icy cold, Strain into the chilled glasses, Garnish each one with coffee beans if you like",
-      "favorite": "false"
-    },
-    {
-      "id": "65",
-      "uuid": "9df6c89b-62a8-4647-837c-4433bc682142",
-      "name": "Cold brew coffee",
-      "category": "Coffee",
-      "ingredients": "50g ground coffee (use coarsely ground for cafetières), ice, sparkling water or still water to dilute",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cold-brew-e08dbfa.jpg?quality=90&resize=440,400",
-      "cheers": 13,
-      "history": "",
-      "instructions": "Put 400ml cold water into a large jug or jar and add the coffee grounds but do not stir the mixture, Cover and leave to steep for 24 hrs, Gently stir the mixture then pour it through a funnel or sieve lined with coffee filter paper (or a sheet of kitchen paper) into another large jug, This concentrate will keep in the fridge for 2-3 days, To serve dilute 1 part cold brew with 2 parts still or sparkling water (or to your taste) and serve with lots of ice",
-      "favorite": "false"
-    },
-    {
-      "id": "66",
-      "uuid": "265efe89-dcea-49cb-b94f-3f98ef17cda5",
-      "name": "Iced coffee",
-      "category": "Coffee",
-      "ingredients": "200ml strong black coffee, 50ml milk, ice, maple syrup, optional",
-      "image": null,
-      "cheers": 25,
-      "history": "",
-      "instructions": "Make a 200ml cup of black coffee following pack instructions then allow the coffee to go completely cold, Pour into a blender with the milk along with 2 or 3 handfuls of ice and maple syrup if using then blend until smooth and foamy, Pour into a chilled tall glass and serve",
-      "favorite": "false"
-    },
-    {
-      "id": "67",
-      "uuid": "4b5edb97-fecf-4a89-95a3-7a0829125aa2",
-      "name": "Flat white",
-      "category": "Coffee",
-      "ingredients": "18g ground espresso, or 1 espresso pod, 100ml milk, the right cup, 150-200ml capacity",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/flat-white-d8ada0f.jpg?quality=90&resize=440,400",
-      "cheers": 4,
-      "history": "",
-      "instructions": "Make around 35ml espresso using your coffee machine and pour into the base of your cup, Steam the milk with the steamer attachment so that it has around 1-2cm of foam on top, Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily, As the volume within the cup increases bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre, Once the milk jug is almost touching the surface of the coffee tilt the jug to speed up the rate of pour, As you accelerate the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top",
-      "favorite": "false"
-    },
-    {
-      "id": "68",
-      "uuid": "9fb9527b-de1a-4aff-bde7-64d45af811a1",
-      "name": "Macchiato",
-      "category": "Coffee",
-      "ingredients": "18g ground espresso, or 1 espresso pod, 50-100ml milk (or the minimum amount your machine will work with), small cup, 50-80ml capacity",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/macchiato-027-35b22b8.jpg?quality=90&resize=440,400",
-      "cheers": 1,
-      "history": "",
-      "instructions": "Make around 35ml espresso using your coffee machine and pour into the base of your cup, Steam the milk with the steamer attachment so that it has around 1-2cm of foam on top then spoon 2-3 teaspoons of the foam on top of the espresso (discard the rest of the milk)",
-      "favorite": "false"
-    },
-    {
-      "id": "69",
-      "uuid": "bbe7cffb-fd6f-4c72-a80b-2c8f250c3528",
-      "name": "Mocha",
-      "category": "Coffee",
-      "ingredients": "18g ground espresso, or 1 espresso pod, 250ml milk, 1 tsp drinking chocolate, large cup, 300-350ml capacity",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mocha-001-8301418.jpg?quality=90&resize=440,400",
-      "cheers": 4,
-      "history": "",
-      "instructions": "Make around 35ml espresso using a coffee machine and pour into the base of your cup, Add the drinking chocolate and mix well until smooth, Steam the milk with the steamer attachment so that it has around 4-6cm of foam on top, Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily, As the volume within the cup increases bring the jug as close to the surface of the drink as possible whilst aiming into the centre, Once the milk jug is almost touching the surface of the coffee tilt to speed up the rate of pour, As you accelerate the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top",
-      "favorite": "false"
-    },
-    {
-      "id": "70",
-      "uuid": "c33b23f0-7de3-4b83-b8a3-01d9c957240e",
-      "name": "Dirty chai latte",
-      "category": "Coffee",
-      "ingredients": "1 cinnamon stick, 4 cardamom pods, 4 peppercorns, 2 cloves, 1 star anise, 2 black teabags, ½ tsp vanilla extract, pinch of freshly grated nutmeg, plus extra to serve, 250ml whole milk, 1 tsp light brown soft sugar, 60ml  freshly brewed espresso",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2023/12/Dirty-chai-latte-b5c00fc.jpg?quality=90&resize=556,505",
-      "cheers": 0,
-      "history": "",
-      "instructions": "Toast the spices in a dry frying pan over a low heat until fragrant then tip into a teapot with the teabags vanilla and nutmeg, Cover with 250ml boiled water and leave to steep for 3 mins, Tip the milk and brown sugar into a small pan and warm over a low heat stirring until the sugar has dissolved and the milk is simmering, Beat with a whisk or milk frother until foamy, Divide the espresso between two mugs, Strain the tea into a jug and pour this over the espresso, Slowly add the hot milk mixture holding some of the froth back with a spoon then top with the frothy milk and a sprinkle of nutmeg",
-      "favorite": "false"
-    },
-    {
-      "id": "71",
-      "uuid": "7019daa0-5c9e-4df4-8828-f4b863c60546",
-      "name": "Coffee granita",
-      "category": "Coffee",
-      "ingredients": "500ml freshly brewed, strong black coffee (we used 30g ground coffee in a cafetière and brewed for 7 mins), 80g golden caster sugar, 100ml coffee liqueur (we used Kahlúa), 1 tub mascarpone, 50g dark chocolate, grated",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/coffee-granita-7814b72.jpg?quality=90&resize=440,400",
-      "cheers": 2,
-      "history": "",
-      "instructions": "Pour the coffee into a jug and stir in the sugar until it has dissolved, Add the coffee liqueur and leave to cool completely, Once cold pour the mixture into a freezable container and put in the freezer for 1 hr, Mix it with a fork – you should start to see ice crystals forming at the edges, Return to the freezer for 20 mins then stir again, Repeat once or twice more until the granita is all clumps of ice, Serve in glasses or bowls as an elegant dessert, For a more indulgent version add a dollop of mascarpone and a grating of dark chocolate",
-      "favorite": "false"
-    },
-    {
-      "id": "72",
-      "uuid": "d2a58b6f-03e2-4aad-a761-88ca33c47c3c",
-      "name": "Cappuccino",
-      "category": "Coffee",
-      "ingredients": "18g ground espresso (or 1 espresso pod), 150ml milk, cocoa powder (optional), the right cup, 200-250ml capacity",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cappucino-32dbfba.jpg?quality=90&resize=440,400",
-      "cheers": 2,
-      "history": "",
-      "instructions": "Make around 35ml espresso using a coffee machine and pour it into the base of your cup, Steam the milk with the steamer attachment so that it has around 4-6cm of foam on top, Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily, As the volume within the cup increases bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre, Once the milk jug is almost touching the surface of the coffee tilt the jug to speed up the rate of pour, As you accelerate the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top, Dust the surface with a little cocoa powder if you like",
-      "favorite": "false"
-    },
-    {
-      "id": "73",
-      "uuid": "f0f3b708-94d4-40d1-97ae-0d7996b00bf7",
-      "name": "Espresso old fashioned",
-      "category": "Coffee",
-      "ingredients": "double shot (60ml) espresso, 50ml bourbon, 10ml brown sugar syrup, 2 dashes bitters, ice, orange zest",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/espresso-old-fashioned-33dcc82.jpg?quality=90&resize=440,400",
-      "cheers": 3,
-      "history": "",
-      "instructions": "Mix a double shot (60ml) espresso with 50ml bourbon 10ml brown sugar syrup and 2 dashes bitters in a shaker with lots of ice, Shake and strain into a short glass and garnish with a twist of orange zest",
-      "favorite": "false"
-    },
-    {
-      "id": "74",
-      "uuid": "0555d0b7-ef4b-4a5a-9225-dcae073ab343",
-      "name": "Latte",
-      "category": "Coffee",
-      "ingredients": "18g ground espresso, or 1 espresso pod, 250ml milk, large cup, 300-350ml capacity",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/latte-e2a66d3.jpg?quality=90&resize=440,400",
-      "cheers": 3,
-      "history": "",
-      "instructions": "Make around 35ml espresso using your coffee machine and pour it into the base of your cup, Steam the milk with the steamer attachment so that it has around 2-3cm of foam on top, Hold the jug so that the spout is about 3-4cm above the cup and pour the milk in steadily, As the volume within the cup increases bring the jug as close to the surface of the drink as possible whilst aiming to pour into the centre, Once the milk jug is almost touching the surface of the coffee tilt to speed up the rate of pour, As you accelerate the milk will hit the back of the cup and start naturally folding in on itself to create a pattern on the top",
       "favorite": "false"
     }
   ]
