@@ -42,7 +42,7 @@
       "cheers": 20,
       "history": " The original tequila sunrise contained tequila, crème de cassis, lime juice, and soda water, and was served at the Arizona Biltmore Hotel where it was created by Gene Sulit in the 1930s or 1940s.",
       "instructions": "Cut pineappples, juice pineapples, pour all ingredients into a glass, stir, enjoy!",
-      "favorite": "false"
+      "favorite": "true"
     },
     {
       "id": "5",
@@ -474,17 +474,6 @@
       "favorite": "false"
     },
     {
-      "id": "45",
-      "name": "Basic Dairy-Free Mochi (Chi Chi Dango)",
-      "category": "Non-Alcoholic",
-      "ingredients": "1 pound mochiko (sweet rice flour), 2¼ cups sugar, 1½ teaspoons baking powder, 1 (13.5-ounce) can coconut milk, 1½ cups water, 1 teaspoon vanilla extract, Few drops natural food color (optional), Potato starch or cornstarch, for rolling",
-      "image": "https://www.godairyfree.org/wp-content/uploads/2023/06/pics-Chi-Chi-Dango-Mochi-vert.jpg",
-      "cheers": 3,
-      "history": null,
-      "instructions": null,
-      "favorite": "false"
-    },
-    {
       "id": "46",
       "name": "Dairy-Free Strawberry Julius",
       "category": "Non-Alcoholic",
@@ -611,7 +600,7 @@
       "category": "Coffee",
       "ingredients": "2 espresso shots (60ml), 2 tsp sugar, honey or maple syrup (to taste), ice, 100ml whole milk",
       "image": "https://www.orchidsandsweettea.com/wp-content/uploads/2022/04/Caramel-Iced-Latte-4-of-6-e1680065497557.jpg",
-      "cheers": 30,
+      "cheers": 41,
       "history": null,
       "instructions": "Mix the hot espresso with the sugar until it dissolves., Fill a glass with ice and stir in the sweetened coffee., Pour over the milk and stir until combined.",
       "favorite": "false"
@@ -679,18 +668,7 @@
       "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/espresso-martini-f099531.jpg?quality=90&resize=440,400",
       "cheers": 0,
       "history": null,
-      "instructions": "STEP 1 Start by making the sugar syrup. Put the caster sugar in a small pan over a medium heat and pour in 50ml water. Stir; and bring to the boil., STEP 2 Turn off the heat and allow the mixture to cool. Put 2 martini glasses in the fridge to chill., STEP 3 Once the sugar syrup is cold; pour 1 tbsp into a cocktail shaker along with a handful of ice; the vodka; espresso and coffee liqueur. Shake until the outside of the cocktail shaker feels icy cold., STEP 4 Strain into the chilled glasses. Garnish each one with coffee beans if you like.",
-      "favorite": "false"
-    },
-    {
-      "id": "64",
-      "name": "Coffee ice cream terrine",
-      "category": "Coffee",
-      "ingredients": "300g coffee ice cream, 300g vanilla ice cream, 1 tbsp vegetable oil, for the tin, 300g dark chocolate, roughly chopped, 50g coconut oil, 50g honeycomb or Maltesers, crushed",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/coffee_terrine-3bb1ce9.jpg?quality=90&resize=440,400",
-      "cheers": 10,
-      "history": null,
-      "instructions": "STEP 1 Leave the ice creams out at room temperature for a few mins to soften slightly. Brush a 1.2-litre loaf tin with the vegetable oil and line with cling film. Put 250g dark chocolate and the coconut oil in a small heatproof bowl over a pan of just simmering water. Stir to melt; then set aside to cool., STEP 2 Spoon half the coffee ice cream into the base of the tin and level the surface. Working quickly; spread over a quarter of the chocolate sauce; then half the vanilla ice cream and another quarter of chocolate sauce., Repeat with the remaining chocolate sauce and ice creams; finishing with a layer of chocolate sauce. Cover loosely with cling film and freeze for at least 2 hrs; or ideally overnight., STEP 3 Melt the remaining 50g chocolate in a heatproof bowl over a pan of simmering water. Lift the terrine out of the tin and turn out onto a plate. Drizzle with the melted chocolate and top with the crushed honeycomb or Maltesers. Cut into thick slices to serve.",
+      "instructions": "Start by making the sugar syrup. Put the caster sugar in a small pan over a medium heat and pour in 50ml water. Stir; and bring to the boil., Turn off the heat and allow the mixture to cool., Put 2 martini glasses in the fridge to chill., Once the sugar syrup is cold pour 1 tbsp into a cocktail shaker along with a handful of ice and the and vodka espresso and coffee liqueur. Shake until the outside of the cocktail shaker feels icy cold., Strain into the chilled glasses., Garnish each one with coffee beans if you like.",
       "favorite": "false"
     },
     {
