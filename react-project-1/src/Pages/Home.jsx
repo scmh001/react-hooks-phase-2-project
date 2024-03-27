@@ -3,17 +3,17 @@ import DrinkCard from '../components/DrinkCard';
 import { useOutletContext } from 'react-router-dom';
 
 export default function Home() {
-  const [topSix, setTopSix] = useState([])
+  const [topFive, setTopFive] = useState([])
   const {allDrinks, handleAddCheers, handleUpdateFavorite} = useOutletContext();
 
 
   useEffect(() => {
-    const fetchTopSix = async () => {
+    const fetchTopFive = async () => {
       const response = await fetch('http://localhost:4000/drinks?_sort=-cheers&_limit=5');
       const data = await response.json();
-      setTopSix(data);
+      setTopFive(data);
     };
-    fetchTopSix();
+    fetchTopFive();
   }, [allDrinks]);
   
   return (
@@ -23,7 +23,7 @@ export default function Home() {
   The Top Shelf
 </h1>
       <div className="place-content-center flex justify-center">
-      {topSix.map(drink => {
+      {topFive.map(drink => {
         return (
         <DrinkCard drink={drink} handleAddCheers={handleAddCheers} handleUpdateFavorite={handleUpdateFavorite} key={drink.id} />
        

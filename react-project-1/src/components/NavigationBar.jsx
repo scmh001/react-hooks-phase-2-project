@@ -6,7 +6,7 @@ export default function NavigationBar() {
     <nav className="bg-gray-800 text-white p-4">
       <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="absolute h-15 w-10 top-8" />
       <NavLink to={'/memorygame'}>      
-      <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="absolute h-15 w-10 top-8 right-10" />
+      <img src="https://cdn-icons-png.flaticon.com/512/5821/5821067.png" alt="Placeholder" className="absolute h-15 w-10 top-8 right-10 transform hover:-translate-y-1 hover:scale-110 mb-2 hover:animate-spin"  />
       </NavLink>
       <div className="container mx-auto flex items-center justify-between">
         <NavLink to={'/'} className="text-xl font-bold">

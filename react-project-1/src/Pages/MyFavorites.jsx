@@ -23,7 +23,7 @@ export default function MyFavorites() {
         <div className="flex justify-center bg-gradient-to-r from-blue-500 to-teal-400 text-white text-2xl font-bold py-4 px-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 ease-in-out ">
               Favorites
         </div>
-        <div className="flex justify-center">
+        <div className="justify-center content-center content-between ms-12 pl-12">
         {favoriteDrinks.map(drink => {
             return (
               <DrinkCard drink={drink} handleAddCheers={handleAddCheers} handleUpdateFavorite={handleUpdateFavorite} key={drink.id} />
